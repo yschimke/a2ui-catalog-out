@@ -1,0 +1,779 @@
+{
+  "system": "a2ui-samples",
+  "title": "AndroidX A2UI samples",
+  "label": "Compose",
+  "source": {
+    "repo": "yschimke/a2ui-catalog",
+    "ref": "main",
+    "module": ":samples-catalog"
+  },
+  "generatedAt": "2026-09-26T13:18:20.186Z",
+  "mappings": [
+    {
+      "componentId": "ComponentList",
+      "figmaLayerName": "ComponentList",
+      "componentName": "ComponentListPreview",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ComponentListPreview",
+      "figmaSvg": "figma/componentlist.svg"
+    },
+    {
+      "componentId": "Row",
+      "figmaLayerName": "Row",
+      "componentName": "SampleScreen",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/a2uicatalog/samples/SampleScreen.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "RowSamplePreview",
+      "codeSnippet": "SampleScreen(\n    component = TODO(\"UiComponent\"),\n    controls = { },\n)",
+      "imports": [
+        "import ee.schimke.a2uicatalog.samples.SampleScreen"
+      ],
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent",
+          "typeFqn": "androidx.compose.material3.integration.a2ui.model.UiComponent",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/row.svg"
+    },
+    {
+      "componentId": "Column",
+      "figmaLayerName": "Column",
+      "componentName": "SampleScreen",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/a2uicatalog/samples/SampleScreen.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "ColumnSamplePreview",
+      "codeSnippet": "SampleScreen(\n    component = TODO(\"UiComponent\"),\n    controls = { },\n)",
+      "imports": [
+        "import ee.schimke.a2uicatalog.samples.SampleScreen"
+      ],
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent",
+          "typeFqn": "androidx.compose.material3.integration.a2ui.model.UiComponent",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/column.svg"
+    },
+    {
+      "componentId": "List",
+      "figmaLayerName": "List",
+      "componentName": "SampleScreen",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/a2uicatalog/samples/SampleScreen.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "ListSamplePreview",
+      "codeSnippet": "SampleScreen(\n    component = TODO(\"UiComponent\"),\n    controls = { },\n)",
+      "imports": [
+        "import ee.schimke.a2uicatalog.samples.SampleScreen"
+      ],
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent",
+          "typeFqn": "androidx.compose.material3.integration.a2ui.model.UiComponent",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/list.svg"
+    },
+    {
+      "componentId": "Card",
+      "figmaLayerName": "Card",
+      "componentName": "SampleScreen",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/a2uicatalog/samples/SampleScreen.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "CardSamplePreview",
+      "codeSnippet": "SampleScreen(\n    component = TODO(\"UiComponent\"),\n    controls = { },\n)",
+      "imports": [
+        "import ee.schimke.a2uicatalog.samples.SampleScreen"
+      ],
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent",
+          "typeFqn": "androidx.compose.material3.integration.a2ui.model.UiComponent",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/card.svg"
+    },
+    {
+      "componentId": "Tabs",
+      "figmaLayerName": "Tabs",
+      "componentName": "SampleScreen",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/a2uicatalog/samples/SampleScreen.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "TabsSamplePreview",
+      "codeSnippet": "SampleScreen(\n    component = TODO(\"UiComponent\"),\n    controls = { },\n)",
+      "imports": [
+        "import ee.schimke.a2uicatalog.samples.SampleScreen"
+      ],
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent",
+          "typeFqn": "androidx.compose.material3.integration.a2ui.model.UiComponent",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/tabs.svg"
+    },
+    {
+      "componentId": "Modal",
+      "figmaLayerName": "Modal",
+      "componentName": "SampleScreen",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/a2uicatalog/samples/SampleScreen.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "ModalSamplePreview",
+      "codeSnippet": "SampleScreen(\n    component = TODO(\"UiComponent\"),\n    controls = { },\n)",
+      "imports": [
+        "import ee.schimke.a2uicatalog.samples.SampleScreen"
+      ],
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent",
+          "typeFqn": "androidx.compose.material3.integration.a2ui.model.UiComponent",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/modal.svg"
+    },
+    {
+      "componentId": "Text",
+      "figmaLayerName": "Text",
+      "componentName": "SampleScreen",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/a2uicatalog/samples/SampleScreen.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "TextSamplePreview",
+      "codeSnippet": "SampleScreen(\n    component = TODO(\"UiComponent\"),\n    controls = { },\n)",
+      "imports": [
+        "import ee.schimke.a2uicatalog.samples.SampleScreen"
+      ],
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent",
+          "typeFqn": "androidx.compose.material3.integration.a2ui.model.UiComponent",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/text.svg"
+    },
+    {
+      "componentId": "Image",
+      "figmaLayerName": "Image",
+      "componentName": "SampleScreen",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/a2uicatalog/samples/SampleScreen.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "ImageSamplePreview",
+      "codeSnippet": "SampleScreen(\n    component = TODO(\"UiComponent\"),\n    controls = { },\n)",
+      "imports": [
+        "import ee.schimke.a2uicatalog.samples.SampleScreen"
+      ],
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent",
+          "typeFqn": "androidx.compose.material3.integration.a2ui.model.UiComponent",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/image.svg"
+    },
+    {
+      "componentId": "Icon",
+      "figmaLayerName": "Icon",
+      "componentName": "SampleScreen",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/a2uicatalog/samples/SampleScreen.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "IconSamplePreview",
+      "codeSnippet": "SampleScreen(\n    component = TODO(\"UiComponent\"),\n    controls = { },\n)",
+      "imports": [
+        "import ee.schimke.a2uicatalog.samples.SampleScreen"
+      ],
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent",
+          "typeFqn": "androidx.compose.material3.integration.a2ui.model.UiComponent",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/icon.svg"
+    },
+    {
+      "componentId": "Divider",
+      "figmaLayerName": "Divider",
+      "componentName": "SampleScreen",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/a2uicatalog/samples/SampleScreen.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "DividerSamplePreview",
+      "codeSnippet": "SampleScreen(\n    component = TODO(\"UiComponent\"),\n    controls = { },\n)",
+      "imports": [
+        "import ee.schimke.a2uicatalog.samples.SampleScreen"
+      ],
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent",
+          "typeFqn": "androidx.compose.material3.integration.a2ui.model.UiComponent",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/divider.svg"
+    },
+    {
+      "componentId": "Video",
+      "figmaLayerName": "Video",
+      "componentName": "SampleScreen",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/a2uicatalog/samples/SampleScreen.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "VideoSamplePreview",
+      "codeSnippet": "SampleScreen(\n    component = TODO(\"UiComponent\"),\n    controls = { },\n)",
+      "imports": [
+        "import ee.schimke.a2uicatalog.samples.SampleScreen"
+      ],
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent",
+          "typeFqn": "androidx.compose.material3.integration.a2ui.model.UiComponent",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/video.svg"
+    },
+    {
+      "componentId": "AudioPlayer",
+      "figmaLayerName": "AudioPlayer",
+      "componentName": "SampleScreen",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/a2uicatalog/samples/SampleScreen.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "AudioPlayerSamplePreview",
+      "codeSnippet": "SampleScreen(\n    component = TODO(\"UiComponent\"),\n    controls = { },\n)",
+      "imports": [
+        "import ee.schimke.a2uicatalog.samples.SampleScreen"
+      ],
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent",
+          "typeFqn": "androidx.compose.material3.integration.a2ui.model.UiComponent",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/audioplayer.svg"
+    },
+    {
+      "componentId": "Button",
+      "figmaLayerName": "Button",
+      "componentName": "SampleScreen",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/a2uicatalog/samples/SampleScreen.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "ButtonSamplePreview",
+      "codeSnippet": "SampleScreen(\n    component = TODO(\"UiComponent\"),\n    controls = { },\n)",
+      "imports": [
+        "import ee.schimke.a2uicatalog.samples.SampleScreen"
+      ],
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent",
+          "typeFqn": "androidx.compose.material3.integration.a2ui.model.UiComponent",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/button.svg"
+    },
+    {
+      "componentId": "CheckBox",
+      "figmaLayerName": "CheckBox",
+      "componentName": "SampleScreen",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/a2uicatalog/samples/SampleScreen.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "CheckBoxSamplePreview",
+      "codeSnippet": "SampleScreen(\n    component = TODO(\"UiComponent\"),\n    controls = { },\n)",
+      "imports": [
+        "import ee.schimke.a2uicatalog.samples.SampleScreen"
+      ],
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent",
+          "typeFqn": "androidx.compose.material3.integration.a2ui.model.UiComponent",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/checkbox.svg"
+    },
+    {
+      "componentId": "Slider",
+      "figmaLayerName": "Slider",
+      "componentName": "SampleScreen",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/a2uicatalog/samples/SampleScreen.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "SliderSamplePreview",
+      "codeSnippet": "SampleScreen(\n    component = TODO(\"UiComponent\"),\n    controls = { },\n)",
+      "imports": [
+        "import ee.schimke.a2uicatalog.samples.SampleScreen"
+      ],
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent",
+          "typeFqn": "androidx.compose.material3.integration.a2ui.model.UiComponent",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/slider.svg"
+    },
+    {
+      "componentId": "TextField",
+      "figmaLayerName": "TextField",
+      "componentName": "SampleScreen",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/a2uicatalog/samples/SampleScreen.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "TextFieldSamplePreview",
+      "codeSnippet": "SampleScreen(\n    component = TODO(\"UiComponent\"),\n    controls = { },\n)",
+      "imports": [
+        "import ee.schimke.a2uicatalog.samples.SampleScreen"
+      ],
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent",
+          "typeFqn": "androidx.compose.material3.integration.a2ui.model.UiComponent",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/textfield.svg"
+    },
+    {
+      "componentId": "DateTimeInput",
+      "figmaLayerName": "DateTimeInput",
+      "componentName": "SampleScreen",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/a2uicatalog/samples/SampleScreen.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "DateTimeInputSamplePreview",
+      "codeSnippet": "SampleScreen(\n    component = TODO(\"UiComponent\"),\n    controls = { },\n)",
+      "imports": [
+        "import ee.schimke.a2uicatalog.samples.SampleScreen"
+      ],
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent",
+          "typeFqn": "androidx.compose.material3.integration.a2ui.model.UiComponent",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/datetimeinput.svg"
+    },
+    {
+      "componentId": "ChoicePicker",
+      "figmaLayerName": "ChoicePicker",
+      "componentName": "SampleScreen",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/a2uicatalog/samples/SampleScreen.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "ChoicePickerSamplePreview",
+      "codeSnippet": "SampleScreen(\n    component = TODO(\"UiComponent\"),\n    controls = { },\n)",
+      "imports": [
+        "import ee.schimke.a2uicatalog.samples.SampleScreen"
+      ],
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent",
+          "typeFqn": "androidx.compose.material3.integration.a2ui.model.UiComponent",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "typeFqn": "kotlin.Function1",
+          "hasDefault": false,
+          "composableSlot": true,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": "kotlin.Unit"
+        }
+      ],
+      "figmaSvg": "figma/choicepicker.svg"
+    }
+  ]
+}

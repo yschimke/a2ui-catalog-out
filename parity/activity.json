@@ -1,0 +1,123 @@
+{
+  "schema": "compose-preview-activity/v1",
+  "generatedAt": "2026-09-26T13:18:43.051Z",
+  "windowDays": 30,
+  "code": {
+    "repo": "yschimke/a2ui-catalog",
+    "ref": "main",
+    "events": [
+      {
+        "sha": "bff89411fc2b6216e21d7ded67d571a0b223bbc2",
+        "subject": "fix: keep published CMP port versions immutable and reject unknown currencies on wasm",
+        "at": "2026-09-26T09:13:17Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e37889dd95f18a022beff11dc496d185b2e5ca28",
+        "subject": "docs: document the A2UI Compose Multiplatform port",
+        "at": "2026-09-26T09:02:34Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "68c41fa0106a4f360f5a0f73d6f1da524873a414",
+        "subject": "ci: gate and publish the A2UI CMP port",
+        "at": "2026-09-26T09:02:34Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "ed6bd02d19b9e01edc51b94bb322c4a88a41c5c4",
+        "subject": "test: render an A2UI payload on Compose Desktop without Robolectric",
+        "at": "2026-09-26T09:02:31Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5e7963ccb127127f38d12d5c3c95184beb510318",
+        "subject": "feat: port A2UI 1.0.0-alpha01 to Compose Multiplatform (jvm, wasmJs)",
+        "at": "2026-09-26T09:02:19Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "00c875401c7b6edaffa607bafe4f819ea88a0442",
+        "subject": "chore: import A2UI 1.0.0-alpha01 sources verbatim under vendor/",
+        "at": "2026-09-26T08:42:17Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "53930cc5c5ed18f25735284396c5d462a106e4d7",
+        "subject": "fix: recover from a bad first message and explain a surface the engine refused",
+        "at": "2026-09-26T08:41:34Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "04c9eef311725d2bb88fab86c54a4591c307e5fa",
+        "subject": "docs: the playground's default render",
+        "at": "2026-09-26T08:36:20Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "118c156f6a604b60db0b64e542312257d91640fb",
+        "subject": "feat: an A2UI document playground preview, rendered from a knob",
+        "at": "2026-09-26T08:35:38Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "81688edc53fd347d33683dfca2475578bfae7b64",
+        "subject": "fix: project composed schema types into the ui-builder policy",
+        "at": "2026-09-26T08:25:12Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "61ffa15be45a0d07c56678c153733fc47c2dd6aa",
+        "subject": "docs: compare the kit Card at 1x and drop a stale sticker from the sheet",
+        "at": "2026-09-26T08:24:30Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6151db49e85da920ad0ead3699cea886a02a8630",
+        "subject": "ci: the sticker sheet is 50 previews, not 51",
+        "at": "2026-09-26T08:22:53Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d65d913cf6b02cadfe6425e9f81f98b9edecfbac",
+        "subject": "chore: initialize repository",
+        "at": "2026-09-26T08:15:11Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "71fe67044347be7d6efc3988dd751a9280c3c0f7",
+        "subject": "feat: A2UI basic catalog sticker sheet, AndroidX samples and ui-builder policy",
+        "at": "2026-09-26T08:15:11Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,6890 @@
+{
+  "schema": "design-parity-catalog/v1",
+  "system": "a2ui-samples",
+  "title": "AndroidX A2UI samples",
+  "components": [
+    {
+      "componentId": "ComponentList",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/componentlist/ideal__default__compact.png",
+          "state": "default",
+          "width": 1082,
+          "height": 2402,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/a2ui-samples/p/componentlist__ideal__default__compact",
+          "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ComponentListPreview_Component_list",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 0,
+            "y": 168,
+            "width": 1081,
+            "height": 2233
+          },
+          "padding": {
+            "start": 0,
+            "top": 64,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 210,
+            "width": 997,
+            "height": 63
+          },
+          "label": "Layout",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 294,
+            "width": 997,
+            "height": 897
+          },
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 294,
+            "width": 997,
+            "height": 147
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 444,
+            "width": 997,
+            "height": 147
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 594,
+            "width": 997,
+            "height": 147
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 744,
+            "width": 997,
+            "height": 147
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 894,
+            "width": 997,
+            "height": 147
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1044,
+            "width": 997,
+            "height": 147
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1275,
+            "width": 997,
+            "height": 63
+          },
+          "label": "Content",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1359,
+            "width": 997,
+            "height": 897
+          },
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1359,
+            "width": 997,
+            "height": 147
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1509,
+            "width": 997,
+            "height": 147
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1659,
+            "width": 997,
+            "height": 147
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1809,
+            "width": 997,
+            "height": 147
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1959,
+            "width": 997,
+            "height": 147
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 2109,
+            "width": 997,
+            "height": 147
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 2340,
+            "width": 997,
+            "height": 61
+          },
+          "label": "Input",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 16,
+            "top": 0,
+            "end": 16,
+            "bottom": 0
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 43,
+            "y": 47,
+            "width": 461,
+            "height": 74
+          },
+          "padding": {
+            "start": 4,
+            "top": 0,
+            "end": 4,
+            "bottom": 0
+          }
+        }
+      ],
+      "group": "Index",
+      "caption": "The demo's index: every basic-catalog component, by category.",
+      "noReference": "An AndroidX sample screen, not a design reproduction.",
+      "wireframe": "wireframes/componentlist.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 49,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "ComponentListPreview"
+    },
+    {
+      "componentId": "Row",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/row/ideal__default__compact.png",
+          "state": "default",
+          "width": 1082,
+          "height": 2402,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/a2ui-samples/p/row__ideal__default__compact",
+          "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.RowSamplePreview_Row",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 84,
+              "y": 284,
+              "width": 294,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 284,
+            "width": 294,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 399,
+              "y": 284,
+              "width": 232,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 399,
+            "y": 284,
+            "width": 232,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 972,
+              "width": 178,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 972,
+            "width": 178,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 283,
+              "y": 972,
+              "width": 138,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 283,
+            "y": 972,
+            "width": 138,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 442,
+              "y": 972,
+              "width": 280,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 442,
+            "y": 972,
+            "width": 280,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 1119,
+              "width": 299,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 1119,
+            "width": 299,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 404,
+              "y": 1119,
+              "width": 269,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 404,
+            "y": 1119,
+            "width": 269,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 694,
+              "y": 1119,
+              "width": 155,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 694,
+            "y": 1119,
+            "width": 155,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 1266,
+              "width": 189,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 1266,
+            "width": 189,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 1640,
+              "width": 155,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 1640,
+            "width": 155,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 260,
+              "y": 1640,
+              "width": 180,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 260,
+            "y": 1640,
+            "width": 180,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 461,
+              "y": 1640,
+              "width": 138,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 461,
+            "y": 1640,
+            "width": 138,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 620,
+              "y": 1640,
+              "width": 189,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 620,
+            "y": 1640,
+            "width": 189,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 2014,
+              "width": 372,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 2014,
+            "width": 372,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 477,
+              "y": 2014,
+              "width": 267,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 477,
+            "y": 2014,
+            "width": 267,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 2161,
+              "width": 321,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 2161,
+            "width": 321,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 21,
+            "width": 997,
+            "height": 630
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 284,
+            "width": 294,
+            "height": 105
+          },
+          "role": "Button",
+          "padding": {
+            "start": 0,
+            "top": 4,
+            "end": 0,
+            "bottom": 4
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 399,
+            "y": 284,
+            "width": 232,
+            "height": 105
+          },
+          "role": "Button",
+          "padding": {
+            "start": 0,
+            "top": 4,
+            "end": 0,
+            "bottom": 4
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 693,
+            "width": 84,
+            "height": 63
+          },
+          "label": "Row",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 777,
+            "width": 997,
+            "height": 636
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 972,
+            "width": 178,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 283,
+            "y": 972,
+            "width": 138,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 442,
+            "y": 972,
+            "width": 280,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1119,
+            "width": 299,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 404,
+            "y": 1119,
+            "width": 269,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 694,
+            "y": 1119,
+            "width": 155,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1266,
+            "width": 189,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1445,
+            "width": 997,
+            "height": 342
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1640,
+            "width": 155,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 260,
+            "y": 1640,
+            "width": 180,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 461,
+            "y": 1640,
+            "width": 138,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 620,
+            "y": 1640,
+            "width": 189,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1819,
+            "width": 997,
+            "height": 489
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 2014,
+            "width": 372,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 477,
+            "y": 2014,
+            "width": 267,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 2161,
+            "width": 321,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 2340,
+            "width": 997,
+            "height": 61
+          },
+          "cornerRadius": 16
+        }
+      ],
+      "group": "Layout",
+      "caption": "`RowSample` at its initial settings, above the payload it produces.",
+      "noReference": "An AndroidX sample screen, not a design reproduction.",
+      "wireframe": "wireframes/row.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 60,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "RowSamplePreview",
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent"
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "composableSlot": true
+        }
+      ],
+      "related": [
+        {
+          "system": "a2ui-catalog"
+        }
+      ]
+    },
+    {
+      "componentId": "Column",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/column/ideal__default__compact.png",
+          "state": "default",
+          "width": 1082,
+          "height": 2402,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/a2ui-samples/p/column__ideal__default__compact",
+          "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ColumnSamplePreview_Column",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 84,
+              "y": 85,
+              "width": 391,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 85,
+            "width": 391,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 115,
+              "y": 254,
+              "width": 329,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 115,
+            "y": 254,
+            "width": 329,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 972,
+              "width": 155,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 972,
+            "width": 155,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 260,
+              "y": 972,
+              "width": 178,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 260,
+            "y": 972,
+            "width": 178,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 459,
+              "y": 972,
+              "width": 138,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 459,
+            "y": 972,
+            "width": 138,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 618,
+              "y": 972,
+              "width": 299,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 618,
+            "y": 972,
+            "width": 299,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 1119,
+              "width": 280,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 1119,
+            "width": 280,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 385,
+              "y": 1119,
+              "width": 269,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 385,
+            "y": 1119,
+            "width": 269,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 675,
+              "y": 1119,
+              "width": 189,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 675,
+            "y": 1119,
+            "width": 189,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 1493,
+              "width": 180,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 1493,
+            "width": 180,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 285,
+              "y": 1493,
+              "width": 138,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 285,
+            "y": 1493,
+            "width": 138,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 444,
+              "y": 1493,
+              "width": 155,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 444,
+            "y": 1493,
+            "width": 155,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 620,
+              "y": 1493,
+              "width": 189,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 620,
+            "y": 1493,
+            "width": 189,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 1867,
+              "width": 372,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 1867,
+            "width": 372,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 477,
+              "y": 1867,
+              "width": 267,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 477,
+            "y": 1867,
+            "width": 267,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 2014,
+              "width": 321,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 2014,
+            "width": 321,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 21,
+            "width": 997,
+            "height": 630
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 85,
+            "width": 391,
+            "height": 105
+          },
+          "role": "Button",
+          "padding": {
+            "start": 0,
+            "top": 4,
+            "end": 0,
+            "bottom": 4
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 115,
+            "y": 254,
+            "width": 329,
+            "height": 105
+          },
+          "role": "Button",
+          "padding": {
+            "start": 0,
+            "top": 4,
+            "end": 0,
+            "bottom": 4
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 693,
+            "width": 149,
+            "height": 63
+          },
+          "label": "Column",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 777,
+            "width": 997,
+            "height": 489
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 972,
+            "width": 155,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 260,
+            "y": 972,
+            "width": 178,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 459,
+            "y": 972,
+            "width": 138,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 618,
+            "y": 972,
+            "width": 299,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1119,
+            "width": 280,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 385,
+            "y": 1119,
+            "width": 269,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 675,
+            "y": 1119,
+            "width": 189,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1298,
+            "width": 997,
+            "height": 342
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1493,
+            "width": 180,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 285,
+            "y": 1493,
+            "width": 138,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 444,
+            "y": 1493,
+            "width": 155,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 620,
+            "y": 1493,
+            "width": 189,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1672,
+            "width": 997,
+            "height": 489
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1867,
+            "width": 372,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 477,
+            "y": 1867,
+            "width": 267,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 2014,
+            "width": 321,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 2193,
+            "width": 997,
+            "height": 208
+          },
+          "cornerRadius": 16
+        }
+      ],
+      "group": "Layout",
+      "caption": "`ColumnSample` at its initial settings, above the payload it produces.",
+      "noReference": "An AndroidX sample screen, not a design reproduction.",
+      "wireframe": "wireframes/column.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 71,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "ColumnSamplePreview",
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent"
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "composableSlot": true
+        }
+      ],
+      "related": [
+        {
+          "system": "a2ui-catalog"
+        }
+      ]
+    },
+    {
+      "componentId": "List",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/list/ideal__default__compact.png",
+          "state": "default",
+          "width": 1082,
+          "height": 2402,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/a2ui-samples/p/list__ideal__default__compact",
+          "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ListSamplePreview_List",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 972,
+              "width": 197,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 972,
+            "width": 197,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 302,
+              "y": 972,
+              "width": 236,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 302,
+            "y": 972,
+            "width": 236,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 1346,
+              "width": 155,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 1346,
+            "width": 155,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 260,
+              "y": 1346,
+              "width": 178,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 260,
+            "y": 1346,
+            "width": 178,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 459,
+              "y": 1346,
+              "width": 138,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 459,
+            "y": 1346,
+            "width": 138,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 618,
+              "y": 1346,
+              "width": 190,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 618,
+            "y": 1346,
+            "width": 190,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 1720,
+              "width": 195,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 1720,
+            "width": 195,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 300,
+              "y": 1720,
+              "width": 197,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 300,
+            "y": 1720,
+            "width": 197,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 518,
+              "y": 1720,
+              "width": 195,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 518,
+            "y": 1720,
+            "width": 195,
+            "height": 84
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 21,
+            "width": 997,
+            "height": 630
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 63,
+            "width": 913,
+            "height": 147
+          },
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 126,
+            "y": 105,
+            "width": 239,
+            "height": 63
+          },
+          "label": "List Item #1",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 231,
+            "width": 913,
+            "height": 147
+          },
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 126,
+            "y": 273,
+            "width": 239,
+            "height": 63
+          },
+          "label": "List Item #2",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 399,
+            "width": 913,
+            "height": 147
+          },
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 126,
+            "y": 441,
+            "width": 239,
+            "height": 63
+          },
+          "label": "List Item #3",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 567,
+            "width": 913,
+            "height": 42
+          },
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "label": "List Item #4",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 693,
+            "width": 73,
+            "height": 63
+          },
+          "label": "List",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 777,
+            "width": 997,
+            "height": 342
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 972,
+            "width": 197,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 302,
+            "y": 972,
+            "width": 236,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1151,
+            "width": 997,
+            "height": 342
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1346,
+            "width": 155,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 260,
+            "y": 1346,
+            "width": 178,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 459,
+            "y": 1346,
+            "width": 138,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 618,
+            "y": 1346,
+            "width": 190,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1525,
+            "width": 997,
+            "height": 342
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1720,
+            "width": 195,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 300,
+            "y": 1720,
+            "width": 197,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 518,
+            "y": 1720,
+            "width": 195,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        }
+      ],
+      "group": "Layout",
+      "caption": "`ListSample` at its initial settings, above the payload it produces.",
+      "noReference": "An AndroidX sample screen, not a design reproduction.",
+      "wireframe": "wireframes/list.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 82,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "ListSamplePreview",
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent"
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "composableSlot": true
+        }
+      ],
+      "related": [
+        {
+          "system": "a2ui-catalog"
+        }
+      ]
+    },
+    {
+      "componentId": "Card",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/card/ideal__default__compact.png",
+          "state": "default",
+          "width": 1082,
+          "height": 2402,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/a2ui-samples/p/card__ideal__default__compact",
+          "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.CardSamplePreview_Card",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 358,
+              "y": 424,
+              "width": 365,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 358,
+            "y": 424,
+            "width": 365,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 972,
+              "width": 266,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 972,
+            "width": 266,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 371,
+              "y": 972,
+              "width": 257,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 371,
+            "y": 972,
+            "width": 257,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 649,
+              "y": 972,
+              "width": 266,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 649,
+            "y": 972,
+            "width": 266,
+            "height": 84
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 21,
+            "width": 997,
+            "height": 630
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 207,
+            "y": 81,
+            "width": 667,
+            "height": 511
+          },
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 401,
+            "y": 218,
+            "width": 279,
+            "height": 74
+          },
+          "label": "Alex Rivera",
+          "padding": {
+            "start": 0,
+            "top": 4,
+            "end": 0,
+            "bottom": 2
+          }
+        },
+        {
+          "bounds": {
+            "x": 358,
+            "y": 424,
+            "width": 365,
+            "height": 105
+          },
+          "role": "Button",
+          "padding": {
+            "start": 0,
+            "top": 4,
+            "end": 0,
+            "bottom": 4
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 693,
+            "width": 92,
+            "height": 63
+          },
+          "label": "Card",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 777,
+            "width": 997,
+            "height": 342
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 972,
+            "width": 266,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 371,
+            "y": 972,
+            "width": 257,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 649,
+            "y": 972,
+            "width": 266,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        }
+      ],
+      "group": "Layout",
+      "caption": "`CardSample` at its initial settings, above the payload it produces.",
+      "noReference": "An AndroidX sample screen, not a design reproduction.",
+      "wireframe": "wireframes/card.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 93,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "CardSamplePreview",
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent"
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "composableSlot": true
+        }
+      ],
+      "related": [
+        {
+          "system": "a2ui-catalog"
+        }
+      ]
+    },
+    {
+      "componentId": "Tabs",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/tabs/ideal__default__compact.png",
+          "state": "default",
+          "width": 1082,
+          "height": 2402,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/a2ui-samples/p/tabs__ideal__default__compact",
+          "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.TabsSamplePreview_Tabs",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "tab",
+          "detail": {
+            "role": "tab",
+            "bounds": {
+              "x": 84,
+              "y": 116,
+              "width": 304,
+              "height": 126
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 116,
+            "width": 304,
+            "height": 126
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "tab",
+          "detail": {
+            "role": "tab",
+            "bounds": {
+              "x": 388,
+              "y": 116,
+              "width": 304,
+              "height": 126
+            }
+          },
+          "bounds": {
+            "x": 388,
+            "y": 116,
+            "width": 304,
+            "height": 126
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "tab",
+          "detail": {
+            "role": "tab",
+            "bounds": {
+              "x": 692,
+              "y": 116,
+              "width": 304,
+              "height": 126
+            }
+          },
+          "bounds": {
+            "x": 692,
+            "y": 116,
+            "width": 304,
+            "height": 126
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 972,
+              "width": 184,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 972,
+            "width": 184,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 289,
+              "y": 972,
+              "width": 184,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 289,
+            "y": 972,
+            "width": 184,
+            "height": 84
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 21,
+            "width": 997,
+            "height": 630
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 116,
+            "width": 304,
+            "height": 126
+          },
+          "role": "Tab",
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 388,
+            "y": 116,
+            "width": 304,
+            "height": 126
+          },
+          "role": "Tab",
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 692,
+            "y": 116,
+            "width": 304,
+            "height": 126
+          },
+          "role": "Tab",
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 160,
+            "y": 234,
+            "width": 151,
+            "height": 8
+          },
+          "cornerRadius": 3
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 284,
+            "width": 913,
+            "height": 273
+          },
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 126,
+            "y": 326,
+            "width": 829,
+            "height": 189
+          },
+          "label": "Welcome to the Overview tab! Content dynamically updates when switching tabs.",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 693,
+            "width": 95,
+            "height": 63
+          },
+          "label": "Tabs",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 777,
+            "width": 997,
+            "height": 342
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 972,
+            "width": 184,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 289,
+            "y": 972,
+            "width": 184,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        }
+      ],
+      "group": "Layout",
+      "caption": "`TabsSample` at its initial settings, above the payload it produces.",
+      "noReference": "An AndroidX sample screen, not a design reproduction.",
+      "wireframe": "wireframes/tabs.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 104,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "TabsSamplePreview",
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent"
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "composableSlot": true
+        }
+      ],
+      "related": [
+        {
+          "system": "a2ui-catalog"
+        }
+      ]
+    },
+    {
+      "componentId": "Modal",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/modal/ideal__default__compact.png",
+          "state": "default",
+          "width": 1082,
+          "height": 2402,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/a2ui-samples/p/modal__ideal__default__compact",
+          "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ModalSamplePreview_Modal",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 320,
+              "y": 262,
+              "width": 442,
+              "height": 148
+            }
+          },
+          "bounds": {
+            "x": 320,
+            "y": 262,
+            "width": 442,
+            "height": 148
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 320,
+              "y": 284,
+              "width": 442,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 320,
+            "y": 284,
+            "width": 442,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 1014,
+              "width": 282,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 1014,
+            "width": 282,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 387,
+              "y": 1014,
+              "width": 248,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 387,
+            "y": 1014,
+            "width": 248,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 656,
+              "y": 1014,
+              "width": 313,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 656,
+            "y": 1014,
+            "width": 313,
+            "height": 84
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 21,
+            "width": 997,
+            "height": 630
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 320,
+            "y": 284,
+            "width": 442,
+            "height": 105
+          },
+          "role": "Button",
+          "padding": {
+            "start": 0,
+            "top": 4,
+            "end": 0,
+            "bottom": 4
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 693,
+            "width": 123,
+            "height": 63
+          },
+          "label": "Modal",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 777,
+            "width": 997,
+            "height": 384
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1014,
+            "width": 282,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 387,
+            "y": 1014,
+            "width": 248,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 656,
+            "y": 1014,
+            "width": 313,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        }
+      ],
+      "group": "Layout",
+      "caption": "`ModalSample` at its initial settings, above the payload it produces.",
+      "noReference": "An AndroidX sample screen, not a design reproduction.",
+      "wireframe": "wireframes/modal.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 115,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "ModalSamplePreview",
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent"
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "composableSlot": true
+        }
+      ],
+      "related": [
+        {
+          "system": "a2ui-catalog"
+        }
+      ]
+    },
+    {
+      "componentId": "Text",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/text/ideal__default__compact.png",
+          "state": "default",
+          "width": 1082,
+          "height": 2402,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/a2ui-samples/p/text__ideal__default__compact",
+          "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.TextSamplePreview_Text",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 87,
+              "y": 972,
+              "width": 121,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 87,
+            "y": 972,
+            "width": 121,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 234,
+              "y": 972,
+              "width": 121,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 234,
+            "y": 972,
+            "width": 121,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 380,
+              "y": 972,
+              "width": 122,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 380,
+            "y": 972,
+            "width": 122,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 528,
+              "y": 972,
+              "width": 121,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 528,
+            "y": 972,
+            "width": 121,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 675,
+              "y": 972,
+              "width": 121,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 675,
+            "y": 972,
+            "width": 121,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 1119,
+              "width": 196,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 1119,
+            "width": 196,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 301,
+              "y": 1119,
+              "width": 156,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 301,
+            "y": 1119,
+            "width": 156,
+            "height": 84
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 21,
+            "width": 997,
+            "height": 630
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 215,
+            "width": 913,
+            "height": 252
+          },
+          "label": "A2UI brings declarative, cross-platform UI generation to autonomous agents.",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 4
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 693,
+            "width": 85,
+            "height": 63
+          },
+          "label": "Text",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 777,
+            "width": 997,
+            "height": 489
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 87,
+            "y": 972,
+            "width": 121,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 234,
+            "y": 972,
+            "width": 121,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 380,
+            "y": 972,
+            "width": 122,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 528,
+            "y": 972,
+            "width": 121,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 675,
+            "y": 972,
+            "width": 121,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1119,
+            "width": 196,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 301,
+            "y": 1119,
+            "width": 156,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1298,
+            "width": 997,
+            "height": 447
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1472,
+            "width": 913,
+            "height": 231
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1493,
+            "width": 913,
+            "height": 210
+          },
+          "cornerRadius": 12
+        }
+      ],
+      "group": "Content",
+      "caption": "`TextSample` at its initial settings, above the payload it produces.",
+      "noReference": "An AndroidX sample screen, not a design reproduction.",
+      "wireframe": "wireframes/text.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 126,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "TextSamplePreview",
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent"
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "composableSlot": true
+        }
+      ],
+      "related": [
+        {
+          "system": "a2ui-catalog"
+        }
+      ]
+    },
+    {
+      "componentId": "Image",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/image/ideal__default__compact.png",
+          "state": "default",
+          "width": 1082,
+          "height": 2402,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/a2ui-samples/p/image__ideal__default__compact",
+          "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ImageSamplePreview_Image",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 972,
+              "width": 148,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 972,
+            "width": 148,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 253,
+              "y": 972,
+              "width": 179,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 253,
+            "y": 972,
+            "width": 179,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 453,
+              "y": 972,
+              "width": 279,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 453,
+            "y": 972,
+            "width": 279,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 1119,
+              "width": 320,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 1119,
+            "width": 320,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 425,
+              "y": 1119,
+              "width": 272,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 425,
+            "y": 1119,
+            "width": 272,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 718,
+              "y": 1119,
+              "width": 186,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 718,
+            "y": 1119,
+            "width": 186,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 1493,
+              "width": 196,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 1493,
+            "width": 196,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 301,
+              "y": 1493,
+              "width": 167,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 301,
+            "y": 1493,
+            "width": 167,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 490,
+              "y": 1493,
+              "width": 124,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 490,
+            "y": 1493,
+            "width": 124,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 636,
+              "y": 1493,
+              "width": 157,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 636,
+            "y": 1493,
+            "width": 157,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 1640,
+              "width": 247,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 1640,
+            "width": 247,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 2014,
+              "width": 248,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 2014,
+            "width": 248,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 353,
+              "y": 2014,
+              "width": 176,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 353,
+            "y": 2014,
+            "width": 176,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 550,
+              "y": 2014,
+              "width": 184,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 550,
+            "y": 2014,
+            "width": 184,
+            "height": 84
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 21,
+            "width": 997,
+            "height": 630
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 373,
+            "y": 168,
+            "width": 336,
+            "height": 336
+          },
+          "role": "Image",
+          "label": "Sample image preview",
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 693,
+            "width": 123,
+            "height": 63
+          },
+          "label": "Image",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 777,
+            "width": 997,
+            "height": 489
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 972,
+            "width": 148,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 253,
+            "y": 972,
+            "width": 179,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 453,
+            "y": 972,
+            "width": 279,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1119,
+            "width": 320,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 425,
+            "y": 1119,
+            "width": 272,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 718,
+            "y": 1119,
+            "width": 186,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1298,
+            "width": 997,
+            "height": 489
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1493,
+            "width": 196,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 301,
+            "y": 1493,
+            "width": 167,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 490,
+            "y": 1493,
+            "width": 124,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 636,
+            "y": 1493,
+            "width": 157,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1640,
+            "width": 247,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1819,
+            "width": 997,
+            "height": 342
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 2014,
+            "width": 248,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 353,
+            "y": 2014,
+            "width": 176,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 550,
+            "y": 2014,
+            "width": 184,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 2193,
+            "width": 997,
+            "height": 208
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 12
+        }
+      ],
+      "group": "Content",
+      "caption": "`ImageSample` at its initial settings, above the payload it produces.",
+      "noReference": "An AndroidX sample screen, not a design reproduction.",
+      "wireframe": "wireframes/image.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 137,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "ImageSamplePreview",
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent"
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "composableSlot": true
+        }
+      ],
+      "related": [
+        {
+          "system": "a2ui-catalog"
+        }
+      ]
+    },
+    {
+      "componentId": "Icon",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/icon/ideal__default__compact.png",
+          "state": "default",
+          "width": 1082,
+          "height": 2402,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/a2ui-samples/p/icon__ideal__default__compact",
+          "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.IconSamplePreview_Icon",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 1235,
+              "width": 201,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 1235,
+            "width": 201,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 306,
+              "y": 1235,
+              "width": 143,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 306,
+            "y": 1235,
+            "width": 143,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 470,
+              "y": 1235,
+              "width": 167,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 470,
+            "y": 1235,
+            "width": 167,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 658,
+              "y": 1235,
+              "width": 185,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 658,
+            "y": 1235,
+            "width": 185,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 1382,
+              "width": 205,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 1382,
+            "width": 205,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 310,
+              "y": 1382,
+              "width": 172,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 310,
+            "y": 1382,
+            "width": 172,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 503,
+              "y": 1382,
+              "width": 275,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 503,
+            "y": 1382,
+            "width": 275,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 799,
+              "y": 1382,
+              "width": 187,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 799,
+            "y": 1382,
+            "width": 187,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 1529,
+              "width": 140,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 1529,
+            "width": 140,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 245,
+              "y": 1529,
+              "width": 165,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 245,
+            "y": 1529,
+            "width": 165,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 431,
+              "y": 1529,
+              "width": 139,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 431,
+            "y": 1529,
+            "width": 139,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 591,
+              "y": 1529,
+              "width": 175,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 591,
+            "y": 1529,
+            "width": 175,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 787,
+              "y": 1529,
+              "width": 167,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 787,
+            "y": 1529,
+            "width": 167,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 1676,
+              "width": 195,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 1676,
+            "width": 195,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 300,
+              "y": 1676,
+              "width": 138,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 300,
+            "y": 1676,
+            "width": 138,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 459,
+              "y": 1676,
+              "width": 149,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 459,
+            "y": 1676,
+            "width": 149,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "switch",
+          "detail": {
+            "role": "switch",
+            "bounds": {
+              "x": 860,
+              "y": 2061,
+              "width": 137,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 860,
+            "y": 2061,
+            "width": 137,
+            "height": 84
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 21,
+            "width": 997,
+            "height": 630
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 693,
+            "width": 84,
+            "height": 63
+          },
+          "label": "Icon",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 777,
+            "width": 997,
+            "height": 1046
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 951,
+            "width": 913,
+            "height": 168
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 972,
+            "width": 913,
+            "height": 147
+          },
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1235,
+            "width": 201,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 306,
+            "y": 1235,
+            "width": 143,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 470,
+            "y": 1235,
+            "width": 167,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 658,
+            "y": 1235,
+            "width": 185,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1382,
+            "width": 205,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 310,
+            "y": 1382,
+            "width": 172,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 503,
+            "y": 1382,
+            "width": 275,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 799,
+            "y": 1382,
+            "width": 187,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1529,
+            "width": 140,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 245,
+            "y": 1529,
+            "width": 165,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 431,
+            "y": 1529,
+            "width": 139,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 591,
+            "y": 1529,
+            "width": 175,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 787,
+            "y": 1529,
+            "width": 167,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1676,
+            "width": 195,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 300,
+            "y": 1676,
+            "width": 138,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 459,
+            "y": 1676,
+            "width": 149,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1855,
+            "width": 997,
+            "height": 364
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 860,
+            "y": 2061,
+            "width": 137,
+            "height": 84
+          },
+          "role": "Switch",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 881,
+            "y": 2082,
+            "width": 42,
+            "height": 42
+          },
+          "cornerRadius": 8
+        }
+      ],
+      "group": "Content",
+      "caption": "`IconSample` at its initial settings, above the payload it produces.",
+      "noReference": "An AndroidX sample screen, not a design reproduction.",
+      "wireframe": "wireframes/icon.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 148,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "IconSamplePreview",
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent"
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "composableSlot": true
+        }
+      ],
+      "related": [
+        {
+          "system": "a2ui-catalog"
+        }
+      ]
+    },
+    {
+      "componentId": "Divider",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/divider/ideal__default__compact.png",
+          "state": "default",
+          "width": 1082,
+          "height": 2402,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/a2ui-samples/p/divider__ideal__default__compact",
+          "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.DividerSamplePreview_Divider",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 972,
+              "width": 237,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 972,
+            "width": 237,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 342,
+              "y": 972,
+              "width": 196,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 342,
+            "y": 972,
+            "width": 196,
+            "height": 84
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 21,
+            "width": 997,
+            "height": 630
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 693,
+            "width": 137,
+            "height": 63
+          },
+          "label": "Divider",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 777,
+            "width": 997,
+            "height": 342
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 972,
+            "width": 237,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 342,
+            "y": 972,
+            "width": 196,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        }
+      ],
+      "group": "Content",
+      "caption": "`DividerSample` at its initial settings, above the payload it produces.",
+      "noReference": "An AndroidX sample screen, not a design reproduction.",
+      "wireframe": "wireframes/divider.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 159,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "DividerSamplePreview",
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent"
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "composableSlot": true
+        }
+      ],
+      "related": [
+        {
+          "system": "a2ui-catalog"
+        }
+      ]
+    },
+    {
+      "componentId": "Video",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/video/ideal__default__compact.png",
+          "state": "default",
+          "width": 1082,
+          "height": 2402,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/a2ui-samples/p/video__ideal__default__compact",
+          "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.VideoSamplePreview_Video",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 21,
+            "width": 997,
+            "height": 630
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 79,
+            "width": 913,
+            "height": 514
+          },
+          "label": "Video",
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 467,
+            "y": 263,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 28
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 693,
+            "width": 113,
+            "height": 63
+          },
+          "label": "Video",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 777,
+            "width": 997,
+            "height": 384
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 951,
+            "width": 913,
+            "height": 168
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 972,
+            "width": 913,
+            "height": 147
+          },
+          "cornerRadius": 12
+        }
+      ],
+      "group": "Content",
+      "caption": "`VideoSample` at its initial settings, above the payload it produces.",
+      "noReference": "An AndroidX sample screen, not a design reproduction.",
+      "wireframe": "wireframes/video.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 171,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "VideoSamplePreview",
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent"
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "composableSlot": true
+        }
+      ],
+      "related": [
+        {
+          "system": "a2ui-catalog"
+        }
+      ]
+    },
+    {
+      "componentId": "AudioPlayer",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/audioplayer/ideal__default__compact.png",
+          "state": "default",
+          "width": 1082,
+          "height": 2402,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/a2ui-samples/p/audioplayer__ideal__default__compact",
+          "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.AudioPlayerSamplePreview_AudioPlayer",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 127,
+              "y": 284,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 127,
+            "y": 284,
+            "width": 105,
+            "height": 105
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 21,
+            "width": 997,
+            "height": 630
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 241,
+            "width": 913,
+            "height": 190
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 127,
+            "y": 284,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 274,
+            "y": 342,
+            "width": 691,
+            "height": 63
+          },
+          "padding": {
+            "start": 0,
+            "top": 10,
+            "end": 0,
+            "bottom": 10
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 693,
+            "width": 235,
+            "height": 63
+          },
+          "label": "AudioPlayer",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 777,
+            "width": 997,
+            "height": 384
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 951,
+            "width": 913,
+            "height": 168
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 972,
+            "width": 913,
+            "height": 147
+          },
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1193,
+            "width": 997,
+            "height": 384
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1367,
+            "width": 913,
+            "height": 168
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1388,
+            "width": 913,
+            "height": 147
+          },
+          "cornerRadius": 12
+        }
+      ],
+      "group": "Content",
+      "caption": "`AudioPlayerSample` at its initial settings, above the payload it produces.",
+      "noReference": "An AndroidX sample screen, not a design reproduction.",
+      "wireframe": "wireframes/audioplayer.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 182,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "AudioPlayerSamplePreview",
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent"
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "composableSlot": true
+        }
+      ],
+      "related": [
+        {
+          "system": "a2ui-catalog"
+        }
+      ]
+    },
+    {
+      "componentId": "Button",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/button/ideal__default__compact.png",
+          "state": "default",
+          "width": 1082,
+          "height": 2402,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/a2ui-samples/p/button__ideal__default__compact",
+          "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ButtonSamplePreview_Button",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 285,
+              "y": 284,
+              "width": 512,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 285,
+            "y": 284,
+            "width": 512,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 972,
+              "width": 189,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 972,
+            "width": 189,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 294,
+              "y": 972,
+              "width": 200,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 294,
+            "y": 972,
+            "width": 200,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 515,
+              "y": 972,
+              "width": 243,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 515,
+            "y": 972,
+            "width": 243,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 1346,
+              "width": 242,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 1346,
+            "width": 242,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 347,
+              "y": 1346,
+              "width": 224,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 347,
+            "y": 1346,
+            "width": 224,
+            "height": 84
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 21,
+            "width": 997,
+            "height": 630
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 285,
+            "y": 284,
+            "width": 512,
+            "height": 105
+          },
+          "role": "Button",
+          "padding": {
+            "start": 0,
+            "top": 4,
+            "end": 0,
+            "bottom": 4
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 693,
+            "width": 129,
+            "height": 63
+          },
+          "label": "Button",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 777,
+            "width": 997,
+            "height": 342
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 972,
+            "width": 189,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 294,
+            "y": 972,
+            "width": 200,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 515,
+            "y": 972,
+            "width": 243,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1151,
+            "width": 997,
+            "height": 342
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1346,
+            "width": 242,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 347,
+            "y": 1346,
+            "width": 224,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1525,
+            "width": 997,
+            "height": 384
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1699,
+            "width": 913,
+            "height": 168
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1720,
+            "width": 913,
+            "height": 147
+          },
+          "cornerRadius": 12
+        }
+      ],
+      "group": "Input",
+      "caption": "`ButtonSample` at its initial settings, above the payload it produces.",
+      "noReference": "An AndroidX sample screen, not a design reproduction.",
+      "wireframe": "wireframes/button.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 194,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "ButtonSamplePreview",
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent"
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "composableSlot": true
+        }
+      ],
+      "related": [
+        {
+          "system": "a2ui-catalog"
+        }
+      ]
+    },
+    {
+      "componentId": "CheckBox",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/checkbox/ideal__default__compact.png",
+          "state": "default",
+          "width": 1082,
+          "height": 2402,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/a2ui-samples/p/checkbox__ideal__default__compact",
+          "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.CheckBoxSamplePreview_CheckBox",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 216,
+              "y": 305,
+              "width": 649,
+              "height": 63
+            }
+          },
+          "bounds": {
+            "x": 216,
+            "y": 305,
+            "width": 649,
+            "height": 63
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "switch",
+          "detail": {
+            "role": "switch",
+            "bounds": {
+              "x": 860,
+              "y": 1441,
+              "width": 137,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 860,
+            "y": 1441,
+            "width": 137,
+            "height": 84
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 21,
+            "width": 997,
+            "height": 630
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 693,
+            "width": 194,
+            "height": 63
+          },
+          "label": "CheckBox",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 777,
+            "width": 997,
+            "height": 384
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 951,
+            "width": 913,
+            "height": 168
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 972,
+            "width": 913,
+            "height": 147
+          },
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1193,
+            "width": 997,
+            "height": 406
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 860,
+            "y": 1441,
+            "width": 137,
+            "height": 84
+          },
+          "role": "Switch",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 923,
+            "y": 1452,
+            "width": 63,
+            "height": 63
+          },
+          "cornerRadius": 12
+        }
+      ],
+      "group": "Input",
+      "caption": "`CheckBoxSample` at its initial settings, above the payload it produces.",
+      "noReference": "An AndroidX sample screen, not a design reproduction.",
+      "wireframe": "wireframes/checkbox.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 205,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "CheckBoxSamplePreview",
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent"
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "composableSlot": true
+        }
+      ],
+      "related": [
+        {
+          "system": "a2ui-catalog"
+        }
+      ]
+    },
+    {
+      "componentId": "Slider",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/slider/ideal__default__compact.png",
+          "state": "default",
+          "width": 1082,
+          "height": 2402,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/a2ui-samples/p/slider__ideal__default__compact",
+          "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.SliderSamplePreview_Slider",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 1388,
+              "width": 202,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 1388,
+            "width": 202,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 307,
+              "y": 1388,
+              "width": 225,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 307,
+            "y": 1388,
+            "width": 225,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 553,
+              "y": 1388,
+              "width": 221,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 553,
+            "y": 1388,
+            "width": 221,
+            "height": 84
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 21,
+            "width": 997,
+            "height": 630
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 58,
+            "y": 305,
+            "width": 965,
+            "height": 116
+          },
+          "label": "Audio Volume",
+          "padding": {
+            "start": 10,
+            "top": 0,
+            "end": 10,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 664,
+            "y": 305,
+            "width": 11,
+            "height": 116
+          },
+          "cornerRadius": 2.1
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 693,
+            "width": 113,
+            "height": 63
+          },
+          "label": "Slider",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 777,
+            "width": 997,
+            "height": 384
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 951,
+            "width": 913,
+            "height": 168
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 972,
+            "width": 913,
+            "height": 147
+          },
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1193,
+            "width": 997,
+            "height": 342
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1388,
+            "width": 202,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 307,
+            "y": 1388,
+            "width": 225,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 553,
+            "y": 1388,
+            "width": 221,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1567,
+            "width": 997,
+            "height": 406
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 916,
+            "y": 1741,
+            "width": 81,
+            "height": 64
+          },
+          "cornerRadius": 8
+        },
+        {
+          "bounds": {
+            "x": 937,
+            "y": 1752,
+            "width": 39,
+            "height": 42
+          },
+          "label": "65",
+          "padding": {
+            "start": 8,
+            "top": 4,
+            "end": 8,
+            "bottom": 4
+          }
+        },
+        {
+          "bounds": {
+            "x": 58,
+            "y": 1810,
+            "width": 965,
+            "height": 116
+          },
+          "padding": {
+            "start": 10,
+            "top": 0,
+            "end": 10,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 670,
+            "y": 1810,
+            "width": 11,
+            "height": 116
+          },
+          "cornerRadius": 2.1
+        }
+      ],
+      "group": "Input",
+      "caption": "`SliderSample` at its initial settings, above the payload it produces.",
+      "noReference": "An AndroidX sample screen, not a design reproduction.",
+      "wireframe": "wireframes/slider.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 217,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "SliderSamplePreview",
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent"
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "composableSlot": true
+        }
+      ],
+      "related": [
+        {
+          "system": "a2ui-catalog"
+        }
+      ]
+    },
+    {
+      "componentId": "TextField",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/textfield/ideal__default__compact.png",
+          "state": "default",
+          "width": 1082,
+          "height": 2402,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/a2ui-samples/p/textfield__ideal__default__compact",
+          "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.TextFieldSamplePreview_TextField",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 972,
+              "width": 213,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 972,
+            "width": 213,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 318,
+              "y": 972,
+              "width": 197,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 318,
+            "y": 972,
+            "width": 197,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 536,
+              "y": 972,
+              "width": 229,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 536,
+            "y": 972,
+            "width": 229,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 1119,
+              "width": 222,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 1119,
+            "width": 222,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 2098,
+              "width": 163,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 2098,
+            "width": 163,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 268,
+              "y": 2098,
+              "width": 169,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 268,
+            "y": 2098,
+            "width": 169,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 458,
+              "y": 2098,
+              "width": 265,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 458,
+            "y": 2098,
+            "width": 265,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 2245,
+              "width": 295,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 2245,
+            "width": 295,
+            "height": 84
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 21,
+            "width": 997,
+            "height": 630
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 173,
+            "y": 252,
+            "width": 735,
+            "height": 168
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 173,
+            "y": 273,
+            "width": 735,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 693,
+            "width": 180,
+            "height": 63
+          },
+          "label": "TextField",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 777,
+            "width": 997,
+            "height": 489
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 972,
+            "width": 213,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 318,
+            "y": 972,
+            "width": 197,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 536,
+            "y": 972,
+            "width": 229,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1119,
+            "width": 222,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1298,
+            "width": 997,
+            "height": 573
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1472,
+            "width": 913,
+            "height": 168
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1493,
+            "width": 913,
+            "height": 147
+          },
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1661,
+            "width": 913,
+            "height": 168
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1682,
+            "width": 913,
+            "height": 147
+          },
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1903,
+            "width": 997,
+            "height": 498
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 2098,
+            "width": 163,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 268,
+            "y": 2098,
+            "width": 169,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 458,
+            "y": 2098,
+            "width": 265,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 2245,
+            "width": 295,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "cornerRadius": 12
+        }
+      ],
+      "group": "Input",
+      "caption": "`TextFieldSample` at its initial settings, above the payload it produces.",
+      "noReference": "An AndroidX sample screen, not a design reproduction.",
+      "wireframe": "wireframes/textfield.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 228,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "TextFieldSamplePreview",
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent"
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "composableSlot": true
+        }
+      ],
+      "related": [
+        {
+          "system": "a2ui-catalog"
+        }
+      ]
+    },
+    {
+      "componentId": "DateTimeInput",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/datetimeinput/ideal__default__compact.png",
+          "state": "default",
+          "width": 1082,
+          "height": 2402,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/a2ui-samples/p/datetimeinput__ideal__default__compact",
+          "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.DateTimeInputSamplePreview_DateTimeInput",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 84,
+              "y": 326,
+              "width": 275,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 326,
+            "width": 275,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 776,
+              "y": 326,
+              "width": 221,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 776,
+            "y": 326,
+            "width": 221,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 972,
+              "width": 228,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 972,
+            "width": 228,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 333,
+              "y": 972,
+              "width": 235,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 333,
+            "y": 972,
+            "width": 235,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 589,
+              "y": 972,
+              "width": 269,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 589,
+            "y": 972,
+            "width": 269,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 1762,
+              "width": 436,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 1762,
+            "width": 436,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 541,
+              "y": 1762,
+              "width": 420,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 541,
+            "y": 1762,
+            "width": 420,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 1909,
+              "width": 420,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 1909,
+            "width": 420,
+            "height": 84
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 21,
+            "width": 997,
+            "height": 630
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 241,
+            "width": 326,
+            "height": 53
+          },
+          "label": "Select Appointment",
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 0,
+            "bottom": 4
+          }
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 326,
+            "width": 275,
+            "height": 84
+          },
+          "role": "Button",
+          "cornerRadius": 8
+        },
+        {
+          "bounds": {
+            "x": 776,
+            "y": 326,
+            "width": 221,
+            "height": 84
+          },
+          "role": "Button",
+          "cornerRadius": 8
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 693,
+            "width": 288,
+            "height": 63
+          },
+          "label": "DateTimeInput",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 777,
+            "width": 997,
+            "height": 342
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 972,
+            "width": 228,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 333,
+            "y": 972,
+            "width": 235,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 589,
+            "y": 972,
+            "width": 269,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1151,
+            "width": 997,
+            "height": 384
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1325,
+            "width": 913,
+            "height": 168
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1346,
+            "width": 913,
+            "height": 147
+          },
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1567,
+            "width": 997,
+            "height": 489
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1762,
+            "width": 436,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 541,
+            "y": 1762,
+            "width": 420,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1909,
+            "width": 420,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        }
+      ],
+      "group": "Input",
+      "caption": "`DateTimeInputSample` at its initial settings, above the payload it produces.",
+      "noReference": "An AndroidX sample screen, not a design reproduction.",
+      "wireframe": "wireframes/datetimeinput.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 240,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "DateTimeInputSamplePreview",
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent"
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "composableSlot": true
+        }
+      ],
+      "related": [
+        {
+          "system": "a2ui-catalog"
+        }
+      ]
+    },
+    {
+      "componentId": "ChoicePicker",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/choicepicker/ideal__default__compact.png",
+          "state": "default",
+          "width": 1082,
+          "height": 2402,
+          "size": "compact",
+          "livePreview": "https://preview.coo.ee/a2ui-samples/p/choicepicker__ideal__default__compact",
+          "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ChoicePickerSamplePreview_ChoicePicker",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 972,
+              "width": 365,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 972,
+            "width": 365,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 470,
+              "y": 972,
+              "width": 353,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 470,
+            "y": 972,
+            "width": 353,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 84,
+              "y": 1346,
+              "width": 231,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 84,
+            "y": 1346,
+            "width": 231,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 336,
+              "y": 1346,
+              "width": 169,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 336,
+            "y": 1346,
+            "width": 169,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "switch",
+          "detail": {
+            "role": "switch",
+            "bounds": {
+              "x": 860,
+              "y": 1731,
+              "width": 137,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 860,
+            "y": 1731,
+            "width": 137,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
+            }
+          },
+          "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 21,
+            "width": 997,
+            "height": 630
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 221,
+            "width": 526,
+            "height": 63
+          },
+          "label": "Select your favorite cuisine",
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 305,
+            "width": 913,
+            "height": 147
+          },
+          "cornerRadius": 4
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 693,
+            "width": 257,
+            "height": 63
+          },
+          "label": "ChoicePicker",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 777,
+            "width": 997,
+            "height": 342
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 972,
+            "width": 365,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 470,
+            "y": 972,
+            "width": 353,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1151,
+            "width": 997,
+            "height": 342
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 1346,
+            "width": 231,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 336,
+            "y": 1346,
+            "width": 169,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1525,
+            "width": 997,
+            "height": 364
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 860,
+            "y": 1731,
+            "width": 137,
+            "height": 84
+          },
+          "role": "Switch",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 881,
+            "y": 1752,
+            "width": 42,
+            "height": 42
+          },
+          "cornerRadius": 8
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1921,
+            "width": 997,
+            "height": 384
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 2095,
+            "width": 913,
+            "height": 168
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 2116,
+            "width": 913,
+            "height": 147
+          },
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 2337,
+            "width": 997,
+            "height": 64
+          },
+          "cornerRadius": 16
+        }
+      ],
+      "group": "Input",
+      "caption": "`ChoicePickerSample` at its initial settings, above the payload it produces.",
+      "noReference": "An AndroidX sample screen, not a design reproduction.",
+      "wireframe": "wireframes/choicepicker.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
+      "sourceModule": ":samples-catalog",
+      "bodyLine": 252,
+      "sourceDirectory": "samples-catalog",
+      "sourceFunction": "ChoicePickerSamplePreview",
+      "parameters": [
+        {
+          "name": "component",
+          "type": "UiComponent"
+        },
+        {
+          "name": "controls",
+          "type": "((List<A2uiComponentPayload>, Map<String, Any?>) -> Unit) -> Unit",
+          "composableSlot": true
+        }
+      ],
+      "related": [
+        {
+          "system": "a2ui-catalog"
+        }
+      ]
+    }
+  ],
+  "library": [
+    "androidx.compose.material3:material3-a2ui"
+  ],
+  "renderer": "compose-preview 2.26.0",
+  "generatedAt": "2026-09-26T13:18:19.579Z",
+  "display": {
+    "hero": "Button"
+  },
+  "liveBundle": {
+    "path": "bundle/",
+    "file": "bundle.png"
+  },
+  "liveBundles": [
+    {
+      "path": "bundle/",
+      "file": "bundle.png",
+      "module": ":samples-catalog",
+      "previewIdPrefix": ""
+    }
+  ],
+  "componentsFile": "components.json",
+  "source": {
+    "repo": "yschimke/a2ui-catalog",
+    "ref": "main",
+    "module": ":samples-catalog"
+  }
+}
