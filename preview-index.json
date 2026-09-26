@@ -23,6 +23,30 @@
   ],
   "revisions": [
     {
+      "commit": "0a632208df0f816add4fc72e2b36175e8003e0ba",
+      "previews": [
+        "audioplayer__ideal__default__compact",
+        "button__ideal__default__compact",
+        "card__ideal__default__compact",
+        "checkbox__ideal__default__compact",
+        "choicepicker__ideal__default__compact",
+        "column__ideal__default__compact",
+        "componentlist__ideal__default__compact",
+        "datetimeinput__ideal__default__compact",
+        "divider__ideal__default__compact",
+        "icon__ideal__default__compact",
+        "image__ideal__default__compact",
+        "list__ideal__default__compact",
+        "modal__ideal__default__compact",
+        "row__ideal__default__compact",
+        "slider__ideal__default__compact",
+        "tabs__ideal__default__compact",
+        "text__ideal__default__compact",
+        "textfield__ideal__default__compact",
+        "video__ideal__default__compact"
+      ]
+    },
+    {
       "commit": "ab76ef1bd21cda88c666a7e3279673780ce275df",
       "previews": [
         "audioplayer__ideal__default__compact",

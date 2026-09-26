@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-26T15:52:58.374Z",
+  "generatedAt": "2026-09-26T16:36:22.921Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "1d4e422f72d6884787116b4b334d45718670a546",
+        "subject": "fix: draw an edited sample document in the sample's own card and theme",
+        "at": "2026-09-26T16:23:43Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "14ff079cd5af3af5f31fe73e721833d24ae2424f",
+        "subject": "feat: publish each sample's A2UI payload as the playground's document knob",
+        "at": "2026-09-26T16:16:37Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "741d207c11eba99e5793df7b5a24ed970cbc2feb",
         "subject": "feat: link each kit component to every sample screen whose payload uses it",

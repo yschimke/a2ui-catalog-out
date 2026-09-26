@@ -413,6 +413,26 @@
           "size": "compact",
           "livePreview": "https://preview.coo.ee/a2ui-samples/p/row__ideal__default__compact",
           "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.RowSamplePreview_Row",
+          "overrides": [
+            {
+              "key": "document",
+              "type": "string",
+              "label": "document",
+              "default": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"Row\",\"children\":[\"btn1\",\"btn2\"],\"justify\":\"start\",\"align\":\"center\"},{\"id\":\"btn1\",\"component\":\"Button\",\"child\":\"btn1_text\",\"variant\":\"primary\",\"action\":{\"event\":{\"name\":\"btn1_click\"}}},{\"id\":\"btn1_text\",\"component\":\"Text\",\"text\":\"Button 1\"},{\"id\":\"btn2\",\"component\":\"Button\",\"child\":\"btn2_text\",\"variant\":\"borderless\",\"action\":{\"event\":{\"name\":\"btn2_click\"}}},{\"id\":\"btn2_text\",\"component\":\"Text\",\"text\":\"Button 2\"}]}}"
+              },
+              "current": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"Row\",\"children\":[\"btn1\",\"btn2\"],\"justify\":\"start\",\"align\":\"center\"},{\"id\":\"btn1\",\"component\":\"Button\",\"child\":\"btn1_text\",\"variant\":\"primary\",\"action\":{\"event\":{\"name\":\"btn1_click\"}}},{\"id\":\"btn1_text\",\"component\":\"Text\",\"text\":\"Button 1\"},{\"id\":\"btn2\",\"component\":\"Button\",\"child\":\"btn2_text\",\"variant\":\"borderless\",\"action\":{\"event\":{\"name\":\"btn2_click\"}}},{\"id\":\"btn2_text\",\"component\":\"Text\",\"text\":\"Button 2\"}]}}"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
           "density": 2.625
         }
       ],
@@ -1065,6 +1085,26 @@
           "size": "compact",
           "livePreview": "https://preview.coo.ee/a2ui-samples/p/column__ideal__default__compact",
           "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ColumnSamplePreview_Column",
+          "overrides": [
+            {
+              "key": "document",
+              "type": "string",
+              "label": "document",
+              "default": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"Column\",\"children\":[\"item1\",\"item2\"],\"justify\":\"start\",\"align\":\"center\"},{\"id\":\"item1\",\"component\":\"Button\",\"child\":\"item1_text\",\"variant\":\"primary\",\"action\":{\"event\":{\"name\":\"item1_click\"}}},{\"id\":\"item1_text\",\"component\":\"Text\",\"text\":\"Action Item 1\"},{\"id\":\"item2\",\"component\":\"Button\",\"child\":\"item2_text\",\"variant\":\"borderless\",\"action\":{\"event\":{\"name\":\"item2_click\"}}},{\"id\":\"item2_text\",\"component\":\"Text\",\"text\":\"Action Item 2\"}]}}"
+              },
+              "current": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"Column\",\"children\":[\"item1\",\"item2\"],\"justify\":\"start\",\"align\":\"center\"},{\"id\":\"item1\",\"component\":\"Button\",\"child\":\"item1_text\",\"variant\":\"primary\",\"action\":{\"event\":{\"name\":\"item1_click\"}}},{\"id\":\"item1_text\",\"component\":\"Text\",\"text\":\"Action Item 1\"},{\"id\":\"item2\",\"component\":\"Button\",\"child\":\"item2_text\",\"variant\":\"borderless\",\"action\":{\"event\":{\"name\":\"item2_click\"}}},{\"id\":\"item2_text\",\"component\":\"Text\",\"text\":\"Action Item 2\"}]}}"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
           "density": 2.625
         }
       ],
@@ -1717,6 +1757,26 @@
           "size": "compact",
           "livePreview": "https://preview.coo.ee/a2ui-samples/p/list__ideal__default__compact",
           "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ListSamplePreview_List",
+          "overrides": [
+            {
+              "key": "document",
+              "type": "string",
+              "label": "document",
+              "default": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"List\",\"children\":[\"item1\",\"item2\",\"item3\",\"item4\",\"item5\"],\"direction\":\"vertical\",\"align\":\"stretch\"},{\"id\":\"item1\",\"component\":\"Card\",\"child\":\"item1_text\"},{\"id\":\"item1_text\",\"component\":\"Text\",\"text\":\"List Item #1\",\"variant\":\"body\"},{\"id\":\"item2\",\"component\":\"Card\",\"child\":\"item2_text\"},{\"id\":\"item2_text\",\"component\":\"Text\",\"text\":\"List Item #2\",\"variant\":\"body\"},{\"id\":\"item3\",\"component\":\"Card\",\"child\":\"item3_text\"},{\"id\":\"item3_text\",\"component\":\"Text\",\"text\":\"List Item #3\",\"variant\":\"body\"},{\"id\":\"item4\",\"component\":\"Card\",\"child\":\"item4_text\"},{\"id\":\"item4_text\",\"component\":\"Text\",\"text\":\"List Item #4\",\"variant\":\"body\"},{\"id\":\"item5\",\"component\":\"Card\",\"child\":\"item5_text\"},{\"id\":\"item5_text\",\"component\":\"Text\",\"text\":\"List Item #5\",\"variant\":\"body\"}]}}"
+              },
+              "current": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"List\",\"children\":[\"item1\",\"item2\",\"item3\",\"item4\",\"item5\"],\"direction\":\"vertical\",\"align\":\"stretch\"},{\"id\":\"item1\",\"component\":\"Card\",\"child\":\"item1_text\"},{\"id\":\"item1_text\",\"component\":\"Text\",\"text\":\"List Item #1\",\"variant\":\"body\"},{\"id\":\"item2\",\"component\":\"Card\",\"child\":\"item2_text\"},{\"id\":\"item2_text\",\"component\":\"Text\",\"text\":\"List Item #2\",\"variant\":\"body\"},{\"id\":\"item3\",\"component\":\"Card\",\"child\":\"item3_text\"},{\"id\":\"item3_text\",\"component\":\"Text\",\"text\":\"List Item #3\",\"variant\":\"body\"},{\"id\":\"item4\",\"component\":\"Card\",\"child\":\"item4_text\"},{\"id\":\"item4_text\",\"component\":\"Text\",\"text\":\"List Item #4\",\"variant\":\"body\"},{\"id\":\"item5\",\"component\":\"Card\",\"child\":\"item5_text\"},{\"id\":\"item5_text\",\"component\":\"Text\",\"text\":\"List Item #5\",\"variant\":\"body\"}]}}"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
           "density": 2.625
         }
       ],
@@ -2194,6 +2254,26 @@
           "size": "compact",
           "livePreview": "https://preview.coo.ee/a2ui-samples/p/card__ideal__default__compact",
           "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.CardSamplePreview_Card",
+          "overrides": [
+            {
+              "key": "document",
+              "type": "string",
+              "label": "document",
+              "default": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"Card\",\"child\":\"card_column\"},{\"id\":\"card_column\",\"component\":\"Column\",\"children\":[\"card_icon\",\"card_title\",\"card_desc\",\"card_btn\"],\"justify\":\"center\",\"align\":\"center\"},{\"id\":\"card_icon\",\"component\":\"Icon\",\"name\":\"accountCircle\"},{\"id\":\"card_title\",\"component\":\"Text\",\"text\":\"Alex Rivera\",\"variant\":\"h4\"},{\"id\":\"card_desc\",\"component\":\"Text\",\"text\":\"Software Engineer • AndroidX\",\"variant\":\"body\"},{\"id\":\"card_btn\",\"component\":\"Button\",\"child\":\"btn_text\",\"variant\":\"primary\",\"action\":{\"event\":{\"name\":\"follow_click\"}}},{\"id\":\"btn_text\",\"component\":\"Text\",\"text\":\"View Profile\"}]}}"
+              },
+              "current": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"Card\",\"child\":\"card_column\"},{\"id\":\"card_column\",\"component\":\"Column\",\"children\":[\"card_icon\",\"card_title\",\"card_desc\",\"card_btn\"],\"justify\":\"center\",\"align\":\"center\"},{\"id\":\"card_icon\",\"component\":\"Icon\",\"name\":\"accountCircle\"},{\"id\":\"card_title\",\"component\":\"Text\",\"text\":\"Alex Rivera\",\"variant\":\"h4\"},{\"id\":\"card_desc\",\"component\":\"Text\",\"text\":\"Software Engineer • AndroidX\",\"variant\":\"body\"},{\"id\":\"card_btn\",\"component\":\"Button\",\"child\":\"btn_text\",\"variant\":\"primary\",\"action\":{\"event\":{\"name\":\"follow_click\"}}},{\"id\":\"btn_text\",\"component\":\"Text\",\"text\":\"View Profile\"}]}}"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
           "density": 2.625
         }
       ],
@@ -2445,6 +2525,26 @@
           "size": "compact",
           "livePreview": "https://preview.coo.ee/a2ui-samples/p/tabs__ideal__default__compact",
           "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.TabsSamplePreview_Tabs",
+          "overrides": [
+            {
+              "key": "document",
+              "type": "string",
+              "label": "document",
+              "default": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"Tabs\",\"tabs\":[{\"title\":\"Overview\",\"child\":\"tab_content_0\"},{\"title\":\"Details\",\"child\":\"tab_content_1\"},{\"title\":\"Settings\",\"child\":\"tab_content_2\"}]},{\"id\":\"tab_content_0\",\"component\":\"Card\",\"child\":\"tab_text_0\"},{\"id\":\"tab_text_0\",\"component\":\"Text\",\"text\":\"Welcome to the Overview tab! Content dynamically updates when switching tabs.\",\"variant\":\"body\"},{\"id\":\"tab_content_1\",\"component\":\"Card\",\"child\":\"tab_text_1\"},{\"id\":\"tab_text_1\",\"component\":\"Text\",\"text\":\"Welcome to the Details tab! Content dynamically updates when switching tabs.\",\"variant\":\"body\"},{\"id\":\"tab_content_2\",\"component\":\"Card\",\"child\":\"tab_text_2\"},{\"id\":\"tab_text_2\",\"component\":\"Text\",\"text\":\"Welcome to the Settings tab! Content dynamically updates when switching tabs.\",\"variant\":\"body\"}]}}"
+              },
+              "current": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"Tabs\",\"tabs\":[{\"title\":\"Overview\",\"child\":\"tab_content_0\"},{\"title\":\"Details\",\"child\":\"tab_content_1\"},{\"title\":\"Settings\",\"child\":\"tab_content_2\"}]},{\"id\":\"tab_content_0\",\"component\":\"Card\",\"child\":\"tab_text_0\"},{\"id\":\"tab_text_0\",\"component\":\"Text\",\"text\":\"Welcome to the Overview tab! Content dynamically updates when switching tabs.\",\"variant\":\"body\"},{\"id\":\"tab_content_1\",\"component\":\"Card\",\"child\":\"tab_text_1\"},{\"id\":\"tab_text_1\",\"component\":\"Text\",\"text\":\"Welcome to the Details tab! Content dynamically updates when switching tabs.\",\"variant\":\"body\"},{\"id\":\"tab_content_2\",\"component\":\"Card\",\"child\":\"tab_text_2\"},{\"id\":\"tab_text_2\",\"component\":\"Text\",\"text\":\"Welcome to the Settings tab! Content dynamically updates when switching tabs.\",\"variant\":\"body\"}]}}"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
           "density": 2.625
         }
       ],
@@ -2721,6 +2821,26 @@
           "size": "compact",
           "livePreview": "https://preview.coo.ee/a2ui-samples/p/modal__ideal__default__compact",
           "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ModalSamplePreview_Modal",
+          "overrides": [
+            {
+              "key": "document",
+              "type": "string",
+              "label": "document",
+              "default": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"Modal\",\"trigger\":\"open_btn\",\"content\":\"dialog_col\"},{\"id\":\"open_btn\",\"component\":\"Button\",\"child\":\"open_btn_text\",\"variant\":\"primary\",\"action\":{\"event\":{\"name\":\"open_modal\"}}},{\"id\":\"open_btn_text\",\"component\":\"Text\",\"text\":\"Delete Project...\"},{\"id\":\"dialog_col\",\"component\":\"Column\",\"children\":[\"dialog_title\",\"dialog_body\",\"dialog_actions\"],\"justify\":\"start\",\"align\":\"stretch\"},{\"id\":\"dialog_title\",\"component\":\"Text\",\"text\":\"Delete Project?\",\"variant\":\"h3\"},{\"id\":\"dialog_body\",\"component\":\"Text\",\"text\":\"This action cannot be undone. All associated surfaces and agent configurations will be permanently removed.\",\"variant\":\"body\"},{\"id\":\"dialog_actions\",\"component\":\"Row\",\"children\":[\"cancel_btn\",\"confirm_btn\"],\"justify\":\"end\",\"align\":\"center\"},{\"id\":\"cancel_btn\",\"component\":\"Button\",\"child\":\"cancel_btn_text\",\"variant\":\"borderless\",\"action\":{\"event\":{\"name\":\"modal_cancel\"}}},{\"id\":\"cancel_btn_text\",\"component\":\"Text\",\"text\":\"Cancel\"},{\"id\":\"confirm_btn\",\"component\":\"Button\",\"child\":\"confirm_btn_text\",\"variant\":\"primary\",\"action\":{\"event\":{\"name\":\"modal_confirm_delete\"}}},{\"id\":\"confirm_btn_text\",\"component\":\"Text\",\"text\":\"Delete\"}]}}"
+              },
+              "current": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"Modal\",\"trigger\":\"open_btn\",\"content\":\"dialog_col\"},{\"id\":\"open_btn\",\"component\":\"Button\",\"child\":\"open_btn_text\",\"variant\":\"primary\",\"action\":{\"event\":{\"name\":\"open_modal\"}}},{\"id\":\"open_btn_text\",\"component\":\"Text\",\"text\":\"Delete Project...\"},{\"id\":\"dialog_col\",\"component\":\"Column\",\"children\":[\"dialog_title\",\"dialog_body\",\"dialog_actions\"],\"justify\":\"start\",\"align\":\"stretch\"},{\"id\":\"dialog_title\",\"component\":\"Text\",\"text\":\"Delete Project?\",\"variant\":\"h3\"},{\"id\":\"dialog_body\",\"component\":\"Text\",\"text\":\"This action cannot be undone. All associated surfaces and agent configurations will be permanently removed.\",\"variant\":\"body\"},{\"id\":\"dialog_actions\",\"component\":\"Row\",\"children\":[\"cancel_btn\",\"confirm_btn\"],\"justify\":\"end\",\"align\":\"center\"},{\"id\":\"cancel_btn\",\"component\":\"Button\",\"child\":\"cancel_btn_text\",\"variant\":\"borderless\",\"action\":{\"event\":{\"name\":\"modal_cancel\"}}},{\"id\":\"cancel_btn_text\",\"component\":\"Text\",\"text\":\"Cancel\"},{\"id\":\"confirm_btn\",\"component\":\"Button\",\"child\":\"confirm_btn_text\",\"variant\":\"primary\",\"action\":{\"event\":{\"name\":\"modal_confirm_delete\"}}},{\"id\":\"confirm_btn_text\",\"component\":\"Text\",\"text\":\"Delete\"}]}}"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
           "density": 2.625
         }
       ],
@@ -2968,6 +3088,26 @@
           "size": "compact",
           "livePreview": "https://preview.coo.ee/a2ui-samples/p/text__ideal__default__compact",
           "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.TextSamplePreview_Text",
+          "overrides": [
+            {
+              "key": "document",
+              "type": "string",
+              "label": "document",
+              "default": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"Text\",\"text\":\"A2UI brings declarative, cross-platform UI generation to autonomous agents.\",\"variant\":\"h3\"}]}}"
+              },
+              "current": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"Text\",\"text\":\"A2UI brings declarative, cross-platform UI generation to autonomous agents.\",\"variant\":\"h3\"}]}}"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
           "density": 2.625
         }
       ],
@@ -3310,6 +3450,26 @@
           "size": "compact",
           "livePreview": "https://preview.coo.ee/a2ui-samples/p/image__ideal__default__compact",
           "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ImageSamplePreview_Image",
+          "overrides": [
+            {
+              "key": "document",
+              "type": "string",
+              "label": "document",
+              "default": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"Image\",\"url\":\"https://picsum.photos/id/10/800/600\",\"variant\":\"mediumFeature\",\"fit\":\"cover\",\"description\":\"Sample image preview\"}]}}"
+              },
+              "current": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"Image\",\"url\":\"https://picsum.photos/id/10/800/600\",\"variant\":\"mediumFeature\",\"fit\":\"cover\",\"description\":\"Sample image preview\"}]}}"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
           "density": 2.625
         }
       ],
@@ -3876,6 +4036,26 @@
           "size": "compact",
           "livePreview": "https://preview.coo.ee/a2ui-samples/p/icon__ideal__default__compact",
           "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.IconSamplePreview_Icon",
+          "overrides": [
+            {
+              "key": "document",
+              "type": "string",
+              "label": "document",
+              "default": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"Icon\",\"name\":\"favorite\"}]}}"
+              },
+              "current": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"Icon\",\"name\":\"favorite\"}]}}"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
           "density": 2.625
         }
       ],
@@ -4512,6 +4692,26 @@
           "size": "compact",
           "livePreview": "https://preview.coo.ee/a2ui-samples/p/divider__ideal__default__compact",
           "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.DividerSamplePreview_Divider",
+          "overrides": [
+            {
+              "key": "document",
+              "type": "string",
+              "label": "document",
+              "default": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"Column\",\"children\":[\"text_above\",\"divider_comp\",\"text_below\"],\"justify\":\"center\",\"align\":\"stretch\"},{\"id\":\"text_above\",\"component\":\"Text\",\"text\":\"Section Above Divider\",\"variant\":\"body\"},{\"id\":\"divider_comp\",\"component\":\"Divider\",\"axis\":\"horizontal\"},{\"id\":\"text_below\",\"component\":\"Text\",\"text\":\"Section Below Divider\",\"variant\":\"body\"}]}}"
+              },
+              "current": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"Column\",\"children\":[\"text_above\",\"divider_comp\",\"text_below\"],\"justify\":\"center\",\"align\":\"stretch\"},{\"id\":\"text_above\",\"component\":\"Text\",\"text\":\"Section Above Divider\",\"variant\":\"body\"},{\"id\":\"divider_comp\",\"component\":\"Divider\",\"axis\":\"horizontal\"},{\"id\":\"text_below\",\"component\":\"Text\",\"text\":\"Section Below Divider\",\"variant\":\"body\"}]}}"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
           "density": 2.625
         }
       ],
@@ -4624,7 +4824,7 @@
       "wireframe": "wireframes/divider.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 178,
+      "bodyLine": 177,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "DividerSamplePreview",
       "parameters": [
@@ -4649,10 +4849,6 @@
         },
         {
           "system": "a2ui-catalog",
-          "componentId": "Row"
-        },
-        {
-          "system": "a2ui-catalog",
           "componentId": "Text"
         }
       ]
@@ -4669,6 +4865,26 @@
           "size": "compact",
           "livePreview": "https://preview.coo.ee/a2ui-samples/p/video__ideal__default__compact",
           "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.VideoSamplePreview_Video",
+          "overrides": [
+            {
+              "key": "document",
+              "type": "string",
+              "label": "document",
+              "default": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"Video\",\"url\":\"https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4\"}]}}"
+              },
+              "current": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"Video\",\"url\":\"https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4\"}]}}"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
           "density": 2.625
         }
       ],
@@ -4762,7 +4978,7 @@
       "wireframe": "wireframes/video.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 190,
+      "bodyLine": 189,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "VideoSamplePreview",
       "parameters": [
@@ -4795,6 +5011,26 @@
           "size": "compact",
           "livePreview": "https://preview.coo.ee/a2ui-samples/p/audioplayer__ideal__default__compact",
           "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.AudioPlayerSamplePreview_AudioPlayer",
+          "overrides": [
+            {
+              "key": "document",
+              "type": "string",
+              "label": "document",
+              "default": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"AudioPlayer\",\"url\":\"https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4\",\"description\":\"Big Buck Bunny Soundtrack\"}]}}"
+              },
+              "current": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"AudioPlayer\",\"url\":\"https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4\",\"description\":\"Big Buck Bunny Soundtrack\"}]}}"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
           "density": 2.625
         }
       ],
@@ -4955,7 +5191,7 @@
       "wireframe": "wireframes/audioplayer.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 201,
+      "bodyLine": 200,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "AudioPlayerSamplePreview",
       "parameters": [
@@ -4988,6 +5224,26 @@
           "size": "compact",
           "livePreview": "https://preview.coo.ee/a2ui-samples/p/button__ideal__default__compact",
           "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ButtonSamplePreview_Button",
+          "overrides": [
+            {
+              "key": "document",
+              "type": "string",
+              "label": "document",
+              "default": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"Button\",\"child\":\"btn_text\",\"variant\":\"primary\",\"action\":{\"event\":{\"name\":\"button_click\"}}},{\"id\":\"btn_text\",\"component\":\"Text\",\"text\":\"Confirm & Continue\"}]}}"
+              },
+              "current": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"Button\",\"child\":\"btn_text\",\"variant\":\"primary\",\"action\":{\"event\":{\"name\":\"button_click\"}}},{\"id\":\"btn_text\",\"component\":\"Text\",\"text\":\"Confirm & Continue\"}]}}"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
           "density": 2.625
         }
       ],
@@ -5267,7 +5523,7 @@
       "wireframe": "wireframes/button.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 213,
+      "bodyLine": 212,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "ButtonSamplePreview",
       "parameters": [
@@ -5304,6 +5560,26 @@
           "size": "compact",
           "livePreview": "https://preview.coo.ee/a2ui-samples/p/checkbox__ideal__default__compact",
           "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.CheckBoxSamplePreview_CheckBox",
+          "overrides": [
+            {
+              "key": "document",
+              "type": "string",
+              "label": "document",
+              "default": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateDataModel\":{\"surfaceId\":\"sample\",\"path\":\"/\",\"value\":{\"checkboxValue\":true}}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"CheckBox\",\"label\":\"Receive notification updates\",\"value\":{\"path\":\"/checkboxValue\"}}]}}"
+              },
+              "current": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateDataModel\":{\"surfaceId\":\"sample\",\"path\":\"/\",\"value\":{\"checkboxValue\":true}}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"CheckBox\",\"label\":\"Receive notification updates\",\"value\":{\"path\":\"/checkboxValue\"}}]}}"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
           "density": 2.625
         }
       ],
@@ -5447,7 +5723,7 @@
       "wireframe": "wireframes/checkbox.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 224,
+      "bodyLine": 223,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "CheckBoxSamplePreview",
       "parameters": [
@@ -5480,6 +5756,26 @@
           "size": "compact",
           "livePreview": "https://preview.coo.ee/a2ui-samples/p/slider__ideal__default__compact",
           "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.SliderSamplePreview_Slider",
+          "overrides": [
+            {
+              "key": "document",
+              "type": "string",
+              "label": "document",
+              "default": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateDataModel\":{\"surfaceId\":\"sample\",\"path\":\"/\",\"value\":{\"sliderValue\":65}}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"Slider\",\"label\":\"Audio Volume\",\"min\":0,\"max\":100,\"value\":{\"path\":\"/sliderValue\"}}]}}"
+              },
+              "current": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateDataModel\":{\"surfaceId\":\"sample\",\"path\":\"/\",\"value\":{\"sliderValue\":65}}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"Slider\",\"label\":\"Audio Volume\",\"min\":0,\"max\":100,\"value\":{\"path\":\"/sliderValue\"}}]}}"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
           "density": 2.625
         }
       ],
@@ -5734,7 +6030,7 @@
       "wireframe": "wireframes/slider.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 236,
+      "bodyLine": 235,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "SliderSamplePreview",
       "parameters": [
@@ -5767,6 +6063,26 @@
           "size": "compact",
           "livePreview": "https://preview.coo.ee/a2ui-samples/p/textfield__ideal__default__compact",
           "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.TextFieldSamplePreview_TextField",
+          "overrides": [
+            {
+              "key": "document",
+              "type": "string",
+              "label": "document",
+              "default": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateDataModel\":{\"surfaceId\":\"sample\",\"path\":\"/\",\"value\":{\"textValue\":\"android_developer\"}}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"TextField\",\"label\":\"Username\",\"value\":{\"path\":\"/textValue\"},\"variant\":\"shortText\"}]}}"
+              },
+              "current": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateDataModel\":{\"surfaceId\":\"sample\",\"path\":\"/\",\"value\":{\"textValue\":\"android_developer\"}}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"TextField\",\"label\":\"Username\",\"value\":{\"path\":\"/textValue\"},\"variant\":\"shortText\"}]}}"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
           "density": 2.625
         }
       ],
@@ -6169,7 +6485,7 @@
       "wireframe": "wireframes/textfield.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 247,
+      "bodyLine": 246,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "TextFieldSamplePreview",
       "parameters": [
@@ -6202,6 +6518,26 @@
           "size": "compact",
           "livePreview": "https://preview.coo.ee/a2ui-samples/p/datetimeinput__ideal__default__compact",
           "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.DateTimeInputSamplePreview_DateTimeInput",
+          "overrides": [
+            {
+              "key": "document",
+              "type": "string",
+              "label": "document",
+              "default": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateDataModel\":{\"surfaceId\":\"sample\",\"path\":\"/\",\"value\":{\"dateTimeValue\":\"2026-09-03T14:30:00Z\"}}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"DateTimeInput\",\"label\":\"Select Appointment\",\"enableDate\":true,\"enableTime\":true,\"value\":{\"path\":\"/dateTimeValue\"}}]}}"
+              },
+              "current": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateDataModel\":{\"surfaceId\":\"sample\",\"path\":\"/\",\"value\":{\"dateTimeValue\":\"2026-09-03T14:30:00Z\"}}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"DateTimeInput\",\"label\":\"Select Appointment\",\"enableDate\":true,\"enableTime\":true,\"value\":{\"path\":\"/dateTimeValue\"}}]}}"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
           "density": 2.625
         }
       ],
@@ -6550,7 +6886,7 @@
       "wireframe": "wireframes/datetimeinput.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 259,
+      "bodyLine": 258,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "DateTimeInputSamplePreview",
       "parameters": [
@@ -6583,6 +6919,26 @@
           "size": "compact",
           "livePreview": "https://preview.coo.ee/a2ui-samples/p/choicepicker__ideal__default__compact",
           "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ChoicePickerSamplePreview_ChoicePicker",
+          "overrides": [
+            {
+              "key": "document",
+              "type": "string",
+              "label": "document",
+              "default": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateDataModel\":{\"surfaceId\":\"sample\",\"path\":\"/\",\"value\":{\"selectedChoices\":[\"italian\"]}}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"ChoicePicker\",\"label\":\"Select your favorite cuisine\",\"variant\":\"mutuallyExclusive\",\"displayStyle\":\"checkbox\",\"filterable\":false,\"options\":[{\"label\":\"Italian\",\"value\":\"italian\"},{\"label\":\"Mexican\",\"value\":\"mexican\"},{\"label\":\"Japanese\",\"value\":\"japanese\"},{\"label\":\"Indian\",\"value\":\"indian\"},{\"label\":\"Thai\",\"value\":\"thai\"},{\"label\":\"French\",\"value\":\"french\"},{\"label\":\"Mediterranean\",\"value\":\"mediterranean\"}],\"value\":{\"path\":\"/selectedChoices\"}}]}}"
+              },
+              "current": {
+                "kind": "string",
+                "value": "{\"version\":\"v0.9\",\"createSurface\":{\"surfaceId\":\"sample\",\"catalogId\":\"https://a2ui.org/specification/v0_9/catalogs/basic/catalog.json\"}}\n{\"version\":\"v0.9\",\"updateDataModel\":{\"surfaceId\":\"sample\",\"path\":\"/\",\"value\":{\"selectedChoices\":[\"italian\"]}}}\n{\"version\":\"v0.9\",\"updateComponents\":{\"surfaceId\":\"sample\",\"components\":[{\"id\":\"root\",\"component\":\"ChoicePicker\",\"label\":\"Select your favorite cuisine\",\"variant\":\"mutuallyExclusive\",\"displayStyle\":\"checkbox\",\"filterable\":false,\"options\":[{\"label\":\"Italian\",\"value\":\"italian\"},{\"label\":\"Mexican\",\"value\":\"mexican\"},{\"label\":\"Japanese\",\"value\":\"japanese\"},{\"label\":\"Indian\",\"value\":\"indian\"},{\"label\":\"Thai\",\"value\":\"thai\"},{\"label\":\"French\",\"value\":\"french\"},{\"label\":\"Mediterranean\",\"value\":\"mediterranean\"}],\"value\":{\"path\":\"/selectedChoices\"}}]}}"
+              },
+              "index": null,
+              "suggestions": [],
+              "googleFonts": false,
+              "options": [],
+              "optionsExhaustive": false
+            }
+          ],
           "density": 2.625
         }
       ],
@@ -6937,7 +7293,7 @@
       "wireframe": "wireframes/choicepicker.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 271,
+      "bodyLine": 270,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "ChoicePickerSamplePreview",
       "parameters": [
@@ -6963,7 +7319,7 @@
     "androidx.compose.material3:material3-a2ui"
   ],
   "renderer": "compose-preview 2.26.0",
-  "generatedAt": "2026-09-26T15:52:31.470Z",
+  "generatedAt": "2026-09-26T16:35:58.043Z",
   "display": {
     "role": "samples",
     "hero": "Button"
