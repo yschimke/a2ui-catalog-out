@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 802 252" width="802" height="252" role="img" aria-label="ChoicePicker layout wireframe">
+  <title>ChoicePicker — layout wireframe (slots + tokens)</title>
+  <rect width="802" height="252" fill="#ffffff"/>
+  <g>
+    <rect x="0" y="0" width="802" height="252" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="802" height="252" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="0" y="0" width="802" height="252" fill="#FEF7FF" fill-opacity="1" stroke="#8E6BA8" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="3" y="12" font-family="system-ui, sans-serif" font-size="9" fill="#8E6BA8">#FFFEF7FF</text>
+  </g>
+  <g>
+    <rect x="42" y="42" width="718" height="168" fill="none" fill-opacity="0" stroke="#B0813B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="42" y="42" width="718" height="168" fill="none" fill-opacity="0" stroke="#3B72A8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="42" y="42" width="718" height="168" fill="none" fill-opacity="0" stroke="#A85B6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="42" y="42" width="309" height="63" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="42" y="126" width="718" height="84" fill="none" fill-opacity="0" stroke="#4F8A4A" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M63,126 H237 A21,21 0 0 1 258,147 V189 A21,21 0 0 1 237,210 H63 A21,21 0 0 1 42,189 V147 A21,21 0 0 1 63,126 Z" fill="#E8DEF8" fill-opacity="1" stroke="#000000" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="45" y="138" font-family="system-ui, sans-serif" font-size="9" fill="#000000">#FFE8DEF8</text>
+  </g>
+  <g>
+    <rect x="63" y="126" width="174" height="84" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="84" y="142" width="132" height="53" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="84" y="142" width="132" height="53" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M290,126 H415 A21,21 0 0 1 436,147 V189 A21,21 0 0 1 415,210 H290 A21,21 0 0 1 269,189 V147 A21,21 0 0 1 290,126 Z" fill="none" fill-opacity="0" stroke="#CAC4D0" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="272" y="138" font-family="system-ui, sans-serif" font-size="9" fill="#CAC4D0">◻ #FFCAC4D0</text>
+  </g>
+  <g>
+    <rect x="290" y="126" width="125" height="84" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="311" y="142" width="83" height="53" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="311" y="142" width="83" height="53" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <path d="M468,126 H739 A21,21 0 0 1 760,147 V189 A21,21 0 0 1 739,210 H468 A21,21 0 0 1 447,189 V147 A21,21 0 0 1 468,126 Z" fill="#E8DEF8" fill-opacity="1" stroke="#000000" stroke-width="1.5" stroke-opacity="1"/>
+    <text x="450" y="138" font-family="system-ui, sans-serif" font-size="9" fill="#000000">#FFE8DEF8</text>
+  </g>
+  <g>
+    <rect x="468" y="126" width="271" height="84" fill="none" fill-opacity="0" stroke="#5B6470" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="489" y="142" width="229" height="53" fill="none" fill-opacity="0" stroke="#2E7D6B" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+  <g>
+    <rect x="489" y="142" width="229" height="53" fill="none" fill-opacity="0" stroke="#8E6BA8" stroke-width="1" stroke-opacity="0.5"/>
+  </g>
+</svg>

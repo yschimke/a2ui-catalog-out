@@ -1,0 +1,545 @@
+{
+  "system": "a2ui-catalog",
+  "title": "A2UI basic catalog (Material 3)",
+  "label": "Compose",
+  "source": {
+    "repo": "yschimke/a2ui-catalog",
+    "ref": "main",
+    "module": ":catalog"
+  },
+  "generatedAt": "2026-09-26T13:17:29.866Z",
+  "mappings": [
+    {
+      "componentId": "Button",
+      "figmaLayerName": "Button",
+      "componentName": "ButtonOf",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/a2uicatalog/sections/Actions.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "ButtonSticker",
+      "codeSnippet": "ButtonOf(\n    variant = TODO(\"String\"),\n)",
+      "imports": [
+        "import ee.schimke.a2uicatalog.sections.ButtonOf"
+      ],
+      "parameters": [
+        {
+          "name": "variant",
+          "type": "String",
+          "typeFqn": "kotlin.String",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "label",
+          "type": "String",
+          "typeFqn": "kotlin.String",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "child",
+          "type": "String",
+          "typeFqn": "kotlin.String",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        }
+      ],
+      "figmaSvg": "figma/button.svg"
+    },
+    {
+      "componentId": "Card",
+      "figmaLayerName": "Card",
+      "componentName": "CardSticker",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/a2uicatalog/sections/Containers.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "CardSticker",
+      "figmaSvg": "figma/card.svg"
+    },
+    {
+      "componentId": "Tabs",
+      "figmaLayerName": "Tabs",
+      "componentName": "TabsSticker",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/a2uicatalog/sections/Containers.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "TabsSticker",
+      "figmaSvg": "figma/tabs.svg"
+    },
+    {
+      "componentId": "Modal",
+      "figmaLayerName": "Modal",
+      "componentName": "ModalSticker",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/a2uicatalog/sections/Containers.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "ModalSticker",
+      "figmaSvg": "figma/modal.svg"
+    },
+    {
+      "componentId": "Text",
+      "figmaLayerName": "Text",
+      "componentName": "TextOf",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/a2uicatalog/sections/Content.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "TextSticker",
+      "codeSnippet": "TextOf(\n    variant = TODO(\"String\"),\n    text = TODO(\"String\"),\n)",
+      "imports": [
+        "import ee.schimke.a2uicatalog.sections.TextOf"
+      ],
+      "parameters": [
+        {
+          "name": "variant",
+          "type": "String",
+          "typeFqn": "kotlin.String",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "text",
+          "type": "String",
+          "typeFqn": "kotlin.String",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        }
+      ],
+      "figmaSvg": "figma/text.svg"
+    },
+    {
+      "componentId": "Icon",
+      "figmaLayerName": "Icon",
+      "componentName": "IconOf",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/a2uicatalog/sections/Content.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "IconSticker",
+      "codeSnippet": "IconOf(\n    name = TODO(\"Any\"),\n)",
+      "imports": [
+        "import ee.schimke.a2uicatalog.sections.IconOf"
+      ],
+      "parameters": [
+        {
+          "name": "name",
+          "type": "Any",
+          "typeFqn": "kotlin.Any",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        }
+      ],
+      "figmaSvg": "figma/icon.svg"
+    },
+    {
+      "componentId": "Divider",
+      "figmaLayerName": "Divider",
+      "componentName": "DividerSticker",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/a2uicatalog/sections/Content.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "DividerSticker",
+      "figmaSvg": "figma/divider.svg"
+    },
+    {
+      "componentId": "TextField",
+      "figmaLayerName": "TextField",
+      "componentName": "TextFieldOf",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "TextFieldSticker",
+      "codeSnippet": "TextFieldOf(\n    variant = TODO(\"String\"),\n    value = TODO(\"String\"),\n)",
+      "imports": [
+        "import ee.schimke.a2uicatalog.sections.TextFieldOf"
+      ],
+      "parameters": [
+        {
+          "name": "variant",
+          "type": "String",
+          "typeFqn": "kotlin.String",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "value",
+          "type": "String",
+          "typeFqn": "kotlin.String",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "label",
+          "type": "String",
+          "typeFqn": "kotlin.String",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        }
+      ],
+      "figmaSvg": "figma/textfield.svg"
+    },
+    {
+      "componentId": "CheckBox",
+      "figmaLayerName": "CheckBox",
+      "componentName": "CheckBoxOf",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "CheckBoxSticker",
+      "codeSnippet": "CheckBoxOf(\n    checked = TODO(\"Boolean\"),\n)",
+      "imports": [
+        "import ee.schimke.a2uicatalog.sections.CheckBoxOf"
+      ],
+      "parameters": [
+        {
+          "name": "checked",
+          "type": "Boolean",
+          "typeFqn": "kotlin.Boolean",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        }
+      ],
+      "figmaSvg": "figma/checkbox.svg"
+    },
+    {
+      "componentId": "ChoicePicker",
+      "figmaLayerName": "ChoicePicker",
+      "componentName": "ChoicePickerOf",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "ChoicePickerSticker",
+      "codeSnippet": "ChoicePickerOf(\n    variant = TODO(\"String\"),\n    displayStyle = TODO(\"String\"),\n    selected = TODO(\"List<String>\"),\n)",
+      "imports": [
+        "import ee.schimke.a2uicatalog.sections.ChoicePickerOf"
+      ],
+      "parameters": [
+        {
+          "name": "variant",
+          "type": "String",
+          "typeFqn": "kotlin.String",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "displayStyle",
+          "type": "String",
+          "typeFqn": "kotlin.String",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "selected",
+          "type": "List<String>",
+          "typeFqn": "kotlin.collections.List",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "label",
+          "type": "String",
+          "typeFqn": "kotlin.String",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        }
+      ],
+      "figmaSvg": "figma/choicepicker.svg"
+    },
+    {
+      "componentId": "Slider",
+      "figmaLayerName": "Slider",
+      "componentName": "SliderSticker",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "SliderSticker",
+      "figmaSvg": "figma/slider.svg"
+    },
+    {
+      "componentId": "DateTimeInput",
+      "figmaLayerName": "DateTimeInput",
+      "componentName": "DateTimeOf",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "DateTimeInputSticker",
+      "codeSnippet": "DateTimeOf(\n    date = TODO(\"Boolean\"),\n    time = TODO(\"Boolean\"),\n    label = TODO(\"String\"),\n)",
+      "imports": [
+        "import ee.schimke.a2uicatalog.sections.DateTimeOf"
+      ],
+      "parameters": [
+        {
+          "name": "date",
+          "type": "Boolean",
+          "typeFqn": "kotlin.Boolean",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "time",
+          "type": "Boolean",
+          "typeFqn": "kotlin.Boolean",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "label",
+          "type": "String",
+          "typeFqn": "kotlin.String",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        }
+      ],
+      "figmaSvg": "figma/datetimeinput.svg"
+    },
+    {
+      "componentId": "Row",
+      "figmaLayerName": "Row",
+      "componentName": "StretchedRow",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/a2uicatalog/sections/Layout.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "RowSticker",
+      "codeSnippet": "StretchedRow(\n    justify = TODO(\"String\"),\n)",
+      "imports": [
+        "import ee.schimke.a2uicatalog.sections.StretchedRow"
+      ],
+      "parameters": [
+        {
+          "name": "justify",
+          "type": "String",
+          "typeFqn": "kotlin.String",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        }
+      ],
+      "figmaSvg": "figma/row.svg"
+    },
+    {
+      "componentId": "Column",
+      "figmaLayerName": "Column",
+      "componentName": "ColumnOf",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/a2uicatalog/sections/Layout.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "ColumnSticker",
+      "codeSnippet": "ColumnOf(\n    align = TODO(\"String\"),\n)",
+      "imports": [
+        "import ee.schimke.a2uicatalog.sections.ColumnOf"
+      ],
+      "parameters": [
+        {
+          "name": "align",
+          "type": "String",
+          "typeFqn": "kotlin.String",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        }
+      ],
+      "figmaSvg": "figma/column.svg"
+    },
+    {
+      "componentId": "List",
+      "figmaLayerName": "List",
+      "componentName": "ListOf",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/a2uicatalog/sections/Layout.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "ListSticker",
+      "codeSnippet": "ListOf(\n    direction = TODO(\"String\"),\n)",
+      "imports": [
+        "import ee.schimke.a2uicatalog.sections.ListOf"
+      ],
+      "parameters": [
+        {
+          "name": "direction",
+          "type": "String",
+          "typeFqn": "kotlin.String",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        }
+      ],
+      "figmaSvg": "figma/list.svg"
+    },
+    {
+      "componentId": "Image",
+      "figmaLayerName": "Image",
+      "componentName": "ImageOf",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/a2uicatalog/sections/Media.kt",
+      "label": "Compose",
+      "confidence": "HIGH",
+      "previewName": "ImageSticker",
+      "codeSnippet": "ImageOf(\n    variant = TODO(\"String\"),\n)",
+      "imports": [
+        "import ee.schimke.a2uicatalog.sections.ImageOf"
+      ],
+      "parameters": [
+        {
+          "name": "variant",
+          "type": "String",
+          "typeFqn": "kotlin.String",
+          "hasDefault": false,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        },
+        {
+          "name": "fit",
+          "type": "String",
+          "typeFqn": "kotlin.String",
+          "hasDefault": true,
+          "composableSlot": false,
+          "composableSlotReceiver": null,
+          "nullable": false,
+          "noArgConstructible": false,
+          "noArgFactory": null,
+          "scopeDslReceiver": null,
+          "lambdaReturnTypeFqn": null
+        }
+      ],
+      "figmaSvg": "figma/image.svg"
+    },
+    {
+      "componentId": "Video",
+      "figmaLayerName": "Video",
+      "componentName": "VideoSticker",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/a2uicatalog/sections/Media.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "VideoSticker",
+      "figmaSvg": "figma/video.svg"
+    },
+    {
+      "componentId": "AudioPlayer",
+      "figmaLayerName": "AudioPlayer",
+      "componentName": "AudioPlayerSticker",
+      "source": "https://github.com/yschimke/a2ui-catalog/blob/main/catalog/src/main/kotlin/ee/schimke/a2uicatalog/sections/Media.kt",
+      "label": "Compose",
+      "confidence": "preview-fallback",
+      "previewName": "AudioPlayerSticker",
+      "figmaSvg": "figma/audioplayer.svg"
+    }
+  ]
+}

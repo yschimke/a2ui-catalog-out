@@ -1,0 +1,911 @@
+{
+    "schemaVersion": 2,
+    "module": "catalog",
+    "variant": "debug",
+    "components": [
+        {
+            "canonicalId": "catalog/ee.schimke.a2uicatalog.sections.ActionsKt.ButtonOf",
+            "componentIds": [
+                "Button"
+            ],
+            "symbol": {
+                "jvmOwner": "ee.schimke.a2uicatalog.sections.ActionsKt",
+                "callable": "ee.schimke.a2uicatalog.sections.ButtonOf",
+                "name": "ButtonOf",
+                "origin": "PROJECT",
+                "jvmName": "ButtonOf",
+                "descriptor": "(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Landroidx/compose/runtime/Composer;II)V",
+                "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Actions.kt",
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "variant",
+                    "type": "String",
+                    "typeFqn": "kotlin.String",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "label",
+                    "type": "String",
+                    "typeFqn": "kotlin.String",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "child",
+                    "type": "String",
+                    "typeFqn": "kotlin.String",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.ActionsKt.ButtonBorderlessSticker",
+                    "componentId": "Button",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.ActionsKt.ButtonDefaultSticker",
+                    "componentId": "Button",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.ActionsKt.ButtonIconSticker",
+                    "componentId": "Button",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.ActionsKt.ButtonSticker",
+                    "componentId": "Button",
+                    "group": "Actions"
+                }
+            ],
+            "code": {
+                "call": null,
+                "imports": [],
+                "refusedReason": "not public or internal, so a generated file cannot call it",
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": false,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "catalog/ee.schimke.a2uicatalog.sections.ContentKt.IconOf",
+            "componentIds": [
+                "Icon"
+            ],
+            "symbol": {
+                "jvmOwner": "ee.schimke.a2uicatalog.sections.ContentKt",
+                "callable": "ee.schimke.a2uicatalog.sections.IconOf",
+                "name": "IconOf",
+                "origin": "PROJECT",
+                "jvmName": "IconOf",
+                "descriptor": "(Ljava/lang/Object;Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Content.kt",
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "name",
+                    "type": "Any",
+                    "typeFqn": "kotlin.Any",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.ContentKt.IconSettingsSticker",
+                    "componentId": "Icon",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.ContentKt.IconSticker",
+                    "componentId": "Icon",
+                    "group": "Content"
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.ContentKt.IconSvgPathSticker",
+                    "componentId": "Icon",
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": null,
+                "imports": [],
+                "refusedReason": "not public or internal, so a generated file cannot call it",
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": false,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "catalog/ee.schimke.a2uicatalog.sections.ContentKt.TextOf",
+            "componentIds": [
+                "Text"
+            ],
+            "symbol": {
+                "jvmOwner": "ee.schimke.a2uicatalog.sections.ContentKt",
+                "callable": "ee.schimke.a2uicatalog.sections.TextOf",
+                "name": "TextOf",
+                "origin": "PROJECT",
+                "jvmName": "TextOf",
+                "descriptor": "(Ljava/lang/String;Ljava/lang/String;Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Content.kt",
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "variant",
+                    "type": "String",
+                    "typeFqn": "kotlin.String",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "text",
+                    "type": "String",
+                    "typeFqn": "kotlin.String",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.ContentKt.TextCaptionSticker",
+                    "componentId": "Text",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.ContentKt.TextH1Sticker",
+                    "componentId": "Text",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.ContentKt.TextH2Sticker",
+                    "componentId": "Text",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.ContentKt.TextH3Sticker",
+                    "componentId": "Text",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.ContentKt.TextH4Sticker",
+                    "componentId": "Text",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.ContentKt.TextH5Sticker",
+                    "componentId": "Text",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.ContentKt.TextSticker",
+                    "componentId": "Text",
+                    "group": "Content"
+                }
+            ],
+            "code": {
+                "call": null,
+                "imports": [],
+                "refusedReason": "not public or internal, so a generated file cannot call it",
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": false,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.CheckBoxOf",
+            "componentIds": [
+                "CheckBox"
+            ],
+            "symbol": {
+                "jvmOwner": "ee.schimke.a2uicatalog.sections.FieldsKt",
+                "callable": "ee.schimke.a2uicatalog.sections.CheckBoxOf",
+                "name": "CheckBoxOf",
+                "origin": "PROJECT",
+                "jvmName": "CheckBoxOf",
+                "descriptor": "(ZLandroidx/compose/runtime/Composer;I)V",
+                "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt",
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "checked",
+                    "type": "Boolean",
+                    "typeFqn": "kotlin.Boolean",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.FieldsKt.CheckBoxSticker",
+                    "componentId": "CheckBox",
+                    "group": "Fields"
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.FieldsKt.CheckBoxUncheckedSticker",
+                    "componentId": "CheckBox",
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": null,
+                "imports": [],
+                "refusedReason": "not public or internal, so a generated file cannot call it",
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": false,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.ChoicePickerOf",
+            "componentIds": [
+                "ChoicePicker"
+            ],
+            "symbol": {
+                "jvmOwner": "ee.schimke.a2uicatalog.sections.FieldsKt",
+                "callable": "ee.schimke.a2uicatalog.sections.ChoicePickerOf",
+                "name": "ChoicePickerOf",
+                "origin": "PROJECT",
+                "jvmName": "ChoicePickerOf",
+                "descriptor": "(Ljava/lang/String;Ljava/lang/String;Ljava/util/List;Ljava/lang/String;Landroidx/compose/runtime/Composer;II)V",
+                "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt",
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "variant",
+                    "type": "String",
+                    "typeFqn": "kotlin.String",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "displayStyle",
+                    "type": "String",
+                    "typeFqn": "kotlin.String",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "selected",
+                    "type": "List<String>",
+                    "typeFqn": "kotlin.collections.List",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "label",
+                    "type": "String",
+                    "typeFqn": "kotlin.String",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.FieldsKt.ChoicePickerDropdownSticker",
+                    "componentId": "ChoicePicker",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.FieldsKt.ChoicePickerExclusiveSticker",
+                    "componentId": "ChoicePicker",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.FieldsKt.ChoicePickerSticker",
+                    "componentId": "ChoicePicker",
+                    "group": "Fields"
+                }
+            ],
+            "code": {
+                "call": null,
+                "imports": [],
+                "refusedReason": "not public or internal, so a generated file cannot call it",
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": false,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.DateTimeOf",
+            "componentIds": [
+                "DateTimeInput"
+            ],
+            "symbol": {
+                "jvmOwner": "ee.schimke.a2uicatalog.sections.FieldsKt",
+                "callable": "ee.schimke.a2uicatalog.sections.DateTimeOf",
+                "name": "DateTimeOf",
+                "origin": "PROJECT",
+                "jvmName": "DateTimeOf",
+                "descriptor": "(ZZLjava/lang/String;Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt",
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "date",
+                    "type": "Boolean",
+                    "typeFqn": "kotlin.Boolean",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "time",
+                    "type": "Boolean",
+                    "typeFqn": "kotlin.Boolean",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "label",
+                    "type": "String",
+                    "typeFqn": "kotlin.String",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.FieldsKt.DateTimeInputDateSticker",
+                    "componentId": "DateTimeInput",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.FieldsKt.DateTimeInputSticker",
+                    "componentId": "DateTimeInput",
+                    "group": "Fields"
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.FieldsKt.DateTimeInputTimeSticker",
+                    "componentId": "DateTimeInput",
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": null,
+                "imports": [],
+                "refusedReason": "not public or internal, so a generated file cannot call it",
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": false,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.TextFieldOf",
+            "componentIds": [
+                "TextField"
+            ],
+            "symbol": {
+                "jvmOwner": "ee.schimke.a2uicatalog.sections.FieldsKt",
+                "callable": "ee.schimke.a2uicatalog.sections.TextFieldOf",
+                "name": "TextFieldOf",
+                "origin": "PROJECT",
+                "jvmName": "TextFieldOf",
+                "descriptor": "(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Landroidx/compose/runtime/Composer;II)V",
+                "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt",
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "variant",
+                    "type": "String",
+                    "typeFqn": "kotlin.String",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "value",
+                    "type": "String",
+                    "typeFqn": "kotlin.String",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "label",
+                    "type": "String",
+                    "typeFqn": "kotlin.String",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.FieldsKt.TextFieldEmptySticker",
+                    "componentId": "TextField",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.FieldsKt.TextFieldLongTextSticker",
+                    "componentId": "TextField",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.FieldsKt.TextFieldNumberSticker",
+                    "componentId": "TextField",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.FieldsKt.TextFieldObscuredSticker",
+                    "componentId": "TextField",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.FieldsKt.TextFieldSticker",
+                    "componentId": "TextField",
+                    "group": "Fields"
+                }
+            ],
+            "code": {
+                "call": null,
+                "imports": [],
+                "refusedReason": "not public or internal, so a generated file cannot call it",
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": false,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "catalog/ee.schimke.a2uicatalog.sections.LayoutKt.ColumnOf",
+            "componentIds": [
+                "Column"
+            ],
+            "symbol": {
+                "jvmOwner": "ee.schimke.a2uicatalog.sections.LayoutKt",
+                "callable": "ee.schimke.a2uicatalog.sections.ColumnOf",
+                "name": "ColumnOf",
+                "origin": "PROJECT",
+                "jvmName": "ColumnOf",
+                "descriptor": "(Ljava/lang/String;Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Layout.kt",
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "align",
+                    "type": "String",
+                    "typeFqn": "kotlin.String",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.LayoutKt.ColumnCenterSticker",
+                    "componentId": "Column",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.LayoutKt.ColumnSticker",
+                    "componentId": "Column",
+                    "group": "Layout"
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.LayoutKt.ColumnStretchSticker",
+                    "componentId": "Column",
+                    "group": null
+                }
+            ],
+            "code": {
+                "call": null,
+                "imports": [],
+                "refusedReason": "not public or internal, so a generated file cannot call it",
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": false,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "catalog/ee.schimke.a2uicatalog.sections.LayoutKt.ListOf",
+            "componentIds": [
+                "List"
+            ],
+            "symbol": {
+                "jvmOwner": "ee.schimke.a2uicatalog.sections.LayoutKt",
+                "callable": "ee.schimke.a2uicatalog.sections.ListOf",
+                "name": "ListOf",
+                "origin": "PROJECT",
+                "jvmName": "ListOf",
+                "descriptor": "(Ljava/lang/String;Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Layout.kt",
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "direction",
+                    "type": "String",
+                    "typeFqn": "kotlin.String",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.LayoutKt.ListHorizontalSticker",
+                    "componentId": "List",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.LayoutKt.ListSticker",
+                    "componentId": "List",
+                    "group": "Layout"
+                }
+            ],
+            "code": {
+                "call": null,
+                "imports": [],
+                "refusedReason": "not public or internal, so a generated file cannot call it",
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": false,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "catalog/ee.schimke.a2uicatalog.sections.LayoutKt.StretchedRow",
+            "componentIds": [
+                "Row"
+            ],
+            "symbol": {
+                "jvmOwner": "ee.schimke.a2uicatalog.sections.LayoutKt",
+                "callable": "ee.schimke.a2uicatalog.sections.StretchedRow",
+                "name": "StretchedRow",
+                "origin": "PROJECT",
+                "jvmName": "StretchedRow",
+                "descriptor": "(Ljava/lang/String;Landroidx/compose/runtime/Composer;I)V",
+                "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Layout.kt",
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "justify",
+                    "type": "String",
+                    "typeFqn": "kotlin.String",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.LayoutKt.RowCenterSticker",
+                    "componentId": "Row",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.LayoutKt.RowEndSticker",
+                    "componentId": "Row",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.LayoutKt.RowSpaceBetweenSticker",
+                    "componentId": "Row",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.LayoutKt.RowSticker",
+                    "componentId": "Row",
+                    "group": "Layout"
+                }
+            ],
+            "code": {
+                "call": null,
+                "imports": [],
+                "refusedReason": "not public or internal, so a generated file cannot call it",
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": false,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        },
+        {
+            "canonicalId": "catalog/ee.schimke.a2uicatalog.sections.MediaKt.ImageOf",
+            "componentIds": [
+                "Image"
+            ],
+            "symbol": {
+                "jvmOwner": "ee.schimke.a2uicatalog.sections.MediaKt",
+                "callable": "ee.schimke.a2uicatalog.sections.ImageOf",
+                "name": "ImageOf",
+                "origin": "PROJECT",
+                "jvmName": "ImageOf",
+                "descriptor": "(Ljava/lang/String;Ljava/lang/String;Landroidx/compose/runtime/Composer;II)V",
+                "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Media.kt",
+                "docs": "unavailable",
+                "receiver": null
+            },
+            "parameters": [
+                {
+                    "name": "variant",
+                    "type": "String",
+                    "typeFqn": "kotlin.String",
+                    "hasDefault": false,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                },
+                {
+                    "name": "fit",
+                    "type": "String",
+                    "typeFqn": "kotlin.String",
+                    "hasDefault": true,
+                    "composableSlot": false,
+                    "composableSlotReceiver": null,
+                    "nullable": false,
+                    "noArgConstructible": false,
+                    "noArgFactory": null,
+                    "scopeDslReceiver": null,
+                    "lambdaReturnTypeFqn": null
+                }
+            ],
+            "slots": [],
+            "bindings": [
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.MediaKt.ImageAvatarSticker",
+                    "componentId": "Image",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.MediaKt.ImageHeaderSticker",
+                    "componentId": "Image",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.MediaKt.ImageIconSticker",
+                    "componentId": "Image",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.MediaKt.ImageLargeFeatureSticker",
+                    "componentId": "Image",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.MediaKt.ImageSmallFeatureSticker",
+                    "componentId": "Image",
+                    "group": null
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.sections.MediaKt.ImageSticker",
+                    "componentId": "Image",
+                    "group": "Media"
+                }
+            ],
+            "code": {
+                "call": null,
+                "imports": [],
+                "refusedReason": "not public or internal, so a generated file cannot call it",
+                "requiredOptIns": [],
+                "androidxOptIns": []
+            },
+            "signatureKnown": true,
+            "callableFromAnotherFile": false,
+            "hasTypeParameters": false,
+            "hasContextReceivers": false,
+            "overloadsCollided": false,
+            "builder": null,
+            "requiredOptIns": [],
+            "androidxOptIns": []
+        }
+    ],
+    "builderOrphans": []
+}

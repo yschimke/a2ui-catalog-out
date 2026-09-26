@@ -1,0 +1,2043 @@
+{
+  "schema": "design-parity-catalog/v1",
+  "system": "a2ui-catalog",
+  "title": "A2UI basic catalog (Material 3)",
+  "components": [
+    {
+      "componentId": "Button",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/button/ideal__default.png",
+          "state": "default",
+          "width": 369,
+          "height": 232,
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/button__ideal__default",
+          "previewId": "ee.schimke.a2uicatalog.sections.ActionsKt.ButtonSticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/button/ideal__default__variant-default.png",
+          "state": "default",
+          "width": 369,
+          "height": 232,
+          "props": {
+            "variant": "default"
+          },
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/button__ideal__default__variant-default",
+          "previewId": "ee.schimke.a2uicatalog.sections.ActionsKt.ButtonDefaultSticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/button/ideal__default__variant-borderless.png",
+          "state": "default",
+          "width": 307,
+          "height": 232,
+          "props": {
+            "variant": "borderless"
+          },
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/button__ideal__default__variant-borderless",
+          "previewId": "ee.schimke.a2uicatalog.sections.ActionsKt.ButtonBorderlessSticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/button/ideal__default__content-icon.png",
+          "state": "default",
+          "width": 273,
+          "height": 232,
+          "props": {
+            "content": "icon"
+          },
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/button__ideal__default__content-icon",
+          "previewId": "ee.schimke.a2uicatalog.sections.ActionsKt.ButtonIconSticker",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 42,
+              "y": 64,
+              "width": 285,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 42,
+            "y": 64,
+            "width": 285,
+            "height": 105
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 64,
+            "width": 285,
+            "height": 105
+          },
+          "role": "Button",
+          "padding": {
+            "start": 0,
+            "top": 4,
+            "end": 0,
+            "bottom": 4
+          },
+          "cornerRadius": 20
+        }
+      ],
+      "section": "Input",
+      "group": "Actions",
+      "caption": "Dispatches an action. `primary` is the filled button.",
+      "reference": "figma:ocdacdEsnHipMJD3egzxKb/57994:2324",
+      "wireframe": "wireframes/button.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Actions.kt",
+      "sourceModule": ":catalog",
+      "bodyLine": 44,
+      "sourceDirectory": "catalog",
+      "sourceFunction": "ButtonSticker",
+      "parameters": [
+        {
+          "name": "variant",
+          "type": "String"
+        },
+        {
+          "name": "label",
+          "type": "String",
+          "hasDefault": true
+        },
+        {
+          "name": "child",
+          "type": "String",
+          "hasDefault": true
+        }
+      ],
+      "related": [
+        {
+          "system": "a2ui-samples"
+        }
+      ],
+      "variants": [
+        {
+          "preview": "ButtonDefaultSticker",
+          "props": {
+            "variant": "default"
+          },
+          "caption": "The default variant: an outlined button.",
+          "reference": "figma:ocdacdEsnHipMJD3egzxKb/57994:2284"
+        },
+        {
+          "preview": "ButtonBorderlessSticker",
+          "props": {
+            "variant": "borderless"
+          },
+          "caption": "A text button, for the least emphasis.",
+          "reference": "figma:ocdacdEsnHipMJD3egzxKb/57994:2264"
+        },
+        {
+          "preview": "ButtonIconSticker",
+          "props": {
+            "content": "icon"
+          },
+          "caption": "A button whose child is an Icon rather than Text.",
+          "noReference": "Icon-only child; the kit's Button always carries a label."
+        }
+      ]
+    },
+    {
+      "componentId": "Card",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/card/ideal__default.png",
+          "state": "default",
+          "width": 1029,
+          "height": 1346,
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/card__ideal__default",
+          "previewId": "ee.schimke.a2uicatalog.sections.ContainersKt.CardSticker",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 459,
+              "y": 1136,
+              "width": 239,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 459,
+            "y": 1136,
+            "width": 239,
+            "height": 105
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 719,
+              "y": 1136,
+              "width": 226,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 719,
+            "y": 1136,
+            "width": 226,
+            "height": 105
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 42,
+            "width": 945,
+            "height": 1262
+          },
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 103,
+            "width": 105,
+            "height": 105
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 210,
+            "y": 95,
+            "width": 208,
+            "height": 63
+          },
+          "label": "Lisbon trip",
+          "padding": {
+            "start": 0,
+            "top": 4,
+            "end": 0,
+            "bottom": 2
+          }
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 804,
+            "width": 475,
+            "height": 74
+          },
+          "label": "Weekend in Lisbon",
+          "padding": {
+            "start": 0,
+            "top": 4,
+            "end": 0,
+            "bottom": 2
+          }
+        },
+        {
+          "bounds": {
+            "x": 459,
+            "y": 1136,
+            "width": 239,
+            "height": 105
+          },
+          "role": "Button",
+          "padding": {
+            "start": 0,
+            "top": 4,
+            "end": 0,
+            "bottom": 4
+          },
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 719,
+            "y": 1136,
+            "width": 226,
+            "height": 105
+          },
+          "role": "Button",
+          "padding": {
+            "start": 0,
+            "top": 4,
+            "end": 0,
+            "bottom": 4
+          },
+          "cornerRadius": 20
+        }
+      ],
+      "section": "Layout",
+      "group": "Containers",
+      "caption": "A container for one child, here the kit card's full set of slots. Drawn as an outlined card.",
+      "reference": "figma:ocdacdEsnHipMJD3egzxKb/52346:27574",
+      "wireframe": "wireframes/card.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Containers.kt",
+      "sourceModule": ":catalog",
+      "bodyLine": 28,
+      "sourceDirectory": "catalog",
+      "sourceFunction": "CardSticker",
+      "related": [
+        {
+          "system": "a2ui-samples"
+        }
+      ]
+    },
+    {
+      "componentId": "Tabs",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/tabs/ideal__default.png",
+          "state": "default",
+          "width": 1029,
+          "height": 315,
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/tabs__ideal__default",
+          "previewId": "ee.schimke.a2uicatalog.sections.ContainersKt.TabsSticker",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "tab",
+          "detail": {
+            "role": "tab",
+            "bounds": {
+              "x": 42,
+              "y": 42,
+              "width": 315,
+              "height": 126
+            }
+          },
+          "bounds": {
+            "x": 42,
+            "y": 42,
+            "width": 315,
+            "height": 126
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "tab",
+          "detail": {
+            "role": "tab",
+            "bounds": {
+              "x": 357,
+              "y": 42,
+              "width": 315,
+              "height": 126
+            }
+          },
+          "bounds": {
+            "x": 357,
+            "y": 42,
+            "width": 315,
+            "height": 126
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "tab",
+          "detail": {
+            "role": "tab",
+            "bounds": {
+              "x": 672,
+              "y": 42,
+              "width": 315,
+              "height": 126
+            }
+          },
+          "bounds": {
+            "x": 672,
+            "y": 42,
+            "width": 315,
+            "height": 126
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 42,
+            "width": 315,
+            "height": 126
+          },
+          "role": "Tab",
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 357,
+            "y": 42,
+            "width": 315,
+            "height": 126
+          },
+          "role": "Tab",
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 672,
+            "y": 42,
+            "width": 315,
+            "height": 126
+          },
+          "role": "Tab",
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 143,
+            "y": 160,
+            "width": 112,
+            "height": 8
+          },
+          "cornerRadius": 3
+        }
+      ],
+      "section": "Layout",
+      "group": "Containers",
+      "caption": "Titled tabs over one child each. The first tab is selected.",
+      "reference": "figma:ocdacdEsnHipMJD3egzxKb/54563:40116",
+      "wireframe": "wireframes/tabs.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Containers.kt",
+      "sourceModule": ":catalog",
+      "bodyLine": 110,
+      "sourceDirectory": "catalog",
+      "sourceFunction": "TabsSticker",
+      "related": [
+        {
+          "system": "a2ui-samples"
+        }
+      ]
+    },
+    {
+      "componentId": "Modal",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/modal/ideal__default.png",
+          "state": "default",
+          "width": 515,
+          "height": 232,
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/modal__ideal__default",
+          "previewId": "ee.schimke.a2uicatalog.sections.ContainersKt.ModalSticker",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 42,
+              "y": 42,
+              "width": 431,
+              "height": 148
+            }
+          },
+          "bounds": {
+            "x": 42,
+            "y": 42,
+            "width": 431,
+            "height": 148
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 42,
+              "y": 64,
+              "width": 431,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 42,
+            "y": 64,
+            "width": 431,
+            "height": 105
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 64,
+            "width": 431,
+            "height": 105
+          },
+          "role": "Button",
+          "padding": {
+            "start": 0,
+            "top": 4,
+            "end": 0,
+            "bottom": 4
+          },
+          "cornerRadius": 20
+        }
+      ],
+      "section": "Layout",
+      "group": "Containers",
+      "caption": "A trigger that opens its content in a dialog.",
+      "noReference": "At rest a Modal draws only its trigger; the dialog it opens (a BasicAlertDialog) is not shown until the trigger is pressed, so there is no resting picture to compare to the kit.",
+      "wireframe": "wireframes/modal.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Containers.kt",
+      "sourceModule": ":catalog",
+      "bodyLine": 140,
+      "sourceDirectory": "catalog",
+      "sourceFunction": "ModalSticker",
+      "related": [
+        {
+          "system": "a2ui-samples"
+        }
+      ]
+    },
+    {
+      "componentId": "Text",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/text/ideal__default.png",
+          "state": "default",
+          "width": 845,
+          "height": 147,
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/text__ideal__default",
+          "previewId": "ee.schimke.a2uicatalog.sections.ContentKt.TextSticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/text/ideal__default__variant-h1.png",
+          "state": "default",
+          "width": 463,
+          "height": 252,
+          "props": {
+            "variant": "h1"
+          },
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/text__ideal__default__variant-h1",
+          "previewId": "ee.schimke.a2uicatalog.sections.ContentKt.TextH1Sticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/text/ideal__default__variant-h2.png",
+          "state": "default",
+          "width": 414,
+          "height": 227,
+          "props": {
+            "variant": "h2"
+          },
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/text__ideal__default__variant-h2",
+          "previewId": "ee.schimke.a2uicatalog.sections.ContentKt.TextH2Sticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/text/ideal__default__variant-h3.png",
+          "state": "default",
+          "width": 368,
+          "height": 200,
+          "props": {
+            "variant": "h3"
+          },
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/text__ideal__default__variant-h3",
+          "previewId": "ee.schimke.a2uicatalog.sections.ContentKt.TextH3Sticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/text/ideal__default__variant-h4.png",
+          "state": "default",
+          "width": 341,
+          "height": 174,
+          "props": {
+            "variant": "h4"
+          },
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/text__ideal__default__variant-h4",
+          "previewId": "ee.schimke.a2uicatalog.sections.ContentKt.TextH4Sticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/text/ideal__default__variant-h5.png",
+          "state": "default",
+          "width": 282,
+          "height": 163,
+          "props": {
+            "variant": "h5"
+          },
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/text__ideal__default__variant-h5",
+          "previewId": "ee.schimke.a2uicatalog.sections.ContentKt.TextH5Sticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/text/ideal__default__variant-caption.png",
+          "state": "default",
+          "width": 471,
+          "height": 126,
+          "props": {
+            "variant": "caption"
+          },
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/text__ideal__default__variant-caption",
+          "previewId": "ee.schimke.a2uicatalog.sections.ContentKt.TextCaptionSticker",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [],
+      "section": "Content",
+      "group": "Content",
+      "caption": "A run of text in one of seven roles. `body` by default.",
+      "noReference": "The M3 kit publishes type STYLES, not a Text component; the roles each variant maps to are the Material type scale.",
+      "wireframe": "wireframes/text.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Content.kt",
+      "sourceModule": ":catalog",
+      "bodyLine": 33,
+      "sourceDirectory": "catalog",
+      "sourceFunction": "TextSticker",
+      "parameters": [
+        {
+          "name": "variant",
+          "type": "String"
+        },
+        {
+          "name": "text",
+          "type": "String"
+        }
+      ],
+      "related": [
+        {
+          "system": "a2ui-samples"
+        }
+      ]
+    },
+    {
+      "componentId": "Icon",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/icon/ideal__default.png",
+          "state": "default",
+          "width": 147,
+          "height": 147,
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/icon__ideal__default",
+          "previewId": "ee.schimke.a2uicatalog.sections.ContentKt.IconSticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/icon/ideal__default__name-settings.png",
+          "state": "default",
+          "width": 147,
+          "height": 147,
+          "props": {
+            "name": "settings"
+          },
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/icon__ideal__default__name-settings",
+          "previewId": "ee.schimke.a2uicatalog.sections.ContentKt.IconSettingsSticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/icon/ideal__default__name-svgpath.png",
+          "state": "default",
+          "width": 147,
+          "height": 147,
+          "props": {
+            "name": "svgPath"
+          },
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/icon__ideal__default__name-svgpath",
+          "previewId": "ee.schimke.a2uicatalog.sections.ContentKt.IconSvgPathSticker",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [],
+      "section": "Content",
+      "group": "Content",
+      "caption": "One of the catalog's named glyphs.",
+      "noReference": "The glyph set is the catalog's own (`material3-a2ui` bundles its 60 icons); the M3 kit's Icons page is a glyph library, not a component to compare against.",
+      "wireframe": "wireframes/icon.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Content.kt",
+      "sourceModule": ":catalog",
+      "bodyLine": 78,
+      "sourceDirectory": "catalog",
+      "sourceFunction": "IconSticker",
+      "parameters": [
+        {
+          "name": "name",
+          "type": "Any"
+        }
+      ],
+      "related": [
+        {
+          "system": "a2ui-samples"
+        }
+      ]
+    },
+    {
+      "componentId": "Divider",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/divider/ideal__default.png",
+          "state": "default",
+          "width": 1029,
+          "height": 255,
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/divider__ideal__default",
+          "previewId": "ee.schimke.a2uicatalog.sections.ContentKt.DividerSticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/divider/ideal__default__axis-vertical.png",
+          "state": "default",
+          "width": 385,
+          "height": 147,
+          "props": {
+            "axis": "vertical"
+          },
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/divider__ideal__default__axis-vertical",
+          "previewId": "ee.schimke.a2uicatalog.sections.ContentKt.DividerVerticalSticker",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [],
+      "section": "Content",
+      "group": "Content",
+      "caption": "A hairline between groups of content.",
+      "reference": "figma:ocdacdEsnHipMJD3egzxKb/51816:5860",
+      "wireframe": "wireframes/divider.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Content.kt",
+      "sourceModule": ":catalog",
+      "bodyLine": 104,
+      "sourceDirectory": "catalog",
+      "sourceFunction": "DividerSticker",
+      "related": [
+        {
+          "system": "a2ui-samples"
+        }
+      ],
+      "variants": [
+        {
+          "preview": "DividerVerticalSticker",
+          "props": {
+            "axis": "vertical"
+          },
+          "caption": "A vertical rule between two items in a row.",
+          "noReference": "Drawn between two labels in a row; the kit node is the bare rule."
+        }
+      ]
+    },
+    {
+      "componentId": "TextField",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/textfield/ideal__default.png",
+          "state": "default",
+          "width": 819,
+          "height": 252,
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/textfield__ideal__default",
+          "previewId": "ee.schimke.a2uicatalog.sections.FieldsKt.TextFieldSticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/textfield/ideal__default__variant-longtext.png",
+          "state": "default",
+          "width": 1029,
+          "height": 315,
+          "props": {
+            "variant": "longText"
+          },
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/textfield__ideal__default__variant-longtext",
+          "previewId": "ee.schimke.a2uicatalog.sections.FieldsKt.TextFieldLongTextSticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/textfield/ideal__default__variant-number.png",
+          "state": "default",
+          "width": 819,
+          "height": 252,
+          "props": {
+            "variant": "number"
+          },
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/textfield__ideal__default__variant-number",
+          "previewId": "ee.schimke.a2uicatalog.sections.FieldsKt.TextFieldNumberSticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/textfield/ideal__default__variant-obscured.png",
+          "state": "default",
+          "width": 819,
+          "height": 252,
+          "props": {
+            "variant": "obscured"
+          },
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/textfield__ideal__default__variant-obscured",
+          "previewId": "ee.schimke.a2uicatalog.sections.FieldsKt.TextFieldObscuredSticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/textfield/ideal__empty.png",
+          "state": "empty",
+          "width": 819,
+          "height": 252,
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/textfield__ideal__empty",
+          "previewId": "ee.schimke.a2uicatalog.sections.FieldsKt.TextFieldEmptySticker",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 42,
+            "width": 735,
+            "height": 168
+          },
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 63,
+            "width": 735,
+            "height": 147
+          },
+          "cornerRadius": 4
+        }
+      ],
+      "section": "Input",
+      "group": "Fields",
+      "caption": "A labelled text input bound to the data model. `shortText` by default.",
+      "reference": "figma:ocdacdEsnHipMJD3egzxKb/52798:24397",
+      "wireframe": "wireframes/textfield.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt",
+      "sourceModule": ":catalog",
+      "bodyLine": 43,
+      "sourceDirectory": "catalog",
+      "sourceFunction": "TextFieldSticker",
+      "parameters": [
+        {
+          "name": "variant",
+          "type": "String"
+        },
+        {
+          "name": "value",
+          "type": "String"
+        },
+        {
+          "name": "label",
+          "type": "String",
+          "hasDefault": true
+        }
+      ],
+      "related": [
+        {
+          "system": "a2ui-samples"
+        }
+      ]
+    },
+    {
+      "componentId": "CheckBox",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/checkbox/ideal__default.png",
+          "state": "default",
+          "width": 535,
+          "height": 147,
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/checkbox__ideal__default",
+          "previewId": "ee.schimke.a2uicatalog.sections.FieldsKt.CheckBoxSticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/checkbox/ideal__unchecked.png",
+          "state": "unchecked",
+          "width": 535,
+          "height": 147,
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/checkbox__ideal__unchecked",
+          "previewId": "ee.schimke.a2uicatalog.sections.FieldsKt.CheckBoxUncheckedSticker",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 42,
+              "y": 42,
+              "width": 451,
+              "height": 63
+            }
+          },
+          "bounds": {
+            "x": 42,
+            "y": 42,
+            "width": 451,
+            "height": 63
+          }
+        }
+      ],
+      "redlines": [],
+      "section": "Input",
+      "group": "Fields",
+      "caption": "A labelled boolean bound to the data model.",
+      "reference": "figma:ocdacdEsnHipMJD3egzxKb/51859:5629",
+      "wireframe": "wireframes/checkbox.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt",
+      "sourceModule": ":catalog",
+      "bodyLine": 100,
+      "sourceDirectory": "catalog",
+      "sourceFunction": "CheckBoxSticker",
+      "parameters": [
+        {
+          "name": "checked",
+          "type": "Boolean"
+        }
+      ],
+      "related": [
+        {
+          "system": "a2ui-samples"
+        }
+      ]
+    },
+    {
+      "componentId": "ChoicePicker",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/choicepicker/ideal__default.png",
+          "state": "default",
+          "width": 802,
+          "height": 252,
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/choicepicker__ideal__default",
+          "previewId": "ee.schimke.a2uicatalog.sections.FieldsKt.ChoicePickerSticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/choicepicker/ideal__default__variant-mutuallyexclusive.png",
+          "state": "default",
+          "width": 802,
+          "height": 252,
+          "props": {
+            "variant": "mutuallyExclusive"
+          },
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/choicepicker__ideal__default__variant-mutuallyexclusive",
+          "previewId": "ee.schimke.a2uicatalog.sections.FieldsKt.ChoicePickerExclusiveSticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/choicepicker/ideal__default__displaystyle-checkbox.png",
+          "state": "default",
+          "width": 1029,
+          "height": 420,
+          "props": {
+            "displayStyle": "checkbox"
+          },
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/choicepicker__ideal__default__displaystyle-checkbox",
+          "previewId": "ee.schimke.a2uicatalog.sections.FieldsKt.ChoicePickerDropdownSticker",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 42,
+              "y": 126,
+              "width": 216,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 42,
+            "y": 126,
+            "width": 216,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 269,
+              "y": 126,
+              "width": 167,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 269,
+            "y": 126,
+            "width": 167,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "checkbox",
+          "detail": {
+            "role": "checkbox",
+            "bounds": {
+              "x": 447,
+              "y": 126,
+              "width": 313,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 447,
+            "y": 126,
+            "width": 313,
+            "height": 84
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 42,
+            "width": 309,
+            "height": 63
+          },
+          "label": "Seat preference",
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 0,
+            "bottom": 8
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 126,
+            "width": 216,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 8
+        },
+        {
+          "bounds": {
+            "x": 269,
+            "y": 126,
+            "width": 167,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 8
+        },
+        {
+          "bounds": {
+            "x": 447,
+            "y": 126,
+            "width": 313,
+            "height": 84
+          },
+          "role": "Checkbox",
+          "cornerRadius": 8
+        }
+      ],
+      "section": "Input",
+      "group": "Fields",
+      "caption": "Pick from a list of options. Chips, allowing several selections.",
+      "reference": "figma:ocdacdEsnHipMJD3egzxKb/53923:28465",
+      "wireframe": "wireframes/choicepicker.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt",
+      "sourceModule": ":catalog",
+      "bodyLine": 143,
+      "sourceDirectory": "catalog",
+      "sourceFunction": "ChoicePickerSticker",
+      "parameters": [
+        {
+          "name": "variant",
+          "type": "String"
+        },
+        {
+          "name": "displayStyle",
+          "type": "String"
+        },
+        {
+          "name": "selected",
+          "type": "List<String>"
+        },
+        {
+          "name": "label",
+          "type": "String",
+          "hasDefault": true
+        }
+      ],
+      "related": [
+        {
+          "system": "a2ui-samples"
+        }
+      ],
+      "variants": [
+        {
+          "preview": "ChoicePickerDropdownSticker",
+          "props": {
+            "displayStyle": "checkbox"
+          },
+          "caption": "An exposed dropdown summarising the selection; the options open in a menu.",
+          "noReference": "Exposed dropdown anchored on an outlined text field; no single kit node."
+        }
+      ]
+    },
+    {
+      "componentId": "Slider",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/slider/ideal__default.png",
+          "state": "default",
+          "width": 1029,
+          "height": 305,
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/slider__ideal__default",
+          "previewId": "ee.schimke.a2uicatalog.sections.FieldsKt.SliderSticker",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 16,
+            "y": 121,
+            "width": 997,
+            "height": 116
+          },
+          "label": "Volume",
+          "padding": {
+            "start": 10,
+            "top": 0,
+            "end": 10,
+            "bottom": 0
+          }
+        },
+        {
+          "bounds": {
+            "x": 420,
+            "y": 121,
+            "width": 11,
+            "height": 116
+          },
+          "cornerRadius": 2.1
+        }
+      ],
+      "section": "Input",
+      "group": "Fields",
+      "caption": "A labelled value between `min` and `max`, bound to the data model.",
+      "reference": "figma:ocdacdEsnHipMJD3egzxKb/58008:10357",
+      "wireframe": "wireframes/slider.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt",
+      "sourceModule": ":catalog",
+      "bodyLine": 177,
+      "sourceDirectory": "catalog",
+      "sourceFunction": "SliderSticker",
+      "related": [
+        {
+          "system": "a2ui-samples"
+        }
+      ]
+    },
+    {
+      "componentId": "DateTimeInput",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/datetimeinput/ideal__default.png",
+          "state": "default",
+          "width": 1029,
+          "height": 274,
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/datetimeinput__ideal__default",
+          "previewId": "ee.schimke.a2uicatalog.sections.FieldsKt.DateTimeInputSticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/datetimeinput/ideal__default__enabletime-false.png",
+          "state": "default",
+          "width": 1029,
+          "height": 274,
+          "props": {
+            "enableTime": "false"
+          },
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/datetimeinput__ideal__default__enabletime-false",
+          "previewId": "ee.schimke.a2uicatalog.sections.FieldsKt.DateTimeInputDateSticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/datetimeinput/ideal__default__enabledate-false.png",
+          "state": "default",
+          "width": 1029,
+          "height": 274,
+          "props": {
+            "enableDate": "false"
+          },
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/datetimeinput__ideal__default__enabledate-false",
+          "previewId": "ee.schimke.a2uicatalog.sections.FieldsKt.DateTimeInputTimeSticker",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 42,
+              "y": 127,
+              "width": 275,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 42,
+            "y": 127,
+            "width": 275,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 766,
+              "y": 127,
+              "width": 221,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 766,
+            "y": 127,
+            "width": 221,
+            "height": 84
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 42,
+            "width": 164,
+            "height": 53
+          },
+          "label": "Departure",
+          "padding": {
+            "start": 0,
+            "top": 0,
+            "end": 0,
+            "bottom": 4
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 127,
+            "width": 275,
+            "height": 84
+          },
+          "role": "Button",
+          "cornerRadius": 8
+        },
+        {
+          "bounds": {
+            "x": 766,
+            "y": 127,
+            "width": 221,
+            "height": 84
+          },
+          "role": "Button",
+          "cornerRadius": 8
+        }
+      ],
+      "section": "Input",
+      "group": "Fields",
+      "caption": "A date and time, shown as a chip that opens the Material pickers.",
+      "reference": "figma:ocdacdEsnHipMJD3egzxKb/53923:28267",
+      "wireframe": "wireframes/datetimeinput.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt",
+      "sourceModule": ":catalog",
+      "bodyLine": 218,
+      "sourceDirectory": "catalog",
+      "sourceFunction": "DateTimeInputSticker",
+      "parameters": [
+        {
+          "name": "date",
+          "type": "Boolean"
+        },
+        {
+          "name": "time",
+          "type": "Boolean"
+        },
+        {
+          "name": "label",
+          "type": "String"
+        }
+      ],
+      "related": [
+        {
+          "system": "a2ui-samples"
+        }
+      ]
+    },
+    {
+      "componentId": "Row",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/row/ideal__default.png",
+          "state": "default",
+          "width": 1029,
+          "height": 231,
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/row__ideal__default",
+          "previewId": "ee.schimke.a2uicatalog.sections.LayoutKt.RowSticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/row/ideal__default__justify-spacebetween.png",
+          "state": "default",
+          "width": 1029,
+          "height": 231,
+          "props": {
+            "justify": "spaceBetween"
+          },
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/row__ideal__default__justify-spacebetween",
+          "previewId": "ee.schimke.a2uicatalog.sections.LayoutKt.RowSpaceBetweenSticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/row/ideal__default__justify-center.png",
+          "state": "default",
+          "width": 1029,
+          "height": 231,
+          "props": {
+            "justify": "center"
+          },
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/row__ideal__default__justify-center",
+          "previewId": "ee.schimke.a2uicatalog.sections.LayoutKt.RowCenterSticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/row/ideal__default__justify-end.png",
+          "state": "default",
+          "width": 1029,
+          "height": 231,
+          "props": {
+            "justify": "end"
+          },
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/row__ideal__default__justify-end",
+          "previewId": "ee.schimke.a2uicatalog.sections.LayoutKt.RowEndSticker",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 42,
+            "width": 162,
+            "height": 147
+          },
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 84,
+            "width": 78,
+            "height": 63
+          },
+          "label": "One",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 225,
+            "y": 42,
+            "width": 168,
+            "height": 147
+          },
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 267,
+            "y": 84,
+            "width": 84,
+            "height": 63
+          },
+          "label": "Two",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 414,
+            "y": 42,
+            "width": 196,
+            "height": 147
+          },
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 456,
+            "y": 84,
+            "width": 112,
+            "height": 63
+          },
+          "label": "Three",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        }
+      ],
+      "section": "Layout",
+      "group": "Layout",
+      "caption": "Children side by side. `justify` spreads them along the row, `align` across it.",
+      "noReference": "A2UI layout primitive drawn with foundation's Row; the M3 kit publishes no layout component.",
+      "wireframe": "wireframes/row.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Layout.kt",
+      "sourceModule": ":catalog",
+      "bodyLine": 61,
+      "sourceDirectory": "catalog",
+      "sourceFunction": "RowSticker",
+      "parameters": [
+        {
+          "name": "justify",
+          "type": "String"
+        }
+      ],
+      "related": [
+        {
+          "system": "a2ui-samples"
+        }
+      ]
+    },
+    {
+      "componentId": "Column",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/column/ideal__default.png",
+          "state": "default",
+          "width": 643,
+          "height": 453,
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/column__ideal__default",
+          "previewId": "ee.schimke.a2uicatalog.sections.LayoutKt.ColumnSticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/column/ideal__default__align-center.png",
+          "state": "default",
+          "width": 643,
+          "height": 453,
+          "props": {
+            "align": "center"
+          },
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/column__ideal__default__align-center",
+          "previewId": "ee.schimke.a2uicatalog.sections.LayoutKt.ColumnCenterSticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/column/ideal__default__align-stretch.png",
+          "state": "default",
+          "width": 1029,
+          "height": 453,
+          "props": {
+            "align": "stretch"
+          },
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/column__ideal__default__align-stretch",
+          "previewId": "ee.schimke.a2uicatalog.sections.LayoutKt.ColumnStretchSticker",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 42,
+              "y": 285,
+              "width": 226,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 42,
+            "y": 285,
+            "width": 226,
+            "height": 105
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 63,
+            "width": 527,
+            "height": 84
+          },
+          "label": "Weekend in Lisbon",
+          "padding": {
+            "start": 0,
+            "top": 8,
+            "end": 0,
+            "bottom": 4
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 285,
+            "width": 226,
+            "height": 105
+          },
+          "role": "Button",
+          "padding": {
+            "start": 0,
+            "top": 4,
+            "end": 0,
+            "bottom": 4
+          },
+          "cornerRadius": 20
+        }
+      ],
+      "section": "Layout",
+      "group": "Layout",
+      "caption": "Children stacked vertically. `align: start` keeps each child at its own width.",
+      "noReference": "A2UI layout primitive drawn with foundation's Column; the M3 kit publishes no layout component.",
+      "wireframe": "wireframes/column.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Layout.kt",
+      "sourceModule": ":catalog",
+      "bodyLine": 114,
+      "sourceDirectory": "catalog",
+      "sourceFunction": "ColumnSticker",
+      "parameters": [
+        {
+          "name": "align",
+          "type": "String"
+        }
+      ],
+      "related": [
+        {
+          "system": "a2ui-samples"
+        }
+      ]
+    },
+    {
+      "componentId": "List",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/list/ideal__default.png",
+          "state": "default",
+          "width": 1029,
+          "height": 567,
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/list__ideal__default",
+          "previewId": "ee.schimke.a2uicatalog.sections.LayoutKt.ListSticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/list/ideal__default__direction-horizontal.png",
+          "state": "default",
+          "width": 652,
+          "height": 273,
+          "props": {
+            "direction": "horizontal"
+          },
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/list__ideal__default__direction-horizontal",
+          "previewId": "ee.schimke.a2uicatalog.sections.LayoutKt.ListHorizontalSticker",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 42,
+            "width": 945,
+            "height": 147
+          },
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 84,
+            "width": 78,
+            "height": 63
+          },
+          "label": "One",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 210,
+            "width": 945,
+            "height": 147
+          },
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 252,
+            "width": 84,
+            "height": 63
+          },
+          "label": "Two",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 378,
+            "width": 945,
+            "height": 147
+          },
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 84,
+            "y": 420,
+            "width": 112,
+            "height": 63
+          },
+          "label": "Three",
+          "padding": {
+            "start": 16,
+            "top": 16,
+            "end": 16,
+            "bottom": 16
+          }
+        }
+      ],
+      "section": "Layout",
+      "group": "Layout",
+      "caption": "A scrolling run of children. Vertical by default.",
+      "noReference": "A2UI scrolling container drawn with foundation's lazy lists; the M3 kit's `List` is a list ITEM with leading and trailing slots, which A2UI does not publish.",
+      "wireframe": "wireframes/list.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Layout.kt",
+      "sourceModule": ":catalog",
+      "bodyLine": 156,
+      "sourceDirectory": "catalog",
+      "sourceFunction": "ListSticker",
+      "parameters": [
+        {
+          "name": "direction",
+          "type": "String"
+        }
+      ],
+      "related": [
+        {
+          "system": "a2ui-samples"
+        }
+      ]
+    },
+    {
+      "componentId": "Image",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/image/ideal__default.png",
+          "state": "default",
+          "width": 420,
+          "height": 420,
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/image__ideal__default",
+          "previewId": "ee.schimke.a2uicatalog.sections.MediaKt.ImageSticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/image/ideal__default__variant-icon.png",
+          "state": "default",
+          "width": 147,
+          "height": 147,
+          "props": {
+            "variant": "icon"
+          },
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/image__ideal__default__variant-icon",
+          "previewId": "ee.schimke.a2uicatalog.sections.MediaKt.ImageIconSticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/image/ideal__default__variant-avatar.png",
+          "state": "default",
+          "width": 189,
+          "height": 189,
+          "props": {
+            "variant": "avatar"
+          },
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/image__ideal__default__variant-avatar",
+          "previewId": "ee.schimke.a2uicatalog.sections.MediaKt.ImageAvatarSticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/image/ideal__default__variant-smallfeature.png",
+          "state": "default",
+          "width": 252,
+          "height": 252,
+          "props": {
+            "variant": "smallFeature"
+          },
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/image__ideal__default__variant-smallfeature",
+          "previewId": "ee.schimke.a2uicatalog.sections.MediaKt.ImageSmallFeatureSticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/image/ideal__default__variant-largefeature.png",
+          "state": "default",
+          "width": 756,
+          "height": 756,
+          "props": {
+            "variant": "largeFeature"
+          },
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/image__ideal__default__variant-largefeature",
+          "previewId": "ee.schimke.a2uicatalog.sections.MediaKt.ImageLargeFeatureSticker",
+          "density": 2.625
+        },
+        {
+          "variant": "ideal",
+          "path": "images/image/ideal__default__variant-header.png",
+          "state": "default",
+          "width": 1029,
+          "height": 609,
+          "props": {
+            "variant": "header"
+          },
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/image__ideal__default__variant-header",
+          "previewId": "ee.schimke.a2uicatalog.sections.MediaKt.ImageHeaderSticker",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 42,
+            "width": 336,
+            "height": 336
+          },
+          "role": "Image",
+          "label": "Tram on a Lisbon street",
+          "cornerRadius": 12
+        }
+      ],
+      "section": "Content",
+      "group": "Media",
+      "caption": "An image at one of six catalog sizes. `mediumFeature` by default: 128dp, 12dp corners.",
+      "noReference": "The picture is the app's renderer; the kit publishes no image component.",
+      "wireframe": "wireframes/image.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Media.kt",
+      "sourceModule": ":catalog",
+      "bodyLine": 44,
+      "sourceDirectory": "catalog",
+      "sourceFunction": "ImageSticker",
+      "parameters": [
+        {
+          "name": "variant",
+          "type": "String"
+        },
+        {
+          "name": "fit",
+          "type": "String",
+          "hasDefault": true
+        }
+      ],
+      "related": [
+        {
+          "system": "a2ui-samples"
+        }
+      ]
+    },
+    {
+      "componentId": "Video",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/video/ideal__default.png",
+          "state": "default",
+          "width": 1029,
+          "height": 616,
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/video__ideal__default",
+          "previewId": "ee.schimke.a2uicatalog.sections.MediaKt.VideoSticker",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 42,
+            "width": 945,
+            "height": 532
+          },
+          "label": "Video",
+          "cornerRadius": 12
+        },
+        {
+          "bounds": {
+            "x": 441,
+            "y": 235,
+            "width": 147,
+            "height": 147
+          },
+          "cornerRadius": 28
+        }
+      ],
+      "section": "Content",
+      "group": "Media",
+      "caption": "A video, shown at rest as its poster frame.",
+      "noReference": "The player is the app's renderer; the kit publishes no video component.",
+      "wireframe": "wireframes/video.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Media.kt",
+      "sourceModule": ":catalog",
+      "bodyLine": 79,
+      "sourceDirectory": "catalog",
+      "sourceFunction": "VideoSticker",
+      "related": [
+        {
+          "system": "a2ui-samples"
+        }
+      ]
+    },
+    {
+      "componentId": "AudioPlayer",
+      "images": [
+        {
+          "variant": "ideal",
+          "path": "images/audioplayer/ideal__default.png",
+          "state": "default",
+          "width": 1029,
+          "height": 274,
+          "livePreview": "https://preview.coo.ee/a2ui-catalog/p/audioplayer__ideal__default",
+          "previewId": "ee.schimke.a2uicatalog.sections.MediaKt.AudioPlayerSticker",
+          "density": 2.625
+        }
+      ],
+      "greenlines": [
+        {
+          "kind": "a11y",
+          "severity": "info",
+          "message": "button",
+          "detail": {
+            "role": "button",
+            "bounds": {
+              "x": 85,
+              "y": 85,
+              "width": 105,
+              "height": 105
+            }
+          },
+          "bounds": {
+            "x": 85,
+            "y": 85,
+            "width": 105,
+            "height": 105
+          }
+        }
+      ],
+      "redlines": [
+        {
+          "bounds": {
+            "x": 42,
+            "y": 42,
+            "width": 945,
+            "height": 190
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 85,
+            "y": 85,
+            "width": 105,
+            "height": 105
+          },
+          "role": "Button",
+          "cornerRadius": 20
+        },
+        {
+          "bounds": {
+            "x": 232,
+            "y": 143,
+            "width": 723,
+            "height": 63
+          },
+          "padding": {
+            "start": 0,
+            "top": 10,
+            "end": 0,
+            "bottom": 10
+          }
+        }
+      ],
+      "section": "Content",
+      "group": "Media",
+      "caption": "An audio track with its description, at rest.",
+      "noReference": "The player is the app's renderer; the kit publishes no audio component.",
+      "wireframe": "wireframes/audioplayer.svg",
+      "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Media.kt",
+      "sourceModule": ":catalog",
+      "bodyLine": 90,
+      "sourceDirectory": "catalog",
+      "sourceFunction": "AudioPlayerSticker",
+      "related": [
+        {
+          "system": "a2ui-samples"
+        }
+      ]
+    }
+  ],
+  "library": [
+    "androidx.compose.material3:material3-a2ui",
+    "androidx.a2ui.compose:compose-ui",
+    "androidx.a2ui.compose:compose-runtime",
+    "androidx.a2ui:a2ui-model"
+  ],
+  "renderer": "compose-preview 2.26.0",
+  "generatedAt": "2026-09-26T13:17:29.497Z",
+  "display": {
+    "hero": "Card"
+  },
+  "liveBundle": {
+    "path": "bundle/",
+    "file": "bundle.png"
+  },
+  "liveBundles": [
+    {
+      "path": "bundle/",
+      "file": "bundle.png",
+      "module": ":catalog",
+      "previewIdPrefix": ""
+    }
+  ],
+  "componentsFile": "components.json",
+  "uiBuilderFile": "ui-builder.json",
+  "source": {
+    "repo": "yschimke/a2ui-catalog",
+    "ref": "main",
+    "module": ":catalog"
+  }
+}
