@@ -1,0 +1,151 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../a2ui-model/1.0.0-alpha01-cmp01/a2ui-model-1.0.0-alpha01-cmp01.module",
+    "group": "ee.schimke.a2uicmp",
+    "module": "a2ui-model",
+    "version": "1.0.0-alpha01-cmp01",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.7.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "jvmApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "ee.schimke.a2uicmp",
+          "module": "a2ui-port-runtime",
+          "version": {
+            "requires": "1.0.0-alpha01-cmp01"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.9.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.4.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "a2ui-model-jvm-1.0.0-alpha01-cmp01.jar",
+          "url": "a2ui-model-jvm-1.0.0-alpha01-cmp01.jar",
+          "size": 269072,
+          "sha512": "2dcb7bbea6d30b883a0a284f2027cc29be294e1258408fd2389680b4d70ab95d266340a93b3da1f894a00e6b704cc69f4baa091de70bf8554d438a48586fd602",
+          "sha256": "70c6accb537eb25fbaf6f3ca12a64f247909fe37851db988f4a55678c926dc51",
+          "sha1": "5a2f49723884a4d7e9388de35b8b37e9dc02f963",
+          "md5": "879235245772a9f6885e34eaa1d9188c"
+        }
+      ]
+    },
+    {
+      "name": "jvmRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "ee.schimke.a2uicmp",
+          "module": "a2ui-port-runtime",
+          "version": {
+            "requires": "1.0.0-alpha01-cmp01"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.9.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.4.20"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.10.0"
+          }
+        },
+        {
+          "group": "androidx.collection",
+          "module": "collection",
+          "version": {
+            "requires": "1.6.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-serialization-json",
+          "version": {
+            "requires": "1.7.3"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "a2ui-model-jvm-1.0.0-alpha01-cmp01.jar",
+          "url": "a2ui-model-jvm-1.0.0-alpha01-cmp01.jar",
+          "size": 269072,
+          "sha512": "2dcb7bbea6d30b883a0a284f2027cc29be294e1258408fd2389680b4d70ab95d266340a93b3da1f894a00e6b704cc69f4baa091de70bf8554d438a48586fd602",
+          "sha256": "70c6accb537eb25fbaf6f3ca12a64f247909fe37851db988f4a55678c926dc51",
+          "sha1": "5a2f49723884a4d7e9388de35b8b37e9dc02f963",
+          "md5": "879235245772a9f6885e34eaa1d9188c"
+        }
+      ]
+    },
+    {
+      "name": "jvmSourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "a2ui-model-jvm-1.0.0-alpha01-cmp01-sources.jar",
+          "url": "a2ui-model-jvm-1.0.0-alpha01-cmp01-sources.jar",
+          "size": 96509,
+          "sha512": "9bbb76e9631f22aa6d1c26665fd390a35a796a5aa7862facd5b36eb7fa1bad192795e0cc4581d7b3f90e5e1eedc4f1331b7bef35adc12dd0ae9ce6c2054f6548",
+          "sha256": "c88aaa0b6401680ff70ab716abc0da077c41e993e17ac99a20bbd5a962e3bf9d",
+          "sha1": "38a05299e39945e5d700a78176687d4b4a183a5b",
+          "md5": "598aa802c6487276f8f3b775e88bc422"
+        }
+      ]
+    }
+  ]
+}

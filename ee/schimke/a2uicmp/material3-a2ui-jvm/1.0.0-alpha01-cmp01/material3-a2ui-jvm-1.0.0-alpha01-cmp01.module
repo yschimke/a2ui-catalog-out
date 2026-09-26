@@ -1,0 +1,207 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../material3-a2ui/1.0.0-alpha01-cmp01/material3-a2ui-1.0.0-alpha01-cmp01.module",
+    "group": "ee.schimke.a2uicmp",
+    "module": "material3-a2ui",
+    "version": "1.0.0-alpha01-cmp01",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.7.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "jvmApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "ee.schimke.a2uicmp",
+          "module": "a2ui-model",
+          "version": {
+            "requires": "1.0.0-alpha01-cmp01"
+          }
+        },
+        {
+          "group": "ee.schimke.a2uicmp",
+          "module": "a2ui-compose-runtime",
+          "version": {
+            "requires": "1.0.0-alpha01-cmp01"
+          }
+        },
+        {
+          "group": "ee.schimke.a2uicmp",
+          "module": "a2ui-compose-ui",
+          "version": {
+            "requires": "1.0.0-alpha01-cmp01"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.animation",
+          "module": "animation",
+          "version": {
+            "requires": "1.13.0-alpha01"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.4.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "material3-a2ui-jvm-1.0.0-alpha01-cmp01.jar",
+          "url": "material3-a2ui-jvm-1.0.0-alpha01-cmp01.jar",
+          "size": 477341,
+          "sha512": "92e7ed8938012bcd96fd51f322f26d0b8c6ed0d4f1b91de491fd5b22e0b814f09f070d22cad3872c9c9d297e3e40ad9c431c82bacb93683fee6660ceb44e5a3e",
+          "sha256": "9e1ffa7bcc11da19fcbccf9653df6fa722850fc8212b69b3c18b02c27ac3e0e3",
+          "sha1": "0eb80b638de853cfa52793ffab8efd63cfe18571",
+          "md5": "7c9a64561bbf6f1ccb9c4e40c042fd05"
+        }
+      ]
+    },
+    {
+      "name": "jvmRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "ee.schimke.a2uicmp",
+          "module": "a2ui-model",
+          "version": {
+            "requires": "1.0.0-alpha01-cmp01"
+          }
+        },
+        {
+          "group": "ee.schimke.a2uicmp",
+          "module": "a2ui-compose-runtime",
+          "version": {
+            "requires": "1.0.0-alpha01-cmp01"
+          }
+        },
+        {
+          "group": "ee.schimke.a2uicmp",
+          "module": "a2ui-compose-ui",
+          "version": {
+            "requires": "1.0.0-alpha01-cmp01"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.animation",
+          "module": "animation",
+          "version": {
+            "requires": "1.13.0-alpha01"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.4.20"
+          }
+        },
+        {
+          "group": "ee.schimke.a2uicmp",
+          "module": "a2ui-port-runtime",
+          "version": {
+            "requires": "1.0.0-alpha01-cmp01"
+          }
+        },
+        {
+          "group": "ee.schimke.a2uicmp",
+          "module": "a2ui-engine",
+          "version": {
+            "requires": "1.0.0-alpha01-cmp01"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.foundation",
+          "module": "foundation",
+          "version": {
+            "requires": "1.13.0-alpha01"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.material3",
+          "module": "material3",
+          "version": {
+            "requires": "1.13.0-alpha01"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.runtime",
+          "module": "runtime",
+          "version": {
+            "requires": "1.13.0-alpha01"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.ui",
+          "module": "ui",
+          "version": {
+            "requires": "1.13.0-alpha01"
+          }
+        },
+        {
+          "group": "androidx.collection",
+          "module": "collection",
+          "version": {
+            "requires": "1.6.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "material3-a2ui-jvm-1.0.0-alpha01-cmp01.jar",
+          "url": "material3-a2ui-jvm-1.0.0-alpha01-cmp01.jar",
+          "size": 477341,
+          "sha512": "92e7ed8938012bcd96fd51f322f26d0b8c6ed0d4f1b91de491fd5b22e0b814f09f070d22cad3872c9c9d297e3e40ad9c431c82bacb93683fee6660ceb44e5a3e",
+          "sha256": "9e1ffa7bcc11da19fcbccf9653df6fa722850fc8212b69b3c18b02c27ac3e0e3",
+          "sha1": "0eb80b638de853cfa52793ffab8efd63cfe18571",
+          "md5": "7c9a64561bbf6f1ccb9c4e40c042fd05"
+        }
+      ]
+    },
+    {
+      "name": "jvmSourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "material3-a2ui-jvm-1.0.0-alpha01-cmp01-sources.jar",
+          "url": "material3-a2ui-jvm-1.0.0-alpha01-cmp01-sources.jar",
+          "size": 123626,
+          "sha512": "a222612e133a7365e577e17072156dd77dd0fe0846d97bc69d56fcaa0178015201df27e46667fd96ef4de81bd4e4bedaab6aad1978ea55cbb5f259357fd3b4f8",
+          "sha256": "8798f57c00bef8aa2a4978dadd9ae806677b7370bf34c347899a571ccf328633",
+          "sha1": "21a84ab165947d43f942448f24a1078286230321",
+          "md5": "ac939ed2e5ae9b5ea7543473b8036b83"
+        }
+      ]
+    }
+  ]
+}

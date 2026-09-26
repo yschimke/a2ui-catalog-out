@@ -1,0 +1,316 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../material3-a2ui/1.0.0-alpha01-cmp01/material3-a2ui-1.0.0-alpha01-cmp01.module",
+    "group": "ee.schimke.a2uicmp",
+    "module": "material3-a2ui",
+    "version": "1.0.0-alpha01-cmp01",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.7.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "wasmJsApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.platform.type": "wasm",
+        "org.jetbrains.kotlin.wasm.target": "js"
+      },
+      "dependencies": [
+        {
+          "group": "ee.schimke.a2uicmp",
+          "module": "a2ui-model",
+          "version": {
+            "requires": "1.0.0-alpha01-cmp01"
+          }
+        },
+        {
+          "group": "ee.schimke.a2uicmp",
+          "module": "a2ui-compose-runtime",
+          "version": {
+            "requires": "1.0.0-alpha01-cmp01"
+          }
+        },
+        {
+          "group": "ee.schimke.a2uicmp",
+          "module": "a2ui-compose-ui",
+          "version": {
+            "requires": "1.0.0-alpha01-cmp01"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.animation",
+          "module": "animation",
+          "version": {
+            "requires": "1.13.0-alpha01"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.4.20"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "material3-a2ui-wasm-js-1.0.0-alpha01-cmp01.klib",
+          "url": "material3-a2ui-wasm-js-1.0.0-alpha01-cmp01.klib",
+          "size": 337202,
+          "sha512": "20f598f6c3bda4189273648e431e36b89f7158e0d9006bebed29e407a0c89d525022a3de0f0dadfdf6f98b65d993269fa5d371237a856728a2993e8bd8639912",
+          "sha256": "fa36ad081e1a9e48bc5664297a0b4d7c03999d0ee0bd02e36e53ef72eeef448b",
+          "sha1": "646ce22182bb82d45dea206752366d0e4eebe481",
+          "md5": "c6829fbd156bd1f9eb248da89c5cd5fb"
+        }
+      ]
+    },
+    {
+      "name": "wasmJsRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.platform.type": "wasm",
+        "org.jetbrains.kotlin.wasm.target": "js"
+      },
+      "dependencies": [
+        {
+          "group": "ee.schimke.a2uicmp",
+          "module": "a2ui-model",
+          "version": {
+            "requires": "1.0.0-alpha01-cmp01"
+          }
+        },
+        {
+          "group": "ee.schimke.a2uicmp",
+          "module": "a2ui-compose-runtime",
+          "version": {
+            "requires": "1.0.0-alpha01-cmp01"
+          }
+        },
+        {
+          "group": "ee.schimke.a2uicmp",
+          "module": "a2ui-compose-ui",
+          "version": {
+            "requires": "1.0.0-alpha01-cmp01"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.animation",
+          "module": "animation",
+          "version": {
+            "requires": "1.13.0-alpha01"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.4.20"
+          }
+        },
+        {
+          "group": "ee.schimke.a2uicmp",
+          "module": "a2ui-port-runtime",
+          "version": {
+            "requires": "1.0.0-alpha01-cmp01"
+          }
+        },
+        {
+          "group": "ee.schimke.a2uicmp",
+          "module": "a2ui-engine",
+          "version": {
+            "requires": "1.0.0-alpha01-cmp01"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.foundation",
+          "module": "foundation",
+          "version": {
+            "requires": "1.13.0-alpha01"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.material3",
+          "module": "material3",
+          "version": {
+            "requires": "1.13.0-alpha01"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.runtime",
+          "module": "runtime",
+          "version": {
+            "requires": "1.13.0-alpha01"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.ui",
+          "module": "ui",
+          "version": {
+            "requires": "1.13.0-alpha01"
+          }
+        },
+        {
+          "group": "androidx.collection",
+          "module": "collection",
+          "version": {
+            "requires": "1.6.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "material3-a2ui-wasm-js-1.0.0-alpha01-cmp01.klib",
+          "url": "material3-a2ui-wasm-js-1.0.0-alpha01-cmp01.klib",
+          "size": 337202,
+          "sha512": "20f598f6c3bda4189273648e431e36b89f7158e0d9006bebed29e407a0c89d525022a3de0f0dadfdf6f98b65d993269fa5d371237a856728a2993e8bd8639912",
+          "sha256": "fa36ad081e1a9e48bc5664297a0b4d7c03999d0ee0bd02e36e53ef72eeef448b",
+          "sha1": "646ce22182bb82d45dea206752366d0e4eebe481",
+          "md5": "c6829fbd156bd1f9eb248da89c5cd5fb"
+        }
+      ]
+    },
+    {
+      "name": "wasmJsSourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.platform.type": "wasm",
+        "org.jetbrains.kotlin.wasm.target": "js"
+      },
+      "files": [
+        {
+          "name": "material3-a2ui-wasm-js-1.0.0-alpha01-cmp01-sources.jar",
+          "url": "material3-a2ui-wasm-js-1.0.0-alpha01-cmp01-sources.jar",
+          "size": 123626,
+          "sha512": "a222612e133a7365e577e17072156dd77dd0fe0846d97bc69d56fcaa0178015201df27e46667fd96ef4de81bd4e4bedaab6aad1978ea55cbb5f259357fd3b4f8",
+          "sha256": "8798f57c00bef8aa2a4978dadd9ae806677b7370bf34c347899a571ccf328633",
+          "sha1": "21a84ab165947d43f942448f24a1078286230321",
+          "md5": "ac939ed2e5ae9b5ea7543473b8036b83"
+        }
+      ]
+    },
+    {
+      "name": "wasmJsResourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.libraryelements": "kotlin-multiplatformresourcesjs",
+        "org.gradle.usage": "kotlin-multiplatformresourcesjs",
+        "org.jetbrains.kotlin.platform.type": "wasm",
+        "org.jetbrains.kotlin.wasm.target": "js"
+      },
+      "dependencies": [
+        {
+          "group": "ee.schimke.a2uicmp",
+          "module": "a2ui-model",
+          "version": {
+            "requires": "1.0.0-alpha01-cmp01"
+          }
+        },
+        {
+          "group": "ee.schimke.a2uicmp",
+          "module": "a2ui-compose-runtime",
+          "version": {
+            "requires": "1.0.0-alpha01-cmp01"
+          }
+        },
+        {
+          "group": "ee.schimke.a2uicmp",
+          "module": "a2ui-compose-ui",
+          "version": {
+            "requires": "1.0.0-alpha01-cmp01"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.animation",
+          "module": "animation",
+          "version": {
+            "requires": "1.13.0-alpha01"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.4.20"
+          }
+        },
+        {
+          "group": "ee.schimke.a2uicmp",
+          "module": "a2ui-port-runtime",
+          "version": {
+            "requires": "1.0.0-alpha01-cmp01"
+          }
+        },
+        {
+          "group": "ee.schimke.a2uicmp",
+          "module": "a2ui-engine",
+          "version": {
+            "requires": "1.0.0-alpha01-cmp01"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.foundation",
+          "module": "foundation",
+          "version": {
+            "requires": "1.13.0-alpha01"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.material3",
+          "module": "material3",
+          "version": {
+            "requires": "1.13.0-alpha01"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.runtime",
+          "module": "runtime",
+          "version": {
+            "requires": "1.13.0-alpha01"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.ui",
+          "module": "ui",
+          "version": {
+            "requires": "1.13.0-alpha01"
+          }
+        },
+        {
+          "group": "androidx.collection",
+          "module": "collection",
+          "version": {
+            "requires": "1.6.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "material3-a2ui-1.0.0-alpha01-cmp01.kotlin_resources.zip",
+          "url": "material3-a2ui-wasm-js-1.0.0-alpha01-cmp01-kotlin_resources.kotlin_resources.zip",
+          "size": 354,
+          "sha512": "2f211ff4e9d3f9b2ddf9ddb9093a602968a0511c50990644498b056cedf1a942f23f7f2ab7f6fe6bc2d79f204cb103cb62716214a33d6324f9e9feb1f7bc831a",
+          "sha256": "bef8a624b59173f6c23ce923ca08c1a7925a69e2d42e39d5cfe55fabdd5feeac",
+          "sha1": "c10cb86a6e19581c69ad5e88717e1c897c02f45d",
+          "md5": "dabeb2c8076508d7871a153d3b0fac3f"
+        }
+      ]
+    }
+  ]
+}
