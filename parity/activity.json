@@ -1,11 +1,39 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-26T14:47:19.227Z",
+  "generatedAt": "2026-09-26T15:59:09.076Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "741d207c11eba99e5793df7b5a24ed970cbc2feb",
+        "subject": "feat: link each kit component to every sample screen whose payload uses it",
+        "at": "2026-09-26T15:41:22Z",
+        "author": "Yuri Schimke",
+        "previewIds": [
+          "button__ideal__default",
+          "card__ideal__default",
+          "tabs__ideal__default",
+          "divider__ideal__default",
+          "checkbox__ideal__default",
+          "choicepicker__ideal__default",
+          "datetimeinput__ideal__default",
+          "slider__ideal__default",
+          "textfield__ideal__default"
+        ],
+        "components": [
+          "Button",
+          "Card",
+          "Tabs",
+          "Divider",
+          "CheckBox",
+          "ChoicePicker",
+          "DateTimeInput",
+          "Slider",
+          "TextField"
+        ]
+      },
       {
         "sha": "71fe67044347be7d6efc3988dd751a9280c3c0f7",
         "subject": "feat: A2UI basic catalog sticker sheet, AndroidX samples and ui-builder policy",

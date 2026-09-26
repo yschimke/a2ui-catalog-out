@@ -103,7 +103,7 @@
       "wireframe": "wireframes/button.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Actions.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 44,
+      "bodyLine": 43,
       "sourceDirectory": "catalog",
       "sourceFunction": "ButtonSticker",
       "parameters": [
@@ -120,11 +120,6 @@
           "name": "child",
           "type": "String",
           "hasDefault": true
-        }
-      ],
-      "related": [
-        {
-          "system": "a2ui-samples"
         }
       ],
       "variants": [
@@ -299,14 +294,9 @@
       "wireframe": "wireframes/card.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Containers.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 28,
+      "bodyLine": 27,
       "sourceDirectory": "catalog",
-      "sourceFunction": "CardSticker",
-      "related": [
-        {
-          "system": "a2ui-samples"
-        }
-      ]
+      "sourceFunction": "CardSticker"
     },
     {
       "componentId": "Tabs",
@@ -432,14 +422,9 @@
       "wireframe": "wireframes/tabs.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Containers.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 110,
+      "bodyLine": 108,
       "sourceDirectory": "catalog",
-      "sourceFunction": "TabsSticker",
-      "related": [
-        {
-          "system": "a2ui-samples"
-        }
-      ]
+      "sourceFunction": "TabsSticker"
     },
     {
       "componentId": "Modal",
@@ -522,14 +507,9 @@
       "wireframe": "wireframes/modal.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Containers.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 140,
+      "bodyLine": 137,
       "sourceDirectory": "catalog",
-      "sourceFunction": "ModalSticker",
-      "related": [
-        {
-          "system": "a2ui-samples"
-        }
-      ]
+      "sourceFunction": "ModalSticker"
     },
     {
       "componentId": "Text",
@@ -632,7 +612,7 @@
       "wireframe": "wireframes/text.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Content.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 33,
+      "bodyLine": 32,
       "sourceDirectory": "catalog",
       "sourceFunction": "TextSticker",
       "parameters": [
@@ -643,11 +623,6 @@
         {
           "name": "text",
           "type": "String"
-        }
-      ],
-      "related": [
-        {
-          "system": "a2ui-samples"
         }
       ]
     },
@@ -700,18 +675,13 @@
       "wireframe": "wireframes/icon.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Content.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 78,
+      "bodyLine": 76,
       "sourceDirectory": "catalog",
       "sourceFunction": "IconSticker",
       "parameters": [
         {
           "name": "name",
           "type": "Any"
-        }
-      ],
-      "related": [
-        {
-          "system": "a2ui-samples"
         }
       ]
     },
@@ -751,14 +721,9 @@
       "wireframe": "wireframes/divider.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Content.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 104,
+      "bodyLine": 101,
       "sourceDirectory": "catalog",
       "sourceFunction": "DividerSticker",
-      "related": [
-        {
-          "system": "a2ui-samples"
-        }
-      ],
       "variants": [
         {
           "preview": "DividerVerticalSticker",
@@ -866,7 +831,7 @@
       "wireframe": "wireframes/textfield.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 43,
+      "bodyLine": 42,
       "sourceDirectory": "catalog",
       "sourceFunction": "TextFieldSticker",
       "parameters": [
@@ -882,11 +847,6 @@
           "name": "label",
           "type": "String",
           "hasDefault": true
-        }
-      ],
-      "related": [
-        {
-          "system": "a2ui-samples"
         }
       ]
     },
@@ -944,18 +904,13 @@
       "wireframe": "wireframes/checkbox.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 100,
+      "bodyLine": 98,
       "sourceDirectory": "catalog",
       "sourceFunction": "CheckBoxSticker",
       "parameters": [
         {
           "name": "checked",
           "type": "Boolean"
-        }
-      ],
-      "related": [
-        {
-          "system": "a2ui-samples"
         }
       ]
     },
@@ -1115,7 +1070,7 @@
       "wireframe": "wireframes/choicepicker.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 143,
+      "bodyLine": 140,
       "sourceDirectory": "catalog",
       "sourceFunction": "ChoicePickerSticker",
       "parameters": [
@@ -1135,11 +1090,6 @@
           "name": "label",
           "type": "String",
           "hasDefault": true
-        }
-      ],
-      "related": [
-        {
-          "system": "a2ui-samples"
         }
       ],
       "variants": [
@@ -1201,14 +1151,9 @@
       "wireframe": "wireframes/slider.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 177,
+      "bodyLine": 173,
       "sourceDirectory": "catalog",
-      "sourceFunction": "SliderSticker",
-      "related": [
-        {
-          "system": "a2ui-samples"
-        }
-      ]
+      "sourceFunction": "SliderSticker"
     },
     {
       "componentId": "DateTimeInput",
@@ -1336,7 +1281,7 @@
       "wireframe": "wireframes/datetimeinput.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 218,
+      "bodyLine": 213,
       "sourceDirectory": "catalog",
       "sourceFunction": "DateTimeInputSticker",
       "parameters": [
@@ -1351,11 +1296,6 @@
         {
           "name": "label",
           "type": "String"
-        }
-      ],
-      "related": [
-        {
-          "system": "a2ui-samples"
         }
       ]
     },
@@ -1494,18 +1434,13 @@
       "wireframe": "wireframes/row.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Layout.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 61,
+      "bodyLine": 60,
       "sourceDirectory": "catalog",
       "sourceFunction": "RowSticker",
       "parameters": [
         {
           "name": "justify",
           "type": "String"
-        }
-      ],
-      "related": [
-        {
-          "system": "a2ui-samples"
         }
       ]
     },
@@ -1611,18 +1546,13 @@
       "wireframe": "wireframes/column.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Layout.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 114,
+      "bodyLine": 112,
       "sourceDirectory": "catalog",
       "sourceFunction": "ColumnSticker",
       "parameters": [
         {
           "name": "align",
           "type": "String"
-        }
-      ],
-      "related": [
-        {
-          "system": "a2ui-samples"
         }
       ]
     },
@@ -1735,18 +1665,13 @@
       "wireframe": "wireframes/list.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Layout.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 156,
+      "bodyLine": 153,
       "sourceDirectory": "catalog",
       "sourceFunction": "ListSticker",
       "parameters": [
         {
           "name": "direction",
           "type": "String"
-        }
-      ],
-      "related": [
-        {
-          "system": "a2ui-samples"
         }
       ]
     },
@@ -1850,7 +1775,7 @@
       "wireframe": "wireframes/image.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Media.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 44,
+      "bodyLine": 43,
       "sourceDirectory": "catalog",
       "sourceFunction": "ImageSticker",
       "parameters": [
@@ -1862,11 +1787,6 @@
           "name": "fit",
           "type": "String",
           "hasDefault": true
-        }
-      ],
-      "related": [
-        {
-          "system": "a2ui-samples"
         }
       ]
     },
@@ -1913,14 +1833,9 @@
       "wireframe": "wireframes/video.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Media.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 79,
+      "bodyLine": 77,
       "sourceDirectory": "catalog",
-      "sourceFunction": "VideoSticker",
-      "related": [
-        {
-          "system": "a2ui-samples"
-        }
-      ]
+      "sourceFunction": "VideoSticker"
     },
     {
       "componentId": "AudioPlayer",
@@ -2000,14 +1915,9 @@
       "wireframe": "wireframes/audioplayer.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Media.kt",
       "sourceModule": ":catalog",
-      "bodyLine": 90,
+      "bodyLine": 87,
       "sourceDirectory": "catalog",
-      "sourceFunction": "AudioPlayerSticker",
-      "related": [
-        {
-          "system": "a2ui-samples"
-        }
-      ]
+      "sourceFunction": "AudioPlayerSticker"
     }
   ],
   "library": [
@@ -2017,7 +1927,7 @@
     "androidx.a2ui:a2ui-model"
   ],
   "renderer": "compose-preview 2.26.0",
-  "generatedAt": "2026-09-26T14:46:52.017Z",
+  "generatedAt": "2026-09-26T15:58:45.168Z",
   "display": {
     "hero": "Card"
   },
@@ -2037,7 +1947,7 @@
   "uiBuilderFile": "ui-builder.json",
   "uiBuilderRuntime": {
     "path": "ui-builder/runtime.zip",
-    "runtimeId": "a2ui-p2-962e7dd2b44b",
+    "runtimeId": "a2ui-p2-8cc8e6a8e6ef",
     "protocolVersion": 2,
     "integritySha256": "6cfa00b78c5d830494b5106131e68fda0a590a5741d00e89e2662bf99685c7ed"
   },
