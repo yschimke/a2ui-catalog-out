@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-26T13:18:43.051Z",
+  "generatedAt": "2026-09-26T14:42:43.536Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "cd0aac3c6416c0dd0c3325baef12d4e729b868dd",
+        "subject": "feat: draw A2UI designs in the UI builder through a catalog renderer runtime",
+        "at": "2026-09-26T14:07:02Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "bff89411fc2b6216e21d7ded67d571a0b223bbc2",
         "subject": "fix: keep published CMP port versions immutable and reject unknown currencies on wasm",
