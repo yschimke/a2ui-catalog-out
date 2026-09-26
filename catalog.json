@@ -397,7 +397,7 @@
       "wireframe": "wireframes/componentlist.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 49,
+      "bodyLine": 53,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "ComponentListPreview"
     },
@@ -1024,7 +1024,7 @@
       "wireframe": "wireframes/row.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 60,
+      "bodyLine": 64,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "RowSamplePreview",
       "parameters": [
@@ -1040,7 +1040,16 @@
       ],
       "related": [
         {
-          "system": "a2ui-catalog"
+          "system": "a2ui-catalog",
+          "componentId": "Row"
+        },
+        {
+          "system": "a2ui-catalog",
+          "componentId": "Button"
+        },
+        {
+          "system": "a2ui-catalog",
+          "componentId": "Text"
         }
       ]
     },
@@ -1667,7 +1676,7 @@
       "wireframe": "wireframes/column.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 71,
+      "bodyLine": 75,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "ColumnSamplePreview",
       "parameters": [
@@ -1683,7 +1692,16 @@
       ],
       "related": [
         {
-          "system": "a2ui-catalog"
+          "system": "a2ui-catalog",
+          "componentId": "Column"
+        },
+        {
+          "system": "a2ui-catalog",
+          "componentId": "Button"
+        },
+        {
+          "system": "a2ui-catalog",
+          "componentId": "Text"
         }
       ]
     },
@@ -2135,7 +2153,7 @@
       "wireframe": "wireframes/list.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 82,
+      "bodyLine": 86,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "ListSamplePreview",
       "parameters": [
@@ -2151,7 +2169,16 @@
       ],
       "related": [
         {
-          "system": "a2ui-catalog"
+          "system": "a2ui-catalog",
+          "componentId": "List"
+        },
+        {
+          "system": "a2ui-catalog",
+          "componentId": "Card"
+        },
+        {
+          "system": "a2ui-catalog",
+          "componentId": "Text"
         }
       ]
     },
@@ -2369,7 +2396,7 @@
       "wireframe": "wireframes/card.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 93,
+      "bodyLine": 104,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "CardSamplePreview",
       "parameters": [
@@ -2385,7 +2412,24 @@
       ],
       "related": [
         {
-          "system": "a2ui-catalog"
+          "system": "a2ui-catalog",
+          "componentId": "Card"
+        },
+        {
+          "system": "a2ui-catalog",
+          "componentId": "Column"
+        },
+        {
+          "system": "a2ui-catalog",
+          "componentId": "Icon"
+        },
+        {
+          "system": "a2ui-catalog",
+          "componentId": "Text"
+        },
+        {
+          "system": "a2ui-catalog",
+          "componentId": "Button"
         }
       ]
     },
@@ -2636,7 +2680,7 @@
       "wireframe": "wireframes/tabs.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 104,
+      "bodyLine": 115,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "TabsSamplePreview",
       "parameters": [
@@ -2652,7 +2696,16 @@
       ],
       "related": [
         {
-          "system": "a2ui-catalog"
+          "system": "a2ui-catalog",
+          "componentId": "Tabs"
+        },
+        {
+          "system": "a2ui-catalog",
+          "componentId": "Card"
+        },
+        {
+          "system": "a2ui-catalog",
+          "componentId": "Text"
         }
       ]
     },
@@ -2866,7 +2919,7 @@
       "wireframe": "wireframes/modal.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 115,
+      "bodyLine": 133,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "ModalSamplePreview",
       "parameters": [
@@ -2882,7 +2935,24 @@
       ],
       "related": [
         {
-          "system": "a2ui-catalog"
+          "system": "a2ui-catalog",
+          "componentId": "Modal"
+        },
+        {
+          "system": "a2ui-catalog",
+          "componentId": "Button"
+        },
+        {
+          "system": "a2ui-catalog",
+          "componentId": "Text"
+        },
+        {
+          "system": "a2ui-catalog",
+          "componentId": "Column"
+        },
+        {
+          "system": "a2ui-catalog",
+          "componentId": "Row"
         }
       ]
     },
@@ -3207,7 +3277,7 @@
       "wireframe": "wireframes/text.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 126,
+      "bodyLine": 144,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "TextSamplePreview",
       "parameters": [
@@ -3223,7 +3293,8 @@
       ],
       "related": [
         {
-          "system": "a2ui-catalog"
+          "system": "a2ui-catalog",
+          "componentId": "Text"
         }
       ]
     },
@@ -3772,7 +3843,7 @@
       "wireframe": "wireframes/image.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 137,
+      "bodyLine": 155,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "ImageSamplePreview",
       "parameters": [
@@ -3788,7 +3859,8 @@
       ],
       "related": [
         {
-          "system": "a2ui-catalog"
+          "system": "a2ui-catalog",
+          "componentId": "Image"
         }
       ]
     },
@@ -4407,7 +4479,7 @@
       "wireframe": "wireframes/icon.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 148,
+      "bodyLine": 166,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "IconSamplePreview",
       "parameters": [
@@ -4423,7 +4495,8 @@
       ],
       "related": [
         {
-          "system": "a2ui-catalog"
+          "system": "a2ui-catalog",
+          "componentId": "Icon"
         }
       ]
     },
@@ -4551,7 +4624,7 @@
       "wireframe": "wireframes/divider.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 159,
+      "bodyLine": 178,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "DividerSamplePreview",
       "parameters": [
@@ -4567,7 +4640,20 @@
       ],
       "related": [
         {
-          "system": "a2ui-catalog"
+          "system": "a2ui-catalog",
+          "componentId": "Divider"
+        },
+        {
+          "system": "a2ui-catalog",
+          "componentId": "Column"
+        },
+        {
+          "system": "a2ui-catalog",
+          "componentId": "Row"
+        },
+        {
+          "system": "a2ui-catalog",
+          "componentId": "Text"
         }
       ]
     },
@@ -4676,7 +4762,7 @@
       "wireframe": "wireframes/video.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 171,
+      "bodyLine": 190,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "VideoSamplePreview",
       "parameters": [
@@ -4692,7 +4778,8 @@
       ],
       "related": [
         {
-          "system": "a2ui-catalog"
+          "system": "a2ui-catalog",
+          "componentId": "Video"
         }
       ]
     },
@@ -4868,7 +4955,7 @@
       "wireframe": "wireframes/audioplayer.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 182,
+      "bodyLine": 201,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "AudioPlayerSamplePreview",
       "parameters": [
@@ -4884,7 +4971,8 @@
       ],
       "related": [
         {
-          "system": "a2ui-catalog"
+          "system": "a2ui-catalog",
+          "componentId": "AudioPlayer"
         }
       ]
     },
@@ -5179,7 +5267,7 @@
       "wireframe": "wireframes/button.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 194,
+      "bodyLine": 213,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "ButtonSamplePreview",
       "parameters": [
@@ -5195,7 +5283,12 @@
       ],
       "related": [
         {
-          "system": "a2ui-catalog"
+          "system": "a2ui-catalog",
+          "componentId": "Button"
+        },
+        {
+          "system": "a2ui-catalog",
+          "componentId": "Text"
         }
       ]
     },
@@ -5354,7 +5447,7 @@
       "wireframe": "wireframes/checkbox.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 205,
+      "bodyLine": 224,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "CheckBoxSamplePreview",
       "parameters": [
@@ -5370,7 +5463,8 @@
       ],
       "related": [
         {
-          "system": "a2ui-catalog"
+          "system": "a2ui-catalog",
+          "componentId": "CheckBox"
         }
       ]
     },
@@ -5640,7 +5734,7 @@
       "wireframe": "wireframes/slider.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 217,
+      "bodyLine": 236,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "SliderSamplePreview",
       "parameters": [
@@ -5656,7 +5750,8 @@
       ],
       "related": [
         {
-          "system": "a2ui-catalog"
+          "system": "a2ui-catalog",
+          "componentId": "Slider"
         }
       ]
     },
@@ -6074,7 +6169,7 @@
       "wireframe": "wireframes/textfield.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 228,
+      "bodyLine": 247,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "TextFieldSamplePreview",
       "parameters": [
@@ -6090,7 +6185,8 @@
       ],
       "related": [
         {
-          "system": "a2ui-catalog"
+          "system": "a2ui-catalog",
+          "componentId": "TextField"
         }
       ]
     },
@@ -6454,7 +6550,7 @@
       "wireframe": "wireframes/datetimeinput.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 240,
+      "bodyLine": 259,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "DateTimeInputSamplePreview",
       "parameters": [
@@ -6470,7 +6566,8 @@
       ],
       "related": [
         {
-          "system": "a2ui-catalog"
+          "system": "a2ui-catalog",
+          "componentId": "DateTimeInput"
         }
       ]
     },
@@ -6840,7 +6937,7 @@
       "wireframe": "wireframes/choicepicker.svg",
       "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
       "sourceModule": ":samples-catalog",
-      "bodyLine": 252,
+      "bodyLine": 271,
       "sourceDirectory": "samples-catalog",
       "sourceFunction": "ChoicePickerSamplePreview",
       "parameters": [
@@ -6856,7 +6953,8 @@
       ],
       "related": [
         {
-          "system": "a2ui-catalog"
+          "system": "a2ui-catalog",
+          "componentId": "ChoicePicker"
         }
       ]
     }
@@ -6865,8 +6963,9 @@
     "androidx.compose.material3:material3-a2ui"
   ],
   "renderer": "compose-preview 2.26.0",
-  "generatedAt": "2026-09-26T14:42:15.245Z",
+  "generatedAt": "2026-09-26T15:52:31.470Z",
   "display": {
+    "role": "samples",
     "hero": "Button"
   },
   "liveBundle": {
