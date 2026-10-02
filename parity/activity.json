@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-09-28T12:20:00.645Z",
+  "generatedAt": "2026-10-02T15:25:34.504Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "9b8dd2ce5b6a11c34ff188ce06089fe1ef5e3806",
+        "subject": "fix(deps): update compose-ai-tools to v2.32.0",
+        "at": "2026-10-02T11:02:19Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0fc2dcbdf7280d068dd461efe47ef8e2495fa3ee",
+        "subject": "ci: add the Compose Preview visual-diff workflows",
+        "at": "2026-10-02T09:29:22Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "9ae2a73c02da8b93cdc23e3a56ff3276db00047b",
         "subject": "feat: let the Source panel follow a sample preview into its vendored sample",

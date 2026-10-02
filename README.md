@@ -41,12 +41,12 @@ customising the live render are two ends of one workflow.
 | Components | **19** |
 | Rendered images (PNG) | **19** |
 | Editable wireframes (SVG) | **19** |
-| Editable design vectors (figma-svg) | **19** |
+| Editable design vectors (figma-svg) | **0** |
 | Components with a11y greenlines | **17** |
 | Library | `androidx.compose.material3:material3-a2ui` |
-| Renderer | compose-preview 2.26.0 |
+| Renderer | compose-preview 2.32.0 |
 | Schema | `design-parity-catalog/v1` |
-| Generated | 2026-09-28 |
+| Generated | 2026-10-02 |
 
 ## Components by group
 
