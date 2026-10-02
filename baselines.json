@@ -1,0 +1,562 @@
+{
+  "catalog/ee.schimke.a2uicatalog.playground.PlaygroundKt.A2uiDocumentPreview_A2UI document": {
+    "captureLabel": "",
+    "functionName": "A2uiDocumentPreview",
+    "module": "catalog",
+    "renderBasename": "A2uiDocumentPreview_A2UI_document-a3b0ade7.png",
+    "sha256": "5bb53782426c4609734c0b3ba0c4e90b25a8244eab02b42ddc9705617ad31755",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/playground/Playground.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.ActionsKt.ButtonBorderlessSticker": {
+    "captureLabel": "",
+    "functionName": "ButtonBorderlessSticker",
+    "module": "catalog",
+    "renderBasename": "ButtonBorderlessSticker-6973b434.png",
+    "sha256": "b69ee3f6b1c860d2d7e77fb06f2009d305b201191bb8dcd17ec7e3747689ab62",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Actions.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.ActionsKt.ButtonDefaultSticker": {
+    "captureLabel": "",
+    "functionName": "ButtonDefaultSticker",
+    "module": "catalog",
+    "renderBasename": "ButtonDefaultSticker-686a3f8c.png",
+    "sha256": "fb41052806ff47ea995a91077e0aa9196f0cb925ddfaa073128edcf8db3cfd24",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Actions.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.ActionsKt.ButtonIconSticker": {
+    "captureLabel": "",
+    "functionName": "ButtonIconSticker",
+    "module": "catalog",
+    "renderBasename": "ButtonIconSticker-546bb641.png",
+    "sha256": "c78f4ddf3d88212efc72c1f6462d864cbed3e57b6cdd23b63a545098eaf1b160",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Actions.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.ActionsKt.ButtonSticker": {
+    "captureLabel": "",
+    "functionName": "ButtonSticker",
+    "module": "catalog",
+    "renderBasename": "ButtonSticker-13e9b0ae.png",
+    "sha256": "3f9d541c6880dd479ce66ce39afb5d6a2ea91a553859ffd73b3c45aa840776fb",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Actions.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.ContainersKt.CardSticker": {
+    "captureLabel": "",
+    "functionName": "CardSticker",
+    "module": "catalog",
+    "renderBasename": "CardSticker-a85148ed.png",
+    "sha256": "1b57a1d537f424814f89e4fb377a90bb319ddf24a3a6d8dcf22936afd387876f",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Containers.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.ContainersKt.ModalSticker": {
+    "captureLabel": "",
+    "functionName": "ModalSticker",
+    "module": "catalog",
+    "renderBasename": "ModalSticker-612f1a54.png",
+    "sha256": "c696077800a0642fd155ff92ac5470c5c52039286f068b84da1b880541f7bed9",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Containers.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.ContainersKt.TabsSticker": {
+    "captureLabel": "",
+    "functionName": "TabsSticker",
+    "module": "catalog",
+    "renderBasename": "TabsSticker-f820ef26.png",
+    "sha256": "abe232a47e6081907bf4a7b37439758ba5a8c61eb98ca3f050d7fb136d39a208",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Containers.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.ContentKt.DividerSticker": {
+    "captureLabel": "",
+    "functionName": "DividerSticker",
+    "module": "catalog",
+    "renderBasename": "DividerSticker-87dcc19c.png",
+    "sha256": "9cca189f487874088fd3c02de0748597f298f4ab23bac5d1bcb7505bed103ef7",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Content.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.ContentKt.DividerVerticalSticker": {
+    "captureLabel": "",
+    "functionName": "DividerVerticalSticker",
+    "module": "catalog",
+    "renderBasename": "DividerVerticalSticker-b40238aa.png",
+    "sha256": "9412bcaef12bbe13d9a561c9abb113beb2d0e1d8cf0390e031f29254b32581aa",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Content.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.ContentKt.IconSettingsSticker": {
+    "captureLabel": "",
+    "functionName": "IconSettingsSticker",
+    "module": "catalog",
+    "renderBasename": "IconSettingsSticker-057b2391.png",
+    "sha256": "3a6352f3542a34f4626bf3d8414cfcf8857b082a2b611e1bffa4966f2213ebdf",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Content.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.ContentKt.IconSticker": {
+    "captureLabel": "",
+    "functionName": "IconSticker",
+    "module": "catalog",
+    "renderBasename": "IconSticker-f34a5bb7.png",
+    "sha256": "bc9277ad39b3d35d268e92e71f66fac2bbe03d51407716468c3a2e005b0f1082",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Content.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.ContentKt.IconSvgPathSticker": {
+    "captureLabel": "",
+    "functionName": "IconSvgPathSticker",
+    "module": "catalog",
+    "renderBasename": "IconSvgPathSticker-66cc6ac2.png",
+    "sha256": "a7293c6d470bc83d946c49a6a48508dd84be09bc46e114b387669765cf8f4a57",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Content.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.ContentKt.TextCaptionSticker": {
+    "captureLabel": "",
+    "functionName": "TextCaptionSticker",
+    "module": "catalog",
+    "renderBasename": "TextCaptionSticker-7c2a7de5.png",
+    "sha256": "007ce401d1ff78ee4a8855a342ee69e0e49b9d28e6dd335b35db71d3a668d971",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Content.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.ContentKt.TextH1Sticker": {
+    "captureLabel": "",
+    "functionName": "TextH1Sticker",
+    "module": "catalog",
+    "renderBasename": "TextH1Sticker-5d1fd838.png",
+    "sha256": "4ec5c790a63f7da3d8b23aa795ebfeeac2a364115c6ce0e8cbd91a5baf0e8631",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Content.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.ContentKt.TextH2Sticker": {
+    "captureLabel": "",
+    "functionName": "TextH2Sticker",
+    "module": "catalog",
+    "renderBasename": "TextH2Sticker-93d40dc6.png",
+    "sha256": "9f7e6cb917ba3fc4c1a2ef5d9cb574ee48acdd029f45b36486cafe06437aea06",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Content.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.ContentKt.TextH3Sticker": {
+    "captureLabel": "",
+    "functionName": "TextH3Sticker",
+    "module": "catalog",
+    "renderBasename": "TextH3Sticker-e4fed194.png",
+    "sha256": "4c7abde3645495dbf394a88a33b52201e73ad9ad0f7663c2866ac4490eb01e4b",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Content.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.ContentKt.TextH4Sticker": {
+    "captureLabel": "",
+    "functionName": "TextH4Sticker",
+    "module": "catalog",
+    "renderBasename": "TextH4Sticker-af069662.png",
+    "sha256": "bf6e19f71330dd6f056f2e1c013b7ebbfa6ce3e5d88cdd80926f584f0133fca3",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Content.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.ContentKt.TextH5Sticker": {
+    "captureLabel": "",
+    "functionName": "TextH5Sticker",
+    "module": "catalog",
+    "renderBasename": "TextH5Sticker-4521ff3c.png",
+    "sha256": "761e2c07a3c3d28b706818ed345eb6083fbfc4c19461929602a3b44b41f2c2cc",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Content.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.ContentKt.TextSticker": {
+    "captureLabel": "",
+    "functionName": "TextSticker",
+    "module": "catalog",
+    "renderBasename": "TextSticker-c43851f3.png",
+    "sha256": "96fa1a5ec7b0c148c51dcee0788255ca815fec55c388c4fc0711f1262784b896",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Content.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.CheckBoxSticker": {
+    "captureLabel": "",
+    "functionName": "CheckBoxSticker",
+    "module": "catalog",
+    "renderBasename": "CheckBoxSticker-2629f65e.png",
+    "sha256": "3ae4980629abc08cd44cdb6061a1c23825b2528ab7ead4634ad94bdebc6f77c7",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.CheckBoxUncheckedSticker": {
+    "captureLabel": "",
+    "functionName": "CheckBoxUncheckedSticker",
+    "module": "catalog",
+    "renderBasename": "CheckBoxUncheckedSticker-a5c61299.png",
+    "sha256": "796aed0644056d8dfea8a89fe3e64dbcbb87667db98a36e36a956407c5dc42c4",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.ChoicePickerDropdownSticker": {
+    "captureLabel": "",
+    "functionName": "ChoicePickerDropdownSticker",
+    "module": "catalog",
+    "renderBasename": "ChoicePickerDropdownSticker-bf041414.png",
+    "sha256": "c9616ddad7cb568744756a7edb49eaaf545ccf649db45def4a36db6707104940",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.ChoicePickerExclusiveSticker": {
+    "captureLabel": "",
+    "functionName": "ChoicePickerExclusiveSticker",
+    "module": "catalog",
+    "renderBasename": "ChoicePickerExclusiveSticker-1691850e.png",
+    "sha256": "8e9c0ccaae34a0355c02b8157c22ec3ca3608616c2e0465ad3e5cafaac77ff23",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.ChoicePickerSticker": {
+    "captureLabel": "",
+    "functionName": "ChoicePickerSticker",
+    "module": "catalog",
+    "renderBasename": "ChoicePickerSticker-22d25ab7.png",
+    "sha256": "71947b0a1e9460b4fa2b62c2e149348f5c59da151e0d4d058cd5b36eed35b2a7",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.DateTimeInputDateSticker": {
+    "captureLabel": "",
+    "functionName": "DateTimeInputDateSticker",
+    "module": "catalog",
+    "renderBasename": "DateTimeInputDateSticker-4231468e.png",
+    "sha256": "ac2876c906aeaebb21026850f2869a9feb50e8c13fbc4ad7a100deed11660d85",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.DateTimeInputSticker": {
+    "captureLabel": "",
+    "functionName": "DateTimeInputSticker",
+    "module": "catalog",
+    "renderBasename": "DateTimeInputSticker-5c7dbab5.png",
+    "sha256": "3b23b321f12b6096946430d141631d994b2477d4b3362829734bf24592c03add",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.DateTimeInputTimeSticker": {
+    "captureLabel": "",
+    "functionName": "DateTimeInputTimeSticker",
+    "module": "catalog",
+    "renderBasename": "DateTimeInputTimeSticker-356317a4.png",
+    "sha256": "d61827a9e67dc3338a19f358172100751b130b20c537434025d63cade35f30f2",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.SliderSticker": {
+    "captureLabel": "",
+    "functionName": "SliderSticker",
+    "module": "catalog",
+    "renderBasename": "SliderSticker-8f566e03.png",
+    "sha256": "621eb5c3232deb6efcc95d57c9ed1c26b133146c58baa1f709b60e51f9205e57",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.TextFieldEmptySticker": {
+    "captureLabel": "",
+    "functionName": "TextFieldEmptySticker",
+    "module": "catalog",
+    "renderBasename": "TextFieldEmptySticker-0de81513.png",
+    "sha256": "0e19058e88ad5e90dd374696762787bd356bafa731a15ca13a76451d64f08c98",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.TextFieldLongTextSticker": {
+    "captureLabel": "",
+    "functionName": "TextFieldLongTextSticker",
+    "module": "catalog",
+    "renderBasename": "TextFieldLongTextSticker-ca102927.png",
+    "sha256": "20db67071cf998de77f954b38e4d4f22cbe34d13f5aff13966c7790c511fc013",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.TextFieldNumberSticker": {
+    "captureLabel": "",
+    "functionName": "TextFieldNumberSticker",
+    "module": "catalog",
+    "renderBasename": "TextFieldNumberSticker-e6323822.png",
+    "sha256": "144eabc75dec19b3471c8b6758f2d5716a910b51f46045aeb5ad202184d288ec",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.TextFieldObscuredSticker": {
+    "captureLabel": "",
+    "functionName": "TextFieldObscuredSticker",
+    "module": "catalog",
+    "renderBasename": "TextFieldObscuredSticker-4afb1dfd.png",
+    "sha256": "eedbd1ebe19ec30e3f1719bc52583196789ba2775cc892be87cdfae1d316b392",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.TextFieldSticker": {
+    "captureLabel": "",
+    "functionName": "TextFieldSticker",
+    "module": "catalog",
+    "renderBasename": "TextFieldSticker-abe78f61.png",
+    "sha256": "60ff3b989974d4de35373449f14389b5d694732d8ac5933ba5129a12f772dca7",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.LayoutKt.ColumnCenterSticker": {
+    "captureLabel": "",
+    "functionName": "ColumnCenterSticker",
+    "module": "catalog",
+    "renderBasename": "ColumnCenterSticker-71ecbe45.png",
+    "sha256": "82a91d98cfd86deacc306fe75839899f4c69df321e696869db1f4fcbf74763cd",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Layout.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.LayoutKt.ColumnSticker": {
+    "captureLabel": "",
+    "functionName": "ColumnSticker",
+    "module": "catalog",
+    "renderBasename": "ColumnSticker-3734612d.png",
+    "sha256": "9813c4060d0a3f07da50051570898c2cb61a0a9302377cd23fb354a8219c88d0",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Layout.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.LayoutKt.ColumnStretchSticker": {
+    "captureLabel": "",
+    "functionName": "ColumnStretchSticker",
+    "module": "catalog",
+    "renderBasename": "ColumnStretchSticker-2d7f6133.png",
+    "sha256": "19335b21d67ecff50fd1200e1cdcaba099acfe0c2971c2f5b3ba273bcadf5977",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Layout.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.LayoutKt.ListHorizontalSticker": {
+    "captureLabel": "",
+    "functionName": "ListHorizontalSticker",
+    "module": "catalog",
+    "renderBasename": "ListHorizontalSticker-5cdc622a.png",
+    "sha256": "2ba1006de459c4aa75b5d87c3d51141b2614c8dcb48ffdae24892a27b3c7b7d1",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Layout.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.LayoutKt.ListSticker": {
+    "captureLabel": "",
+    "functionName": "ListSticker",
+    "module": "catalog",
+    "renderBasename": "ListSticker-271c8901.png",
+    "sha256": "7dc74f22708a4e22e900912e2f83d4c8f231036f99517460ddc2829d7fd6140e",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Layout.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.LayoutKt.RowCenterSticker": {
+    "captureLabel": "",
+    "functionName": "RowCenterSticker",
+    "module": "catalog",
+    "renderBasename": "RowCenterSticker-60a8c6f2.png",
+    "sha256": "99e3d6e8f637df21491cc6a2143b61958a70cbf4d8d488ae7a492fa8f18cfe17",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Layout.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.LayoutKt.RowEndSticker": {
+    "captureLabel": "",
+    "functionName": "RowEndSticker",
+    "module": "catalog",
+    "renderBasename": "RowEndSticker-583e799b.png",
+    "sha256": "6d37506c0251af6d635c802e07017839d46dfc7f566008cc7af97014653ee7f4",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Layout.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.LayoutKt.RowSpaceBetweenSticker": {
+    "captureLabel": "",
+    "functionName": "RowSpaceBetweenSticker",
+    "module": "catalog",
+    "renderBasename": "RowSpaceBetweenSticker-3bebca72.png",
+    "sha256": "6866a9f9edef9fc91c9dd00c4890aaf78b912c65d5b48755450ebddb57999765",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Layout.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.LayoutKt.RowSticker": {
+    "captureLabel": "",
+    "functionName": "RowSticker",
+    "module": "catalog",
+    "renderBasename": "RowSticker-660aec8c.png",
+    "sha256": "975fe6e914abb1a8b691247319fd344f0c02dfdfe402c77feb38fc8118b8dcb0",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Layout.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.MediaKt.AudioPlayerSticker": {
+    "captureLabel": "",
+    "functionName": "AudioPlayerSticker",
+    "module": "catalog",
+    "renderBasename": "AudioPlayerSticker-351015ee.png",
+    "sha256": "29c7d8b57d4b4bdb7417f8678110b7fcec0723a51a990e84ee4eb78e773fcfdd",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Media.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.MediaKt.ImageAvatarSticker": {
+    "captureLabel": "",
+    "functionName": "ImageAvatarSticker",
+    "module": "catalog",
+    "renderBasename": "ImageAvatarSticker-c92cfc3b.png",
+    "sha256": "5f5fdab8050496fce5325a6c801f45c996dea5e0f86d6bd5fdf924073c9c2b91",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Media.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.MediaKt.ImageHeaderSticker": {
+    "captureLabel": "",
+    "functionName": "ImageHeaderSticker",
+    "module": "catalog",
+    "renderBasename": "ImageHeaderSticker-79fb67f2.png",
+    "sha256": "97461bb2b353ccaa974cf2f6ee4ec7a46055988b616d5b3ec38fd60298c5c477",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Media.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.MediaKt.ImageIconSticker": {
+    "captureLabel": "",
+    "functionName": "ImageIconSticker",
+    "module": "catalog",
+    "renderBasename": "ImageIconSticker-7298f672.png",
+    "sha256": "f5a39a285076ea85d2df3d4bed84023a91594efae73bd670935071bb0d2ecaed",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Media.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.MediaKt.ImageLargeFeatureSticker": {
+    "captureLabel": "",
+    "functionName": "ImageLargeFeatureSticker",
+    "module": "catalog",
+    "renderBasename": "ImageLargeFeatureSticker-a9ec490a.png",
+    "sha256": "6c610a2b658feec604dc161beee5751412ffac32ce24e4a6d69010558752095f",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Media.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.MediaKt.ImageSmallFeatureSticker": {
+    "captureLabel": "",
+    "functionName": "ImageSmallFeatureSticker",
+    "module": "catalog",
+    "renderBasename": "ImageSmallFeatureSticker-2f1b4e3d.png",
+    "sha256": "069e5e6928a63b03408f3f7640774e91f5c26692b10786205921842dea20b619",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Media.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.MediaKt.ImageSticker": {
+    "captureLabel": "",
+    "functionName": "ImageSticker",
+    "module": "catalog",
+    "renderBasename": "ImageSticker-4d1800d8.png",
+    "sha256": "18bd0b9ef5c42f32f778ffb16ca37b09d05f32ce074c796c9cf05802c29ec62f",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Media.kt"
+  },
+  "catalog/ee.schimke.a2uicatalog.sections.MediaKt.VideoSticker": {
+    "captureLabel": "",
+    "functionName": "VideoSticker",
+    "module": "catalog",
+    "renderBasename": "VideoSticker-3447207c.png",
+    "sha256": "2ba04cc95d013766ad881dc25d647ac6754638d4d1e704dde7a9007f64ae4593",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Media.kt"
+  },
+  "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.AudioPlayerSamplePreview_AudioPlayer": {
+    "captureLabel": "",
+    "functionName": "AudioPlayerSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "AudioPlayerSamplePreview_AudioPlayer-6d55e796.png",
+    "sha256": "3f34c2688c671e1bc261371b0f8682657db22b97179acef0fe0465d49d67ef5d",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ButtonSamplePreview_Button": {
+    "captureLabel": "",
+    "functionName": "ButtonSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "ButtonSamplePreview_Button-7d182f8f.png",
+    "sha256": "d738270112779021da9909fce9284933711d0477b4ec494476e6c55117213be7",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.CardSamplePreview_Card": {
+    "captureLabel": "",
+    "functionName": "CardSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "CardSamplePreview_Card-d51cf12c.png",
+    "sha256": "5368c254ce636a25b2be1bc00c71f839eb607f8223266a28dbfb9da1e5b05b54",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.CheckBoxSamplePreview_CheckBox": {
+    "captureLabel": "",
+    "functionName": "CheckBoxSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "CheckBoxSamplePreview_CheckBox-1326c3c3.png",
+    "sha256": "3b4489a3bd189e9c3d9432253c15f25536b546208881c9612c5f2998bc801851",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ChoicePickerSamplePreview_ChoicePicker": {
+    "captureLabel": "",
+    "functionName": "ChoicePickerSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "ChoicePickerSamplePreview_ChoicePicker-b0477c36.png",
+    "sha256": "6fa65609f315853c04510a0d053b4154d6fceafd026e829db8b14c7d2d9220f7",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ColumnSamplePreview_Column": {
+    "captureLabel": "",
+    "functionName": "ColumnSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "ColumnSamplePreview_Column-62aa0e96.png",
+    "sha256": "cdec679d047a111fd4a0d353ff92e322fceef0571df276ec711effdc4577c61f",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ComponentListPreview_Component list": {
+    "captureLabel": "",
+    "functionName": "ComponentListPreview",
+    "module": "samples-catalog",
+    "renderBasename": "ComponentListPreview_Component_list-6973286a.png",
+    "sha256": "418b4464f06ed37515cf69289bed0eb79f17240edbe486996b7ea3ac003cbd18",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.DateTimeInputSamplePreview_DateTimeInput": {
+    "captureLabel": "",
+    "functionName": "DateTimeInputSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "DateTimeInputSamplePreview_DateTimeInput-e4086b22.png",
+    "sha256": "43dc3414f64a8b0c0f8e46d36243eaf6bd30e86b1d5fbe7c362285fefa9f0f3c",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.DividerSamplePreview_Divider": {
+    "captureLabel": "",
+    "functionName": "DividerSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "DividerSamplePreview_Divider-ce559721.png",
+    "sha256": "c759f46e478d3675f58fda9638211efdaef6039040629c092c06cad7ed3ecada",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.IconSamplePreview_Icon": {
+    "captureLabel": "",
+    "functionName": "IconSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "IconSamplePreview_Icon-d69870b9.png",
+    "sha256": "b49e90716e434ef1ea0020331d590624646833b1e22907d355665411b960373f",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ImageSamplePreview_Image": {
+    "captureLabel": "",
+    "functionName": "ImageSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "ImageSamplePreview_Image-92c4b983.png",
+    "sha256": "089a2673e6cb92ea35e997c120e94e7c5e13323eac0a51f68f4878ef8cd4b00b",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ListSamplePreview_List": {
+    "captureLabel": "",
+    "functionName": "ListSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "ListSamplePreview_List-ba7411fb.png",
+    "sha256": "1d637d4fa29b6a58fd9625eeeb6420a16bc9282bc228e3c9735fc460f24749c2",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ModalSamplePreview_Modal": {
+    "captureLabel": "",
+    "functionName": "ModalSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "ModalSamplePreview_Modal-e43ab42d.png",
+    "sha256": "af422618c0e478497af0c5601a8f464bf88d6d51334cf427b9f0da33c32ec7a8",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.RowSamplePreview_Row": {
+    "captureLabel": "",
+    "functionName": "RowSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "RowSamplePreview_Row-fc3d48a2.png",
+    "sha256": "7f54b3a731baaa5e35f5e89c565633d8fe0a6adad11f1f247fa0d12f163bbb66",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.SliderSamplePreview_Slider": {
+    "captureLabel": "",
+    "functionName": "SliderSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "SliderSamplePreview_Slider-57b49fcd.png",
+    "sha256": "a973f163054a682b5fdba21da7fa726bad181a25c4d6ae714e68ba17abe7e6aa",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.TabsSamplePreview_Tabs": {
+    "captureLabel": "",
+    "functionName": "TabsSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "TabsSamplePreview_Tabs-b90ad834.png",
+    "sha256": "1821fd16b305971b8b546a8b8023560389716ad2f19ed3140317550abdc137ec",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.TextFieldSamplePreview_TextField": {
+    "captureLabel": "",
+    "functionName": "TextFieldSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "TextFieldSamplePreview_TextField-ec3d1860.png",
+    "sha256": "120b09a8fd0a7db4a85a67918cfd6a4e74dd3580b85ae02b772e5bd086372a48",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.TextSamplePreview_Text": {
+    "captureLabel": "",
+    "functionName": "TextSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "TextSamplePreview_Text-8f308a03.png",
+    "sha256": "8d548c401a69d49adee1c3c15e1ee41eeb339a24eefc5885d01c279a70667e5f",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt"
+  },
+  "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.VideoSamplePreview_Video": {
+    "captureLabel": "",
+    "functionName": "VideoSamplePreview",
+    "module": "samples-catalog",
+    "renderBasename": "VideoSamplePreview_Video-c6c8873a.png",
+    "sha256": "a39511dce69bf66ccc9e2512e052b32f0ad0f5510a7b4e8e34984bec01b9d7c1",
+    "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt"
+  }
+}
