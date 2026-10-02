@@ -1,0 +1,1056 @@
+{
+    "formatVersion": "compose-preview-history/v1",
+    "generatedFrom": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+    "previews": {
+        "catalog/ee.schimke.a2uicatalog.playground.PlaygroundKt.A2uiDocumentPreview_A2UI document": {
+            "path": "renders/catalog/A2uiDocumentPreview_A2UI_document-a3b0ade7.png",
+            "versions": [
+                {
+                    "blob": "150a9d28fb03aa8d1b28aac76bba0144646dde04",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.ActionsKt.ButtonBorderlessSticker": {
+            "path": "renders/catalog/ButtonBorderlessSticker-6973b434.png",
+            "versions": [
+                {
+                    "blob": "9d89e07ca49aaa096bd4d5bea3dfb9e2252a9750",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.ActionsKt.ButtonDefaultSticker": {
+            "path": "renders/catalog/ButtonDefaultSticker-686a3f8c.png",
+            "versions": [
+                {
+                    "blob": "e4df43d6a9ccdf07d6d9b7b5bf75011d643fcc6f",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.ActionsKt.ButtonIconSticker": {
+            "path": "renders/catalog/ButtonIconSticker-546bb641.png",
+            "versions": [
+                {
+                    "blob": "68ab2a00923c782c3cfc95c58424dbbc657f545a",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.ActionsKt.ButtonSticker": {
+            "path": "renders/catalog/ButtonSticker-13e9b0ae.png",
+            "versions": [
+                {
+                    "blob": "4f11ae86b452fe8ad40d4fced75e6fadd588810b",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.ContainersKt.CardSticker": {
+            "path": "renders/catalog/CardSticker-a85148ed.png",
+            "versions": [
+                {
+                    "blob": "acf9b5d0d8cc270b30ad8ceb43e199103ef13e83",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.ContainersKt.ModalSticker": {
+            "path": "renders/catalog/ModalSticker-612f1a54.png",
+            "versions": [
+                {
+                    "blob": "bd24aba909913982daf633cbf6967c1f06575350",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.ContainersKt.TabsSticker": {
+            "path": "renders/catalog/TabsSticker-f820ef26.png",
+            "versions": [
+                {
+                    "blob": "59330b35cc2a6b6e69dffc5758e1a74447c956ce",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.ContentKt.DividerSticker": {
+            "path": "renders/catalog/DividerSticker-87dcc19c.png",
+            "versions": [
+                {
+                    "blob": "7c39a1bc25986a5083b3ffc01fc7df24749093b7",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.ContentKt.DividerVerticalSticker": {
+            "path": "renders/catalog/DividerVerticalSticker-b40238aa.png",
+            "versions": [
+                {
+                    "blob": "3ebe57be8690a0d43431c672aaf4e923f7fa2c8c",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.ContentKt.IconSettingsSticker": {
+            "path": "renders/catalog/IconSettingsSticker-057b2391.png",
+            "versions": [
+                {
+                    "blob": "00aa3301c9709d58eb53a86f9103321f0e0a9de6",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.ContentKt.IconSticker": {
+            "path": "renders/catalog/IconSticker-f34a5bb7.png",
+            "versions": [
+                {
+                    "blob": "ba3737f261863f30c7e8015dbb72469a64efa9e2",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.ContentKt.IconSvgPathSticker": {
+            "path": "renders/catalog/IconSvgPathSticker-66cc6ac2.png",
+            "versions": [
+                {
+                    "blob": "3a6f2e6514b80870cb634c43d9b7d0b02bf40ad2",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.ContentKt.TextCaptionSticker": {
+            "path": "renders/catalog/TextCaptionSticker-7c2a7de5.png",
+            "versions": [
+                {
+                    "blob": "d8b92f80aaa2877a72e4f1f7653f603144e67014",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.ContentKt.TextH1Sticker": {
+            "path": "renders/catalog/TextH1Sticker-5d1fd838.png",
+            "versions": [
+                {
+                    "blob": "8b81d9d14750095cb180ea9b4da8f09291241d31",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.ContentKt.TextH2Sticker": {
+            "path": "renders/catalog/TextH2Sticker-93d40dc6.png",
+            "versions": [
+                {
+                    "blob": "4a4d994dfe50f304910d2691747fdbcd1210209e",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.ContentKt.TextH3Sticker": {
+            "path": "renders/catalog/TextH3Sticker-e4fed194.png",
+            "versions": [
+                {
+                    "blob": "cf6257799a7963029954f85a3d421d1486458c2b",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.ContentKt.TextH4Sticker": {
+            "path": "renders/catalog/TextH4Sticker-af069662.png",
+            "versions": [
+                {
+                    "blob": "b59d44920269a823f4901964f3b212084636be76",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.ContentKt.TextH5Sticker": {
+            "path": "renders/catalog/TextH5Sticker-4521ff3c.png",
+            "versions": [
+                {
+                    "blob": "a6d5bc76149cf2d6d16b614a53c05defd103a287",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.ContentKt.TextSticker": {
+            "path": "renders/catalog/TextSticker-c43851f3.png",
+            "versions": [
+                {
+                    "blob": "e08b7ac6aad3633d4136bd1ff1146789789b5df0",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.CheckBoxSticker": {
+            "path": "renders/catalog/CheckBoxSticker-2629f65e.png",
+            "versions": [
+                {
+                    "blob": "4aad2002d0bc00e83512076bb815f86785c88d5c",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.CheckBoxUncheckedSticker": {
+            "path": "renders/catalog/CheckBoxUncheckedSticker-a5c61299.png",
+            "versions": [
+                {
+                    "blob": "53e6908f25c357cf2c44406f9f526f4e2308535e",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.ChoicePickerDropdownSticker": {
+            "path": "renders/catalog/ChoicePickerDropdownSticker-bf041414.png",
+            "versions": [
+                {
+                    "blob": "8bf786deb801b54806e53e399853c5b81f3029af",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.ChoicePickerExclusiveSticker": {
+            "path": "renders/catalog/ChoicePickerExclusiveSticker-1691850e.png",
+            "versions": [
+                {
+                    "blob": "bf57ed0d1dab2e82d28589eca8c6b883d362af5f",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.ChoicePickerSticker": {
+            "path": "renders/catalog/ChoicePickerSticker-22d25ab7.png",
+            "versions": [
+                {
+                    "blob": "27eedc105ec90bcfcba7b23711889a37182514fd",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.DateTimeInputDateSticker": {
+            "path": "renders/catalog/DateTimeInputDateSticker-4231468e.png",
+            "versions": [
+                {
+                    "blob": "ab1614a28701059f3ae0f4fe9ae6e34647fb1f3d",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.DateTimeInputSticker": {
+            "path": "renders/catalog/DateTimeInputSticker-5c7dbab5.png",
+            "versions": [
+                {
+                    "blob": "0207321c48ba6c812038c31773f824081abf4767",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.DateTimeInputTimeSticker": {
+            "path": "renders/catalog/DateTimeInputTimeSticker-356317a4.png",
+            "versions": [
+                {
+                    "blob": "8a16146b5932ffc92ca2b5c302ccc151cbd3b2b6",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.SliderSticker": {
+            "path": "renders/catalog/SliderSticker-8f566e03.png",
+            "versions": [
+                {
+                    "blob": "afc4a166ec97a1659a3150c557be8ddc1c6d92b8",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.TextFieldEmptySticker": {
+            "path": "renders/catalog/TextFieldEmptySticker-0de81513.png",
+            "versions": [
+                {
+                    "blob": "74d78b9872bfbf9dbbdebd1c7e75c1b616fff99e",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.TextFieldLongTextSticker": {
+            "path": "renders/catalog/TextFieldLongTextSticker-ca102927.png",
+            "versions": [
+                {
+                    "blob": "d858f1a82a91bd952f90096453c4a5011914ed0e",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.TextFieldNumberSticker": {
+            "path": "renders/catalog/TextFieldNumberSticker-e6323822.png",
+            "versions": [
+                {
+                    "blob": "d649392a48c45e5b0ac8bc3e0844b5b4ff218b5c",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.TextFieldObscuredSticker": {
+            "path": "renders/catalog/TextFieldObscuredSticker-4afb1dfd.png",
+            "versions": [
+                {
+                    "blob": "fa6b6ff9bc76b4a9d4660a66e9e92ba4a34249f9",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.TextFieldSticker": {
+            "path": "renders/catalog/TextFieldSticker-abe78f61.png",
+            "versions": [
+                {
+                    "blob": "0a9fc4fcb1d10e9ba07f2d76880b338e883c7c60",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.LayoutKt.ColumnCenterSticker": {
+            "path": "renders/catalog/ColumnCenterSticker-71ecbe45.png",
+            "versions": [
+                {
+                    "blob": "51f5954e214ed0c2ec6f0c4f989440f13ce2dc65",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.LayoutKt.ColumnSticker": {
+            "path": "renders/catalog/ColumnSticker-3734612d.png",
+            "versions": [
+                {
+                    "blob": "124f6d6c297d4f5a661dc700cb630eee2732c96a",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.LayoutKt.ColumnStretchSticker": {
+            "path": "renders/catalog/ColumnStretchSticker-2d7f6133.png",
+            "versions": [
+                {
+                    "blob": "a9941204d913c893f20e6d4696cf120308909309",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.LayoutKt.ListHorizontalSticker": {
+            "path": "renders/catalog/ListHorizontalSticker-5cdc622a.png",
+            "versions": [
+                {
+                    "blob": "28f296b71d4d5c83b5e9ced7f9f9c8bc9bb41ba1",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.LayoutKt.ListSticker": {
+            "path": "renders/catalog/ListSticker-271c8901.png",
+            "versions": [
+                {
+                    "blob": "003392c996fb2c43ebaabd61d8878e5ddd2583ff",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.LayoutKt.RowCenterSticker": {
+            "path": "renders/catalog/RowCenterSticker-60a8c6f2.png",
+            "versions": [
+                {
+                    "blob": "dd88c9fcf42c40b1c9448924d98ec09e54299a28",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.LayoutKt.RowEndSticker": {
+            "path": "renders/catalog/RowEndSticker-583e799b.png",
+            "versions": [
+                {
+                    "blob": "b99b6af225c7ed624dc7a8a476ec126d91d53995",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.LayoutKt.RowSpaceBetweenSticker": {
+            "path": "renders/catalog/RowSpaceBetweenSticker-3bebca72.png",
+            "versions": [
+                {
+                    "blob": "807893ee16d984e11bc533b93412ce78f3121daf",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.LayoutKt.RowSticker": {
+            "path": "renders/catalog/RowSticker-660aec8c.png",
+            "versions": [
+                {
+                    "blob": "dfecb936d551f9e588cb99db862d80a8021e1d02",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.MediaKt.AudioPlayerSticker": {
+            "path": "renders/catalog/AudioPlayerSticker-351015ee.png",
+            "versions": [
+                {
+                    "blob": "fea114c14fb30ca6d7909bf72f2ac1727e9fed35",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.MediaKt.ImageAvatarSticker": {
+            "path": "renders/catalog/ImageAvatarSticker-c92cfc3b.png",
+            "versions": [
+                {
+                    "blob": "07665375d308505f48f271ed11d38c28b42d5891",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.MediaKt.ImageHeaderSticker": {
+            "path": "renders/catalog/ImageHeaderSticker-79fb67f2.png",
+            "versions": [
+                {
+                    "blob": "7613d1b1b6652673ec5346adcaab12a9c43f4c55",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.MediaKt.ImageIconSticker": {
+            "path": "renders/catalog/ImageIconSticker-7298f672.png",
+            "versions": [
+                {
+                    "blob": "9a1fce3fbdc9e523e2546cb2337d592761922ade",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.MediaKt.ImageLargeFeatureSticker": {
+            "path": "renders/catalog/ImageLargeFeatureSticker-a9ec490a.png",
+            "versions": [
+                {
+                    "blob": "d15f366ddc63d7302e43d5eb8e7aeb8a9f0f4c12",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.MediaKt.ImageSmallFeatureSticker": {
+            "path": "renders/catalog/ImageSmallFeatureSticker-2f1b4e3d.png",
+            "versions": [
+                {
+                    "blob": "9847efc74a00c46a3afc8ca21792d71f7bdf0070",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.MediaKt.ImageSticker": {
+            "path": "renders/catalog/ImageSticker-4d1800d8.png",
+            "versions": [
+                {
+                    "blob": "e0a0d7dd32148fd54df90aa9e53597dfde9bc51e",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "catalog/ee.schimke.a2uicatalog.sections.MediaKt.VideoSticker": {
+            "path": "renders/catalog/VideoSticker-3447207c.png",
+            "versions": [
+                {
+                    "blob": "2578adebc7b51e75adc3d5a49d0241d7c12b1dc8",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.AudioPlayerSamplePreview_AudioPlayer": {
+            "path": "renders/samples-catalog/AudioPlayerSamplePreview_AudioPlayer-6d55e796.png",
+            "versions": [
+                {
+                    "blob": "f9dfd5fa0cd4475a0a670fd3bbbcbd94a232d73d",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ButtonSamplePreview_Button": {
+            "path": "renders/samples-catalog/ButtonSamplePreview_Button-7d182f8f.png",
+            "versions": [
+                {
+                    "blob": "c17bf8074c7bfcb457c48980d0b488b722d5b5ad",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.CardSamplePreview_Card": {
+            "path": "renders/samples-catalog/CardSamplePreview_Card-d51cf12c.png",
+            "versions": [
+                {
+                    "blob": "7be58540242c2eba665bc42f63899794ed700bb2",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.CheckBoxSamplePreview_CheckBox": {
+            "path": "renders/samples-catalog/CheckBoxSamplePreview_CheckBox-1326c3c3.png",
+            "versions": [
+                {
+                    "blob": "f65080e03e352bcafbea34df46127f5f3a0b267a",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ChoicePickerSamplePreview_ChoicePicker": {
+            "path": "renders/samples-catalog/ChoicePickerSamplePreview_ChoicePicker-b0477c36.png",
+            "versions": [
+                {
+                    "blob": "3b1d750657ced8ccd3f5b626569906318762b2f8",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ColumnSamplePreview_Column": {
+            "path": "renders/samples-catalog/ColumnSamplePreview_Column-62aa0e96.png",
+            "versions": [
+                {
+                    "blob": "95f9a222524e20f7d51cc545bdd14258ebaacd18",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ComponentListPreview_Component list": {
+            "path": "renders/samples-catalog/ComponentListPreview_Component_list-6973286a.png",
+            "versions": [
+                {
+                    "blob": "7c6ab483f052e39d8ef5f4e766f1701ade4fd383",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.DateTimeInputSamplePreview_DateTimeInput": {
+            "path": "renders/samples-catalog/DateTimeInputSamplePreview_DateTimeInput-e4086b22.png",
+            "versions": [
+                {
+                    "blob": "784c97eba916aa412e008162f6c29430fd1a7ea5",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.DividerSamplePreview_Divider": {
+            "path": "renders/samples-catalog/DividerSamplePreview_Divider-ce559721.png",
+            "versions": [
+                {
+                    "blob": "35a4d7b2132144504a41192b1b2b3862e6f170fe",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.IconSamplePreview_Icon": {
+            "path": "renders/samples-catalog/IconSamplePreview_Icon-d69870b9.png",
+            "versions": [
+                {
+                    "blob": "7ed82b5903c812336d317aa822f10f4e1998ec85",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ImageSamplePreview_Image": {
+            "path": "renders/samples-catalog/ImageSamplePreview_Image-92c4b983.png",
+            "versions": [
+                {
+                    "blob": "5e058b8dfbc1ce226206dfca8cf88c238bb6a2af",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ListSamplePreview_List": {
+            "path": "renders/samples-catalog/ListSamplePreview_List-ba7411fb.png",
+            "versions": [
+                {
+                    "blob": "7b9f6daf8f07d7b4e3ab06408c3ff5e4c8050252",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ModalSamplePreview_Modal": {
+            "path": "renders/samples-catalog/ModalSamplePreview_Modal-e43ab42d.png",
+            "versions": [
+                {
+                    "blob": "8c5c895858fd0aa8b97e1de728e4c9e4401fa0f4",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.RowSamplePreview_Row": {
+            "path": "renders/samples-catalog/RowSamplePreview_Row-fc3d48a2.png",
+            "versions": [
+                {
+                    "blob": "11b9d364e52e093bc93b638fa25ee382972bf2d5",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.SliderSamplePreview_Slider": {
+            "path": "renders/samples-catalog/SliderSamplePreview_Slider-57b49fcd.png",
+            "versions": [
+                {
+                    "blob": "af756a725c4da7f7a4474fb1786dcdf16505c980",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.TabsSamplePreview_Tabs": {
+            "path": "renders/samples-catalog/TabsSamplePreview_Tabs-b90ad834.png",
+            "versions": [
+                {
+                    "blob": "f2e004ec87dd1d8657af68cfb475019f6b612387",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.TextFieldSamplePreview_TextField": {
+            "path": "renders/samples-catalog/TextFieldSamplePreview_TextField-ec3d1860.png",
+            "versions": [
+                {
+                    "blob": "4fa8d12574b11384757fd6696642c6eb8548a058",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.TextSamplePreview_Text": {
+            "path": "renders/samples-catalog/TextSamplePreview_Text-8f308a03.png",
+            "versions": [
+                {
+                    "blob": "ac550deb863d9421a2d361eea97eb065417ca557",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        },
+        "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.VideoSamplePreview_Video": {
+            "path": "renders/samples-catalog/VideoSamplePreview_Video-c6c8873a.png",
+            "versions": [
+                {
+                    "blob": "8dfd8c6dc5ae76639d04346b06cc390073030fb1",
+                    "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+                    "date": "2026-10-02T09:35:57Z",
+                    "sourceSha": "47876a8a",
+                    "commits": 1
+                }
+            ],
+            "observations": 1,
+            "unstable": false,
+            "flapCount": 0
+        }
+    }
+}
