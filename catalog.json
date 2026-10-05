@@ -7319,7 +7319,7 @@
     "androidx.compose.material3:material3-a2ui"
   ],
   "renderer": "compose-preview 2.32.0",
-  "generatedAt": "2026-10-02T15:25:01.144Z",
+  "generatedAt": "2026-10-05T13:00:52.456Z",
   "display": {
     "role": "samples",
     "hero": "Button"

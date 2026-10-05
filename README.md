@@ -46,7 +46,7 @@ customising the live render are two ends of one workflow.
 | Library | `androidx.compose.material3:material3-a2ui` |
 | Renderer | compose-preview 2.32.0 |
 | Schema | `design-parity-catalog/v1` |
-| Generated | 2026-10-02 |
+| Generated | 2026-10-05 |
 
 ## Components by group
 
