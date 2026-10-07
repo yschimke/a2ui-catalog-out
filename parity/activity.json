@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-05T13:01:17.638Z",
+  "generatedAt": "2026-10-07T22:23:36.884Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "c011ee5376dfab5d8c6121cfd5d5dd43f20edeb3",
+        "subject": "fix(deps): resolve compose-preview-daemon modules through its BOM (#14)",
+        "at": "2026-10-07T23:11:04+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "da4e99f90b345a18ffd6030233dd0adddd4a4395",
+        "subject": "ci: add the Conventional Commit title check (#13)",
+        "at": "2026-10-07T23:06:23+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "5ec5b99a57c020fdfba173334ebb26a7ff01235c",
+        "subject": "chore: merge Renovate PRs with GitHub auto-merge (#12)",
+        "at": "2026-10-07T21:29:49+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "9b8dd2ce5b6a11c34ff188ce06089fe1ef5e3806",
         "subject": "fix(deps): update compose-ai-tools to v2.32.0",
