@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-07T22:23:36.884Z",
+  "generatedAt": "2026-10-08T10:33:08.060Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "ea7925ae465b3b2432783a1936a0338d63fca9ee",
+        "subject": "feat(ui-builder): publish A2UI seed templates and declare the a2ui-program export (#16)",
+        "at": "2026-10-08T11:28:14+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e9d072f8af78adbfb2b173cc37eabf2e42e19726",
+        "subject": "ci: run the catalog spec validators from the export driver (#15)",
+        "at": "2026-10-07T23:22:52+01:00",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "c011ee5376dfab5d8c6121cfd5d5dd43f20edeb3",
         "subject": "fix(deps): resolve compose-preview-daemon modules through its BOM (#14)",
