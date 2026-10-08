@@ -79,8 +79,15 @@
             "seedDevice": "spec:width=412dp,height=915dp,dpi=420"
         },
         "code": null,
-        "composeSourceExport": null,
-        "templates": [],
+        "composeSourceExport": {
+            "adapter": "a2ui-program",
+            "version": 1
+        },
+        "templates": [
+            "ui-builder/designs/a2ui-column.json",
+            "ui-builder/designs/booking-card.json",
+            "ui-builder/designs/contact-form.json"
+        ],
         "colorTokens": null,
         "assetRegistry": null,
         "supersedes": null,
