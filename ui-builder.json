@@ -88,6 +88,7 @@
             "ui-builder/designs/booking-card.json",
             "ui-builder/designs/contact-form.json"
         ],
+        "newDesign": null,
         "colorTokens": null,
         "assetRegistry": null,
         "supersedes": null,
@@ -138,6 +139,7 @@
                     }
                 ],
                 "modifierCapabilities": null,
+                "insertContent": null,
                 "implementation": null,
                 "shelfRole": "Leaf",
                 "wasm": null,
@@ -208,6 +210,7 @@
                     }
                 ],
                 "modifierCapabilities": null,
+                "insertContent": null,
                 "implementation": null,
                 "shelfRole": "Leaf",
                 "wasm": null,
@@ -306,6 +309,7 @@
                     }
                 ],
                 "modifierCapabilities": null,
+                "insertContent": null,
                 "implementation": null,
                 "shelfRole": "Leaf",
                 "wasm": null,
@@ -343,6 +347,7 @@
                     }
                 ],
                 "modifierCapabilities": null,
+                "insertContent": null,
                 "implementation": null,
                 "shelfRole": "Leaf",
                 "wasm": null,
@@ -386,6 +391,7 @@
                     }
                 ],
                 "modifierCapabilities": null,
+                "insertContent": null,
                 "implementation": null,
                 "shelfRole": "Leaf",
                 "wasm": null,
@@ -455,6 +461,7 @@
                     }
                 ],
                 "modifierCapabilities": null,
+                "insertContent": null,
                 "implementation": null,
                 "shelfRole": "Container",
                 "wasm": null,
@@ -524,6 +531,7 @@
                     }
                 ],
                 "modifierCapabilities": null,
+                "insertContent": null,
                 "implementation": null,
                 "shelfRole": "Container",
                 "wasm": null,
@@ -588,6 +596,7 @@
                     }
                 ],
                 "modifierCapabilities": null,
+                "insertContent": null,
                 "implementation": null,
                 "shelfRole": "Container",
                 "wasm": null,
@@ -631,6 +640,7 @@
                     }
                 ],
                 "modifierCapabilities": null,
+                "insertContent": null,
                 "implementation": null,
                 "shelfRole": "Container",
                 "wasm": null,
@@ -668,6 +678,7 @@
                     }
                 ],
                 "modifierCapabilities": null,
+                "insertContent": null,
                 "implementation": null,
                 "shelfRole": "Container",
                 "wasm": null,
@@ -722,6 +733,7 @@
                     }
                 ],
                 "modifierCapabilities": null,
+                "insertContent": null,
                 "implementation": null,
                 "shelfRole": "Container",
                 "wasm": null,
@@ -763,6 +775,7 @@
                     }
                 ],
                 "modifierCapabilities": null,
+                "insertContent": null,
                 "implementation": null,
                 "shelfRole": "Leaf",
                 "wasm": null,
@@ -829,6 +842,7 @@
                     }
                 ],
                 "modifierCapabilities": null,
+                "insertContent": null,
                 "implementation": null,
                 "shelfRole": "Container",
                 "wasm": null,
@@ -896,6 +910,7 @@
                     }
                 ],
                 "modifierCapabilities": null,
+                "insertContent": null,
                 "implementation": null,
                 "shelfRole": "Leaf",
                 "wasm": null,
@@ -945,6 +960,7 @@
                     }
                 ],
                 "modifierCapabilities": null,
+                "insertContent": null,
                 "implementation": null,
                 "shelfRole": "Leaf",
                 "wasm": null,
@@ -1026,6 +1042,7 @@
                     }
                 ],
                 "modifierCapabilities": null,
+                "insertContent": null,
                 "implementation": null,
                 "shelfRole": "Leaf",
                 "wasm": null,
@@ -1087,6 +1104,7 @@
                     }
                 ],
                 "modifierCapabilities": null,
+                "insertContent": null,
                 "implementation": null,
                 "shelfRole": "Leaf",
                 "wasm": null,
@@ -1160,6 +1178,7 @@
                     }
                 ],
                 "modifierCapabilities": null,
+                "insertContent": null,
                 "implementation": null,
                 "shelfRole": "Leaf",
                 "wasm": null,
@@ -1185,7 +1204,10 @@
                 "excluded": null,
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
-                "modifierCapabilities": null
+                "modifierCapabilities": null,
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
             },
             "a2ui/icon-of": {
                 "record": "catalog/ee.schimke.a2uicatalog.sections.ContentKt.IconOf",
@@ -1204,7 +1226,10 @@
                 "excluded": null,
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
-                "modifierCapabilities": null
+                "modifierCapabilities": null,
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
             },
             "a2ui/text-of": {
                 "record": "catalog/ee.schimke.a2uicatalog.sections.ContentKt.TextOf",
@@ -1223,7 +1248,10 @@
                 "excluded": null,
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
-                "modifierCapabilities": null
+                "modifierCapabilities": null,
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
             },
             "a2ui/check-box-of": {
                 "record": "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.CheckBoxOf",
@@ -1242,7 +1270,10 @@
                 "excluded": null,
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
-                "modifierCapabilities": null
+                "modifierCapabilities": null,
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
             },
             "a2ui/choice-picker-of": {
                 "record": "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.ChoicePickerOf",
@@ -1261,7 +1292,10 @@
                 "excluded": null,
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
-                "modifierCapabilities": null
+                "modifierCapabilities": null,
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
             },
             "a2ui/date-time-of": {
                 "record": "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.DateTimeOf",
@@ -1280,7 +1314,10 @@
                 "excluded": null,
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
-                "modifierCapabilities": null
+                "modifierCapabilities": null,
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
             },
             "a2ui/text-field-of": {
                 "record": "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.TextFieldOf",
@@ -1299,7 +1336,10 @@
                 "excluded": null,
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
-                "modifierCapabilities": null
+                "modifierCapabilities": null,
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
             },
             "a2ui/column-of": {
                 "record": "catalog/ee.schimke.a2uicatalog.sections.LayoutKt.ColumnOf",
@@ -1318,7 +1358,10 @@
                 "excluded": null,
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
-                "modifierCapabilities": null
+                "modifierCapabilities": null,
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
             },
             "a2ui/list-of": {
                 "record": "catalog/ee.schimke.a2uicatalog.sections.LayoutKt.ListOf",
@@ -1337,7 +1380,10 @@
                 "excluded": null,
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
-                "modifierCapabilities": null
+                "modifierCapabilities": null,
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
             },
             "a2ui/stretched-row": {
                 "record": "catalog/ee.schimke.a2uicatalog.sections.LayoutKt.StretchedRow",
@@ -1356,7 +1402,10 @@
                 "excluded": null,
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
-                "modifierCapabilities": null
+                "modifierCapabilities": null,
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
             },
             "a2ui/image-of": {
                 "record": "catalog/ee.schimke.a2uicatalog.sections.MediaKt.ImageOf",
@@ -1375,9 +1424,13 @@
                 "excluded": null,
                 "propertyCapabilities": null,
                 "slotCapabilities": null,
-                "modifierCapabilities": null
+                "modifierCapabilities": null,
+                "insertContent": null,
+                "shelfRole": null,
+                "exportProjection": null
             }
-        }
+        },
+        "designTokens": null
     },
     "diagnostics": [
         {

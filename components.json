@@ -97,7 +97,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "catalog/ee.schimke.a2uicatalog.sections.ContentKt.IconOf",
@@ -162,7 +163,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "catalog/ee.schimke.a2uicatalog.sections.ContentKt.TextOf",
@@ -260,7 +262,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.CheckBoxOf",
@@ -320,7 +323,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.ChoicePickerOf",
@@ -424,7 +428,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.DateTimeOf",
@@ -515,7 +520,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "catalog/ee.schimke.a2uicatalog.sections.FieldsKt.TextFieldOf",
@@ -616,7 +622,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "catalog/ee.schimke.a2uicatalog.sections.LayoutKt.ColumnOf",
@@ -681,7 +688,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "catalog/ee.schimke.a2uicatalog.sections.LayoutKt.ListOf",
@@ -741,7 +749,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "catalog/ee.schimke.a2uicatalog.sections.LayoutKt.StretchedRow",
@@ -811,7 +820,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         },
         {
             "canonicalId": "catalog/ee.schimke.a2uicatalog.sections.MediaKt.ImageOf",
@@ -904,7 +914,8 @@
             "overloadsCollided": false,
             "builder": null,
             "requiredOptIns": [],
-            "androidxOptIns": []
+            "androidxOptIns": [],
+            "overloads": []
         }
     ],
     "builderOrphans": []

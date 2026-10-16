@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="273" height="232" viewBox="0 0 273 232" text-rendering="geometricPrecision" font-family="sans-serif">
+<g transform="translate(0, 0)">
+  <g id="Root">
+    <g id="ReusableComposeNode">
+      <rect x="0" y="0" width="273" height="232" fill="#FEF7FF"/>
+      <g id="ReusableComposeNode">
+        <rect x="42" y="64" width="189" height="105" rx="52.5" ry="52.5" fill="#6750A4"/>
+        <g id="ReusableComposeNode">
+          <g transform="translate(105 85) scale(2.62 2.62)">
+            <path d="M3 20 V4 l19 8 L3 20 Z M5 17 L16.85 12 L5 7 v3.5 L11 12 L5 13.5 V17 Z m0 0 V12 V7 v3.5 v3 V17 Z" fill="#FFFFFF"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+</svg>
