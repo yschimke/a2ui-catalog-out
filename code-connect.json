@@ -7,7 +7,7 @@
     "ref": "main",
     "module": ":samples-catalog"
   },
-  "generatedAt": "2026-10-16T22:55:30.040Z",
+  "generatedAt": "2026-10-16T23:00:14.130Z",
   "mappings": [
     {
       "componentId": "ComponentList",
@@ -16,7 +16,8 @@
       "source": "https://github.com/yschimke/a2ui-catalog/blob/main/samples-catalog/src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt",
       "label": "Compose",
       "confidence": "preview-fallback",
-      "previewName": "ComponentListPreview"
+      "previewName": "ComponentListPreview",
+      "figmaSvg": "figma/componentlist.svg"
     },
     {
       "componentId": "Row",
@@ -57,7 +58,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/row.svg"
     },
     {
       "componentId": "Column",
@@ -98,7 +100,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/column.svg"
     },
     {
       "componentId": "List",
@@ -139,7 +142,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/list.svg"
     },
     {
       "componentId": "Card",
@@ -180,7 +184,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/card.svg"
     },
     {
       "componentId": "Tabs",
@@ -221,7 +226,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/tabs.svg"
     },
     {
       "componentId": "Modal",
@@ -262,7 +268,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/modal.svg"
     },
     {
       "componentId": "Text",
@@ -303,7 +310,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/text.svg"
     },
     {
       "componentId": "Image",
@@ -344,7 +352,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/image.svg"
     },
     {
       "componentId": "Icon",
@@ -385,7 +394,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/icon.svg"
     },
     {
       "componentId": "Divider",
@@ -426,7 +436,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/divider.svg"
     },
     {
       "componentId": "Video",
@@ -467,7 +478,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/video.svg"
     },
     {
       "componentId": "AudioPlayer",
@@ -508,7 +520,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/audioplayer.svg"
     },
     {
       "componentId": "Button",
@@ -549,7 +562,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/button.svg"
     },
     {
       "componentId": "CheckBox",
@@ -590,7 +604,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/checkbox.svg"
     },
     {
       "componentId": "Slider",
@@ -631,7 +646,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/slider.svg"
     },
     {
       "componentId": "TextField",
@@ -672,7 +688,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/textfield.svg"
     },
     {
       "componentId": "DateTimeInput",
@@ -713,7 +730,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/datetimeinput.svg"
     },
     {
       "componentId": "ChoicePicker",
@@ -754,7 +772,8 @@
           "scopeDslReceiver": null,
           "lambdaReturnTypeFqn": "kotlin.Unit"
         }
-      ]
+      ],
+      "figmaSvg": "figma/choicepicker.svg"
     }
   ]
 }

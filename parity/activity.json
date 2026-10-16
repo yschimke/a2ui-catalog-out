@@ -1,11 +1,51 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-16T22:55:59.913Z",
+  "generatedAt": "2026-10-16T23:00:35.462Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "214eace971708f1107632fe05d3f343b8f7fffed",
+        "subject": "chore(deps): update compose-ai-tools to v2.66.0 (#20)",
+        "at": "2026-10-16T22:54:34Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d38ce2b0a6c57fc7237d5a5182809e3139ea4b09",
+        "subject": "chore(deps): update gradle to v9.8.1 (#21)",
+        "at": "2026-10-16T22:52:41Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "350406c6d13bfd77fd2bac8aaa684e70b56a102e",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.18.5 (#23)",
+        "at": "2026-10-16T22:52:24Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "8cf8568b3264d701cff45af2ab77bcdc89298fd1",
+        "subject": "fix(deps): update androidx (#22)",
+        "at": "2026-10-16T22:51:45Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f6c5599b979cea437a6bd6127969c8041249955e",
+        "subject": "chore(deps): update github-actions (#17)",
+        "at": "2026-10-16T22:50:55Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "eaefdf108cae234bef85963d4faf5f5b2a3a5654",
         "subject": "fix(deps): update kotlin to v2.4.21 (#19)",
