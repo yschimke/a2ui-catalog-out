@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-12T13:58:35.774Z",
+  "generatedAt": "2026-10-16T22:55:59.913Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "eaefdf108cae234bef85963d4faf5f5b2a3a5654",
+        "subject": "fix(deps): update kotlin to v2.4.21 (#19)",
+        "at": "2026-10-16T22:49:54Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "ea7925ae465b3b2432783a1936a0338d63fca9ee",
         "subject": "feat(ui-builder): publish A2UI seed templates and declare the a2ui-program export (#16)",
