@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-16T23:00:35.462Z",
+  "generatedAt": "2026-10-17T12:09:49.626Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "3360635a16afbaac0fc0296afd3f6de0a2166dde",
+        "subject": "fix(deps): update compose-multiplatform to v1.13.0-alpha02 (#18)",
+        "at": "2026-10-17T11:40:01Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "214eace971708f1107632fe05d3f343b8f7fffed",
         "subject": "chore(deps): update compose-ai-tools to v2.66.0 (#20)",

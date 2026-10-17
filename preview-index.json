@@ -23,6 +23,30 @@
   ],
   "revisions": [
     {
+      "commit": "16ee1ebb3921574edf325a68693a95176045c977",
+      "previews": [
+        "audioplayer__ideal__default__compact",
+        "button__ideal__default__compact",
+        "card__ideal__default__compact",
+        "checkbox__ideal__default__compact",
+        "choicepicker__ideal__default__compact",
+        "column__ideal__default__compact",
+        "componentlist__ideal__default__compact",
+        "datetimeinput__ideal__default__compact",
+        "divider__ideal__default__compact",
+        "icon__ideal__default__compact",
+        "image__ideal__default__compact",
+        "list__ideal__default__compact",
+        "modal__ideal__default__compact",
+        "row__ideal__default__compact",
+        "slider__ideal__default__compact",
+        "tabs__ideal__default__compact",
+        "text__ideal__default__compact",
+        "textfield__ideal__default__compact",
+        "video__ideal__default__compact"
+      ]
+    },
+    {
       "commit": "b038ac18887584b72a213d34e2605465d22e81e6",
       "previews": [
         "audioplayer__ideal__default__compact",
@@ -240,30 +264,6 @@
     },
     {
       "commit": "ab76ef1bd21cda88c666a7e3279673780ce275df",
-      "previews": [
-        "audioplayer__ideal__default__compact",
-        "button__ideal__default__compact",
-        "card__ideal__default__compact",
-        "checkbox__ideal__default__compact",
-        "choicepicker__ideal__default__compact",
-        "column__ideal__default__compact",
-        "componentlist__ideal__default__compact",
-        "datetimeinput__ideal__default__compact",
-        "divider__ideal__default__compact",
-        "icon__ideal__default__compact",
-        "image__ideal__default__compact",
-        "list__ideal__default__compact",
-        "modal__ideal__default__compact",
-        "row__ideal__default__compact",
-        "slider__ideal__default__compact",
-        "tabs__ideal__default__compact",
-        "text__ideal__default__compact",
-        "textfield__ideal__default__compact",
-        "video__ideal__default__compact"
-      ]
-    },
-    {
-      "commit": "c9a115a6004cee751c4b63f959effa2bc36ee899",
       "previews": [
         "audioplayer__ideal__default__compact",
         "button__ideal__default__compact",
