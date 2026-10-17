@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-17T12:46:35.682Z",
+  "generatedAt": "2026-10-17T22:23:53.940Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "87c7687c5a625c62510cd9dfd9abbe39887dc370",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.18.6 (#26)",
+        "at": "2026-10-17T22:18:36Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "1c22658289a1d71b50683567e46dbc78a4704d4b",
+        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.67.0 (#25)",
+        "at": "2026-10-17T12:17:15Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "ebfd9bdd6c0aae55aedf8567c14f015011d7bd07",
         "subject": "fix(deps): update kotlinx to v1.11.0 (#24)",
