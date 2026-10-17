@@ -1,0 +1,208 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "ee.schimke.a2uicmp",
+    "module": "a2ui-compose-runtime",
+    "version": "1.0.0-alpha01-cmp02",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.8.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "metadataApiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.platform.type": "common"
+      },
+      "dependencies": [
+        {
+          "group": "ee.schimke.a2uicmp",
+          "module": "a2ui-model",
+          "version": {
+            "requires": "1.0.0-alpha01-cmp02"
+          }
+        },
+        {
+          "group": "ee.schimke.a2uicmp",
+          "module": "a2ui-engine",
+          "version": {
+            "requires": "1.0.0-alpha01-cmp02"
+          }
+        },
+        {
+          "group": "org.jetbrains.compose.runtime",
+          "module": "runtime",
+          "version": {
+            "requires": "1.13.0-alpha02"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.4.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "a2ui-compose-runtime-metadata-1.0.0-alpha01-cmp02.jar",
+          "url": "a2ui-compose-runtime-1.0.0-alpha01-cmp02.jar",
+          "size": 14394,
+          "sha512": "b512239729dbabdda21934aa8121616b95ff43b718698bd1f86515924aa8c7a8187880185d8eca0e6402a2a1bed6fe0adf3d7fad0637a5199cfad6dd60bcf47c",
+          "sha256": "cb5b9d0466dbae7b4b3355bfbe21eca6e562e5d63ba2dbf621d3d98396fccc82",
+          "sha1": "6ec964889f5ef828cb9b3ba3e6deeca875ca2ac8",
+          "md5": "10779e2e21259c0b5239f3d27f60183f"
+        }
+      ]
+    },
+    {
+      "name": "metadataSourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.platform.type": "common"
+      },
+      "files": [
+        {
+          "name": "a2ui-compose-runtime-kotlin-1.0.0-alpha01-cmp02-sources.jar",
+          "url": "a2ui-compose-runtime-1.0.0-alpha01-cmp02-sources.jar",
+          "size": 33308,
+          "sha512": "a9d8252ca75fdf66a3d154be262c7badbd57ab7f8113d30a7e3587167e31d320ea7ce1fc02cd2a9661098e1322459ba6c5b0863ce47cbbfc5bccf1b5e518d804",
+          "sha256": "2c0ecae2f3cd283071cbc658ee7b6f8eb52932b8246381f902345d699aab5d94",
+          "sha1": "4d7e3a93067e6921a0e43c9c132474aacdc6ebbd",
+          "md5": "7c8a35b4cbe77d52eb5bd0ab73035944"
+        }
+      ]
+    },
+    {
+      "name": "jvmApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "available-at": {
+        "url": "../../a2ui-compose-runtime-jvm/1.0.0-alpha01-cmp02/a2ui-compose-runtime-jvm-1.0.0-alpha01-cmp02.module",
+        "group": "ee.schimke.a2uicmp",
+        "module": "a2ui-compose-runtime-jvm",
+        "version": "1.0.0-alpha01-cmp02"
+      }
+    },
+    {
+      "name": "jvmRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "available-at": {
+        "url": "../../a2ui-compose-runtime-jvm/1.0.0-alpha01-cmp02/a2ui-compose-runtime-jvm-1.0.0-alpha01-cmp02.module",
+        "group": "ee.schimke.a2uicmp",
+        "module": "a2ui-compose-runtime-jvm",
+        "version": "1.0.0-alpha01-cmp02"
+      }
+    },
+    {
+      "name": "jvmSourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "available-at": {
+        "url": "../../a2ui-compose-runtime-jvm/1.0.0-alpha01-cmp02/a2ui-compose-runtime-jvm-1.0.0-alpha01-cmp02.module",
+        "group": "ee.schimke.a2uicmp",
+        "module": "a2ui-compose-runtime-jvm",
+        "version": "1.0.0-alpha01-cmp02"
+      }
+    },
+    {
+      "name": "wasmJsApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.platform.type": "wasm",
+        "org.jetbrains.kotlin.wasm.target": "js"
+      },
+      "available-at": {
+        "url": "../../a2ui-compose-runtime-wasm-js/1.0.0-alpha01-cmp02/a2ui-compose-runtime-wasm-js-1.0.0-alpha01-cmp02.module",
+        "group": "ee.schimke.a2uicmp",
+        "module": "a2ui-compose-runtime-wasm-js",
+        "version": "1.0.0-alpha01-cmp02"
+      }
+    },
+    {
+      "name": "wasmJsRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.platform.type": "wasm",
+        "org.jetbrains.kotlin.wasm.target": "js"
+      },
+      "available-at": {
+        "url": "../../a2ui-compose-runtime-wasm-js/1.0.0-alpha01-cmp02/a2ui-compose-runtime-wasm-js-1.0.0-alpha01-cmp02.module",
+        "group": "ee.schimke.a2uicmp",
+        "module": "a2ui-compose-runtime-wasm-js",
+        "version": "1.0.0-alpha01-cmp02"
+      }
+    },
+    {
+      "name": "wasmJsSourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.platform.type": "wasm",
+        "org.jetbrains.kotlin.wasm.target": "js"
+      },
+      "available-at": {
+        "url": "../../a2ui-compose-runtime-wasm-js/1.0.0-alpha01-cmp02/a2ui-compose-runtime-wasm-js-1.0.0-alpha01-cmp02.module",
+        "group": "ee.schimke.a2uicmp",
+        "module": "a2ui-compose-runtime-wasm-js",
+        "version": "1.0.0-alpha01-cmp02"
+      }
+    },
+    {
+      "name": "wasmJsResourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.libraryelements": "kotlin-multiplatformresourcesjs",
+        "org.gradle.usage": "kotlin-multiplatformresourcesjs",
+        "org.jetbrains.kotlin.platform.type": "wasm",
+        "org.jetbrains.kotlin.wasm.target": "js"
+      },
+      "available-at": {
+        "url": "../../a2ui-compose-runtime-wasm-js/1.0.0-alpha01-cmp02/a2ui-compose-runtime-wasm-js-1.0.0-alpha01-cmp02.module",
+        "group": "ee.schimke.a2uicmp",
+        "module": "a2ui-compose-runtime-wasm-js",
+        "version": "1.0.0-alpha01-cmp02"
+      }
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../a2ui-model/1.0.0-alpha01-cmp02/a2ui-model-1.0.0-alpha01-cmp02.module",
+    "group": "ee.schimke.a2uicmp",
+    "module": "a2ui-model",
+    "version": "1.0.0-alpha01-cmp02",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.8.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "wasmJsApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.platform.type": "wasm",
+        "org.jetbrains.kotlin.wasm.target": "js"
+      },
+      "dependencies": [
+        {
+          "group": "ee.schimke.a2uicmp",
+          "module": "a2ui-port-runtime",
+          "version": {
+            "requires": "1.0.0-alpha01-cmp02"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.9.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.4.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "a2ui-model-wasm-js-1.0.0-alpha01-cmp02.klib",
+          "url": "a2ui-model-wasm-js-1.0.0-alpha01-cmp02.klib",
+          "size": 193435,
+          "sha512": "5fa6c2d7f610d5b8e801c45d1be41b01de807cd2c1e6b2337e5c755c61a79e5739a805a2f6fe0fc2a8992a8dfdbb1b896f824a3a1f195e390dc294302ba22883",
+          "sha256": "f976021fda085b16631054dc4295e768ded17e75a7ed72594e86f5b027be6d01",
+          "sha1": "6b9ccf3fd6d30aeebab55403f06ec28a0a568ddc",
+          "md5": "ed3236174c165e4ea3687ec99615a0c7"
+        }
+      ]
+    },
+    {
+      "name": "wasmJsRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.platform.type": "wasm",
+        "org.jetbrains.kotlin.wasm.target": "js"
+      },
+      "dependencies": [
+        {
+          "group": "ee.schimke.a2uicmp",
+          "module": "a2ui-port-runtime",
+          "version": {
+            "requires": "1.0.0-alpha01-cmp02"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.9.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.4.21"
+          }
+        },
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.11.0"
+          }
+        },
+        {
+          "group": "androidx.collection",
+          "module": "collection",
+          "version": {
+            "requires": "1.7.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-serialization-json",
+          "version": {
+            "requires": "1.7.3"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "a2ui-model-wasm-js-1.0.0-alpha01-cmp02.klib",
+          "url": "a2ui-model-wasm-js-1.0.0-alpha01-cmp02.klib",
+          "size": 193435,
+          "sha512": "5fa6c2d7f610d5b8e801c45d1be41b01de807cd2c1e6b2337e5c755c61a79e5739a805a2f6fe0fc2a8992a8dfdbb1b896f824a3a1f195e390dc294302ba22883",
+          "sha256": "f976021fda085b16631054dc4295e768ded17e75a7ed72594e86f5b027be6d01",
+          "sha1": "6b9ccf3fd6d30aeebab55403f06ec28a0a568ddc",
+          "md5": "ed3236174c165e4ea3687ec99615a0c7"
+        }
+      ]
+    },
+    {
+      "name": "wasmJsSourcesElements-published",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.platform.type": "wasm",
+        "org.jetbrains.kotlin.wasm.target": "js"
+      },
+      "files": [
+        {
+          "name": "a2ui-model-wasm-js-1.0.0-alpha01-cmp02-sources.jar",
+          "url": "a2ui-model-wasm-js-1.0.0-alpha01-cmp02-sources.jar",
+          "size": 96509,
+          "sha512": "9bbb76e9631f22aa6d1c26665fd390a35a796a5aa7862facd5b36eb7fa1bad192795e0cc4581d7b3f90e5e1eedc4f1331b7bef35adc12dd0ae9ce6c2054f6548",
+          "sha256": "c88aaa0b6401680ff70ab716abc0da077c41e993e17ac99a20bbd5a962e3bf9d",
+          "sha1": "38a05299e39945e5d700a78176687d4b4a183a5b",
+          "md5": "598aa802c6487276f8f3b775e88bc422"
+        }
+      ]
+    }
+  ]
+}
