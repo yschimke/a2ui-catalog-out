@@ -1,6 +1,6 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-17T22:29:48.149Z",
+  "generatedAt": "2026-10-17T22:41:13.165Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
