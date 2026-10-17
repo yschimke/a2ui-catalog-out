@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-17T12:09:49.626Z",
+  "generatedAt": "2026-10-17T12:46:35.682Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "ebfd9bdd6c0aae55aedf8567c14f015011d7bd07",
+        "subject": "fix(deps): update kotlinx to v1.11.0 (#24)",
+        "at": "2026-10-17T12:08:35Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "3360635a16afbaac0fc0296afd3f6de0a2166dde",
         "subject": "fix(deps): update compose-multiplatform to v1.13.0-alpha02 (#18)",
