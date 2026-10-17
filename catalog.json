@@ -1927,7 +1927,7 @@
     "androidx.a2ui:a2ui-model"
   ],
   "renderer": "compose-preview 2.66.0",
-  "generatedAt": "2026-10-17T12:18:58.569Z",
+  "generatedAt": "2026-10-17T12:59:56.001Z",
   "display": {
     "hero": "Card"
   },
@@ -1947,9 +1947,9 @@
   "uiBuilderFile": "ui-builder.json",
   "uiBuilderRuntime": {
     "path": "ui-builder/runtime.zip",
-    "runtimeId": "a2ui-p2-3360635a16af",
+    "runtimeId": "a2ui-p2-ebfd9bdd6c0a",
     "protocolVersion": 2,
-    "integritySha256": "fabf4d4c218993027a0a3c59b6657477c6924695cf39b9e114bb018e74626fc7"
+    "integritySha256": "876453f1703c393722cb679fd8d768c9542ac402f693ea30e2bee0f4188d424a"
   },
   "source": {
     "repo": "yschimke/a2ui-catalog",
