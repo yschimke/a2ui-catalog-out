@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-17T22:31:30.488Z",
+  "generatedAt": "2026-10-18T09:49:59.114Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "4889b872acab602dbd829d865e557d30f3b1ac64",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.18.7 (#28)",
+        "at": "2026-10-18T09:45:36Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "bfa15e48ab9876f1fe373dcc48c77ff6271c8d36",
         "subject": "chore(deps): update compose-ai-tools (#27)",
