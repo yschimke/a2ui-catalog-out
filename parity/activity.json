@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-22T09:11:38.349Z",
+  "generatedAt": "2026-10-22T17:45:52.433Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "929ccc6b15163df8cad1c1e7d1ff17bad2dd541a",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.22.0 (#36)",
+        "at": "2026-10-22T17:40:23Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "f68a635aed23de8a657458dee5494d746975d5df",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.21.4 (#33)",
