@@ -1,11 +1,35 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-22T08:55:06.794Z",
+  "generatedAt": "2026-10-22T09:11:38.349Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "f68a635aed23de8a657458dee5494d746975d5df",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.21.4 (#33)",
+        "at": "2026-10-22T08:48:19Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "9db0ee044502f4d320e9ae4352860a4b475daf8f",
+        "subject": "chore(deps): update compose-ai-tools to v2.70.7 (#32)",
+        "at": "2026-10-22T08:47:32Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "dc99e8994de5a5ec3ff12e3beae844450d036af8",
+        "subject": "chore(deps): update gradle to v9.8.2 (#30)",
+        "at": "2026-10-22T08:42:07Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "827d54241dffd0835004fcfca6d7148bcc866d56",
         "subject": "fix(deps): update dependency org.jetbrains.kotlinx:kotlinx-serialization-json to v1.12.0 (#34)",
