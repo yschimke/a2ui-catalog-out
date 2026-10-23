@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-22T17:45:52.433Z",
+  "generatedAt": "2026-10-23T00:34:10.967Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "cec07398d4879c47f9ba99df77032df0993aab9a",
+        "subject": "chore(deps): update dependency java-jdk to v21.0.13+9.0.lts (#35)",
+        "at": "2026-10-22T17:42:14Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "929ccc6b15163df8cad1c1e7d1ff17bad2dd541a",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.22.0 (#36)",
