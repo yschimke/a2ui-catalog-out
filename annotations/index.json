@@ -1,5 +1,1468 @@
 {
   "schema": "compose-preview-annotations/v1",
   "previews": {},
-  "references": {}
+  "references": {
+    "button__ideal__default": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 59,
+          "y": 53,
+          "width": 250,
+          "height": 126
+        },
+        "label": "≈pad 4px/0px",
+        "detail": {
+          "padding.start": "0",
+          "padding.top": "4",
+          "padding.end": "0",
+          "padding.bottom": "4",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 59,
+          "y": 64,
+          "width": 250,
+          "height": 105
+        },
+        "label": "r 100px",
+        "role": "Content",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 59,
+          "y": 64,
+          "width": 250,
+          "height": 105
+        },
+        "label": "pad 10px/16px · gap 8px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "10",
+          "padding.end": "16",
+          "padding.bottom": "10",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 101,
+          "y": 90,
+          "width": 53,
+          "height": 53
+        },
+        "label": "≈pad 2px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 175,
+          "y": 90,
+          "width": 92,
+          "height": 53
+        },
+        "label": "m3/label/large 14px/20",
+        "role": "Label",
+        "detail": {
+          "token": "m3/label/large",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      }
+    ],
+    "card__ideal__default": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 42,
+          "y": 43,
+          "width": 945,
+          "height": 1260
+        },
+        "label": "r 12px",
+        "detail": {
+          "cornerRadius": "12",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 42,
+          "y": 43,
+          "width": 945,
+          "height": 1260
+        },
+        "label": "r 12px",
+        "role": "Content",
+        "detail": {
+          "cornerRadius": "12",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 42,
+          "y": 43,
+          "width": 945,
+          "height": 189
+        },
+        "label": "pad t 12px e 4px b 12px s 16px",
+        "role": "Header",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "12",
+          "padding.end": "4",
+          "padding.bottom": "12",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 84,
+          "y": 75,
+          "width": 767,
+          "height": 126
+        },
+        "label": "gap 16px",
+        "role": "Content",
+        "detail": {
+          "gap": "16",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 231,
+          "y": 75,
+          "width": 620,
+          "height": 126
+        },
+        "label": "gap 4px",
+        "role": "Text",
+        "detail": {
+          "gap": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 851,
+          "y": 75,
+          "width": 126,
+          "height": 126
+        },
+        "label": "≈pad 4px",
+        "role": "Icon button - standard",
+        "detail": {
+          "padding.start": "4",
+          "padding.top": "4",
+          "padding.end": "4",
+          "padding.bottom": "4",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 861,
+          "y": 85,
+          "width": 105,
+          "height": 105
+        },
+        "label": "r 100px",
+        "role": "Content",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 861,
+          "y": 85,
+          "width": 105,
+          "height": 105
+        },
+        "label": "≈pad 8px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "8",
+          "padding.top": "8",
+          "padding.end": "8",
+          "padding.bottom": "8",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 882,
+          "y": 106,
+          "width": 63,
+          "height": 63
+        },
+        "label": "≈pad 4px/10px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "10",
+          "padding.top": "4",
+          "padding.end": "10",
+          "padding.bottom": "4",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 42,
+          "y": 726,
+          "width": 945,
+          "height": 578
+        },
+        "label": "pad 16px · gap 32px",
+        "role": "Text content",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "16",
+          "padding.end": "16",
+          "padding.bottom": "16",
+          "gap": "32",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 84,
+          "y": 1156,
+          "width": 861,
+          "height": 105
+        },
+        "label": "gap 8px",
+        "role": "Actions",
+        "detail": {
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 446,
+          "y": 1146,
+          "width": 263,
+          "height": 126
+        },
+        "label": "≈pad 4px/0px",
+        "role": "Secondary action",
+        "detail": {
+          "padding.start": "0",
+          "padding.top": "4",
+          "padding.end": "0",
+          "padding.bottom": "4",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 446,
+          "y": 1156,
+          "width": 263,
+          "height": 105
+        },
+        "label": "r 100px",
+        "role": "Content",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 446,
+          "y": 1156,
+          "width": 263,
+          "height": 105
+        },
+        "label": "pad 10px/16px · gap 8px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "10",
+          "padding.end": "16",
+          "padding.bottom": "10",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 488,
+          "y": 1182,
+          "width": 53,
+          "height": 53
+        },
+        "label": "≈pad 2px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 730,
+          "y": 1146,
+          "width": 215,
+          "height": 126
+        },
+        "label": "≈pad 4px/0px",
+        "role": "Primary action",
+        "detail": {
+          "padding.start": "0",
+          "padding.top": "4",
+          "padding.end": "0",
+          "padding.bottom": "4",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 730,
+          "y": 1156,
+          "width": 215,
+          "height": 105
+        },
+        "label": "r 100px",
+        "role": "Content",
+        "detail": {
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 730,
+          "y": 1156,
+          "width": 215,
+          "height": 105
+        },
+        "label": "pad 10px/16px · gap 8px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "10",
+          "padding.end": "16",
+          "padding.bottom": "10",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 772,
+          "y": 1182,
+          "width": 53,
+          "height": 53
+        },
+        "label": "≈pad 2px",
+        "role": "Icon",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 42,
+          "y": 43,
+          "width": 945,
+          "height": 1260
+        },
+        "label": "r 12px",
+        "role": "Background",
+        "detail": {
+          "cornerRadius": "12",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 42,
+          "y": 43,
+          "width": 945,
+          "height": 1260
+        },
+        "label": "pad 10px · gap 10px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "10",
+          "padding.top": "10",
+          "padding.end": "10",
+          "padding.bottom": "10",
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 84,
+          "y": 85,
+          "width": 105,
+          "height": 105
+        },
+        "label": "text 16px/24",
+        "role": "A",
+        "detail": {
+          "token": "text",
+          "unit": "px",
+          "fontSize": "16",
+          "lineHeight": "24",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 231,
+          "y": 75,
+          "width": 620,
+          "height": 63
+        },
+        "label": "m3/title/medium 16px/24",
+        "role": "Header",
+        "detail": {
+          "token": "m3/title/medium",
+          "unit": "px",
+          "fontSize": "16",
+          "lineHeight": "24",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 231,
+          "y": 148,
+          "width": 620,
+          "height": 53
+        },
+        "label": "m3/body/medium 14px/20",
+        "role": "Subhead",
+        "detail": {
+          "token": "m3/body/medium",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "400",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 84,
+          "y": 768,
+          "width": 861,
+          "height": 63
+        },
+        "label": "m3/body/large 16px/24",
+        "role": "Title",
+        "detail": {
+          "token": "m3/body/large",
+          "unit": "px",
+          "fontSize": "16",
+          "lineHeight": "24",
+          "fontWeight": "400",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 84,
+          "y": 831,
+          "width": 861,
+          "height": 53
+        },
+        "label": "m3/body/medium 14px/20",
+        "role": "Subtitle",
+        "detail": {
+          "token": "m3/body/medium",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "400",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 84,
+          "y": 967,
+          "width": 861,
+          "height": 105
+        },
+        "label": "m3/body/medium 14px/20",
+        "role": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+        "detail": {
+          "token": "m3/body/medium",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "400",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 488,
+          "y": 1182,
+          "width": 179,
+          "height": 53
+        },
+        "label": "m3/label/large 14px/20",
+        "role": "Secondary",
+        "detail": {
+          "token": "m3/label/large",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 772,
+          "y": 1182,
+          "width": 131,
+          "height": 53
+        },
+        "label": "m3/label/large 14px/20",
+        "role": "Primary",
+        "detail": {
+          "token": "m3/label/large",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      }
+    ],
+    "tabs__ideal__default": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 42,
+          "y": 94,
+          "width": 315,
+          "height": 123
+        },
+        "label": "pad e 16px s 16px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "16",
+          "padding.end": "16",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 152,
+          "y": 94,
+          "width": 97,
+          "height": 123
+        },
+        "label": "pad t 14px b 14px · gap 4px",
+        "role": "Tab Contents",
+        "detail": {
+          "padding.top": "14",
+          "padding.bottom": "14",
+          "gap": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 152,
+          "y": 181,
+          "width": 97,
+          "height": 37
+        },
+        "label": "≈pad t 11px e 2px b 0px s 2px",
+        "role": "Indicator",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "11",
+          "padding.end": "2",
+          "padding.bottom": "0",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 226,
+          "y": 149,
+          "width": 16,
+          "height": 16
+        },
+        "label": "pad 2px · r 100px",
+        "role": "Badges",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 357,
+          "y": 94,
+          "width": 315,
+          "height": 123
+        },
+        "label": "pad e 16px s 16px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "16",
+          "padding.end": "16",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 457,
+          "y": 94,
+          "width": 118,
+          "height": 123
+        },
+        "label": "pad t 14px b 14px · gap 4px",
+        "role": "Tab Contents",
+        "detail": {
+          "padding.top": "14",
+          "padding.bottom": "14",
+          "gap": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 530,
+          "y": 149,
+          "width": 16,
+          "height": 16
+        },
+        "label": "pad 2px · r 100px",
+        "role": "Badges",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 672,
+          "y": 94,
+          "width": 315,
+          "height": 123
+        },
+        "label": "pad e 16px s 16px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "16",
+          "padding.end": "16",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 782,
+          "y": 94,
+          "width": 97,
+          "height": 123
+        },
+        "label": "pad t 14px b 14px · gap 4px",
+        "role": "Tab Contents",
+        "detail": {
+          "padding.top": "14",
+          "padding.bottom": "14",
+          "gap": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 856,
+          "y": 149,
+          "width": 16,
+          "height": 16
+        },
+        "label": "pad 2px · r 100px",
+        "role": "Badges",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 751,
+          "y": 94,
+          "width": 236,
+          "height": 123
+        },
+        "label": "≈pad t 0px e 34px s 0px",
+        "role": "Tab 4",
+        "detail": {
+          "padding.start": "0",
+          "padding.top": "0",
+          "padding.end": "34",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 751,
+          "y": 94,
+          "width": 147,
+          "height": 126
+        },
+        "label": "pad e 16px s 16px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "16",
+          "padding.end": "16",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 793,
+          "y": 94,
+          "width": 63,
+          "height": 126
+        },
+        "label": "pad t 14px b 14px · gap 4px",
+        "role": "Tab Contents",
+        "detail": {
+          "padding.top": "14",
+          "padding.bottom": "14",
+          "gap": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 866,
+          "y": 149,
+          "width": 16,
+          "height": 16
+        },
+        "label": "pad 2px · r 100px",
+        "role": "Badges",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 798,
+          "y": 94,
+          "width": 189,
+          "height": 123
+        },
+        "label": "≈pad t 0px e 16px s 0px",
+        "role": "Tab 5",
+        "detail": {
+          "padding.start": "0",
+          "padding.top": "0",
+          "padding.end": "16",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 798,
+          "y": 94,
+          "width": 147,
+          "height": 126
+        },
+        "label": "pad e 16px s 16px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "16",
+          "padding.end": "16",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 840,
+          "y": 94,
+          "width": 63,
+          "height": 126
+        },
+        "label": "pad t 14px b 14px · gap 4px",
+        "role": "Tab Contents",
+        "detail": {
+          "padding.top": "14",
+          "padding.bottom": "14",
+          "gap": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 914,
+          "y": 149,
+          "width": 16,
+          "height": 16
+        },
+        "label": "pad 2px · r 100px",
+        "role": "Badges",
+        "detail": {
+          "padding.start": "2",
+          "padding.top": "2",
+          "padding.end": "2",
+          "padding.bottom": "2",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 42,
+          "y": 217,
+          "width": 945,
+          "height": 3
+        },
+        "label": "≈pad t 1px e 0px s 0px",
+        "role": "Divider",
+        "detail": {
+          "padding.start": "0",
+          "padding.top": "1",
+          "padding.end": "0",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 152,
+          "y": 131,
+          "width": 97,
+          "height": 53
+        },
+        "label": "m3/title/small 14px/20",
+        "role": "Video",
+        "detail": {
+          "token": "m3/title/small",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 457,
+          "y": 131,
+          "width": 118,
+          "height": 53
+        },
+        "label": "m3/title/small 14px/20",
+        "role": "Photos",
+        "detail": {
+          "token": "m3/title/small",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 782,
+          "y": 131,
+          "width": 97,
+          "height": 53
+        },
+        "label": "m3/title/small 14px/20",
+        "role": "Audio",
+        "detail": {
+          "token": "m3/title/small",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 793,
+          "y": 131,
+          "width": 63,
+          "height": 53
+        },
+        "label": "m3/title/small 14px/20",
+        "role": "Tab",
+        "detail": {
+          "token": "m3/title/small",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 840,
+          "y": 131,
+          "width": 63,
+          "height": 53
+        },
+        "label": "m3/title/small 14px/20",
+        "role": "Tab",
+        "detail": {
+          "token": "m3/title/small",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      }
+    ],
+    "divider__ideal__default": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 94,
+          "y": 126,
+          "width": 840,
+          "height": 3
+        },
+        "label": "≈pad t 1px e 0px b 0px s 0px",
+        "detail": {
+          "padding.start": "0",
+          "padding.top": "1",
+          "padding.end": "0",
+          "padding.bottom": "0",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      }
+    ],
+    "checkbox__ideal__default": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 204,
+          "y": 10,
+          "width": 126,
+          "height": 126
+        },
+        "label": "pad 4px",
+        "detail": {
+          "padding.start": "4",
+          "padding.top": "4",
+          "padding.end": "4",
+          "padding.bottom": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 215,
+          "y": 21,
+          "width": 105,
+          "height": 105
+        },
+        "label": "pad 11px · r 100px",
+        "role": "state-layer",
+        "detail": {
+          "padding.start": "11",
+          "padding.top": "11",
+          "padding.end": "11",
+          "padding.bottom": "11",
+          "cornerRadius": "100",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 243,
+          "y": 49,
+          "width": 47,
+          "height": 47
+        },
+        "label": "r 2px",
+        "role": "container",
+        "detail": {
+          "cornerRadius": "2",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 236,
+          "y": 42,
+          "width": 63,
+          "height": 63
+        },
+        "label": "≈pad t 7px e 6px b 8px s 6px",
+        "role": "check_small",
+        "detail": {
+          "padding.start": "6",
+          "padding.top": "7",
+          "padding.end": "6",
+          "padding.bottom": "8",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      }
+    ],
+    "choicepicker__ideal__default": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 289,
+          "y": 84,
+          "width": 224,
+          "height": 84
+        },
+        "label": "r 8px",
+        "detail": {
+          "cornerRadius": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 289,
+          "y": 84,
+          "width": 224,
+          "height": 84
+        },
+        "label": "pad t 6px e 16px b 6px s 8px · gap 8px",
+        "role": "state-layer",
+        "detail": {
+          "padding.start": "8",
+          "padding.top": "6",
+          "padding.end": "16",
+          "padding.bottom": "6",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 310,
+          "y": 102,
+          "width": 47,
+          "height": 47
+        },
+        "label": "≈pad t 4px e 3px b 5px s 3px",
+        "role": "Selected icon",
+        "detail": {
+          "padding.start": "3",
+          "padding.top": "4",
+          "padding.end": "3",
+          "padding.bottom": "5",
+          "unit": "px",
+          "spacingSource": "derived"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 379,
+          "y": 100,
+          "width": 92,
+          "height": 53
+        },
+        "label": "m3/label/large 14px/20",
+        "role": "Label",
+        "detail": {
+          "token": "m3/label/large",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      }
+    ],
+    "datetimeinput__ideal__default": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 426,
+          "y": 95,
+          "width": 176,
+          "height": 84
+        },
+        "label": "r 8px",
+        "detail": {
+          "cornerRadius": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 426,
+          "y": 95,
+          "width": 176,
+          "height": 84
+        },
+        "label": "pad 6px/16px · gap 8px",
+        "role": "state-layer",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "6",
+          "padding.end": "16",
+          "padding.bottom": "6",
+          "gap": "8",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 468,
+          "y": 111,
+          "width": 92,
+          "height": 53
+        },
+        "label": "m3/label/large 14px/20",
+        "role": "Label",
+        "detail": {
+          "token": "m3/label/large",
+          "unit": "px",
+          "fontSize": "14",
+          "lineHeight": "20",
+          "fontWeight": "500",
+          "fontFamily": "Roboto"
+        }
+      }
+    ],
+    "slider__ideal__default": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 49,
+          "y": 94,
+          "width": 930,
+          "height": 116
+        },
+        "label": "gap 6px",
+        "detail": {
+          "gap": "6",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 509,
+          "y": 94,
+          "width": 11,
+          "height": 116
+        },
+        "label": "r 2px",
+        "role": "Handle",
+        "detail": {
+          "cornerRadius": "2",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 509,
+          "y": 94,
+          "width": 11,
+          "height": 116
+        },
+        "label": "r 4px",
+        "role": "State-layer",
+        "detail": {
+          "cornerRadius": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 49,
+          "y": 147,
+          "width": 930,
+          "height": 11
+        },
+        "label": "pad e 4px s 4px · gap 33.8px",
+        "role": "Stops",
+        "detail": {
+          "padding.start": "4",
+          "padding.end": "4",
+          "gap": "33.8",
+          "unit": "px"
+        }
+      }
+    ],
+    "textfield__ideal__default": [
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 133,
+          "y": 17,
+          "width": 552,
+          "height": 147
+        },
+        "label": "gap 10px · r 4px",
+        "role": "Text field",
+        "detail": {
+          "gap": "10",
+          "cornerRadius": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 133,
+          "y": 17,
+          "width": 552,
+          "height": 147
+        },
+        "label": "pad t 4px b 4px s 16px · gap 4px",
+        "role": "State-layer",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "4",
+          "padding.bottom": "4",
+          "gap": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 175,
+          "y": 28,
+          "width": 510,
+          "height": 126
+        },
+        "label": "pad t 4px b 4px",
+        "role": "Content",
+        "detail": {
+          "padding.top": "4",
+          "padding.bottom": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 165,
+          "y": -4,
+          "width": 103,
+          "height": 42
+        },
+        "label": "pad e 4px s 4px",
+        "role": "Label text container",
+        "detail": {
+          "padding.start": "4",
+          "padding.end": "4",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "layout",
+        "bounds": {
+          "x": 133,
+          "y": 164,
+          "width": 552,
+          "height": 53
+        },
+        "label": "pad t 4px e 16px s 16px · gap 10px",
+        "role": "Supporting text",
+        "detail": {
+          "padding.start": "16",
+          "padding.top": "4",
+          "padding.end": "16",
+          "gap": "10",
+          "unit": "px"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 175,
+          "y": 59,
+          "width": 510,
+          "height": 63
+        },
+        "label": "m3/body/large 16px/24",
+        "role": "Input",
+        "detail": {
+          "token": "m3/body/large",
+          "unit": "px",
+          "fontSize": "16",
+          "lineHeight": "24",
+          "fontWeight": "400",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 175,
+          "y": -4,
+          "width": 81,
+          "height": 42
+        },
+        "label": "m3/body/small 12px/16",
+        "role": "Label",
+        "detail": {
+          "token": "m3/body/small",
+          "unit": "px",
+          "fontSize": "12",
+          "lineHeight": "16",
+          "fontWeight": "400",
+          "fontFamily": "Roboto"
+        }
+      },
+      {
+        "kind": "typography",
+        "bounds": {
+          "x": 175,
+          "y": 175,
+          "width": 468,
+          "height": 42
+        },
+        "label": "m3/body/small 12px/16",
+        "role": "Supporting text",
+        "detail": {
+          "token": "m3/body/small",
+          "unit": "px",
+          "fontSize": "12",
+          "lineHeight": "16",
+          "fontWeight": "400",
+          "fontFamily": "Roboto"
+        }
+      }
+    ]
+  }
 }

@@ -1,0 +1,310 @@
+{
+  "schema": "compose-preview-references/v1",
+  "references": [
+    {
+      "id": "button__ideal__default",
+      "previewId": "button__ideal__default",
+      "label": "Button — figma",
+      "tier": "primary",
+      "raster": {
+        "path": "references/button__ideal__default.png",
+        "width": 369,
+        "height": 232,
+        "density": 2.625,
+        "sha256": "77a6a8a829e552b0fc110b7052bca5d5d4a1b5aba74a3587e9e5fb820e8c3052",
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "offsetX": 59,
+          "offsetY": 53
+        }
+      },
+      "source": {
+        "provider": "figma",
+        "attributes": {
+          "code": "catalog/src/main/kotlin/ee/schimke/a2uicatalog/sections/Actions.kt#ButtonSticker",
+          "preview": "ButtonSticker",
+          "componentId": "Button"
+        },
+        "uri": "figma:ocdacdEsnHipMJD3egzxKb/57994:2324"
+      },
+      "match": {
+        "percent": 25.68,
+        "changedPercent": 78.49,
+        "scoreVersion": 3,
+        "geometry": 30.4
+      }
+    },
+    {
+      "id": "card__ideal__default",
+      "previewId": "card__ideal__default",
+      "label": "Card — figma",
+      "tier": "primary",
+      "raster": {
+        "path": "references/card__ideal__default.png",
+        "width": 1029,
+        "height": 1346,
+        "density": 2.625,
+        "sha256": "54b6e57f4f7d95987cdc64ccc2453665d595b93518d7f8f79cb7e7a6be595ef3",
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "offsetX": 42,
+          "offsetY": 43
+        }
+      },
+      "source": {
+        "provider": "figma",
+        "attributes": {
+          "code": "catalog/src/main/kotlin/ee/schimke/a2uicatalog/sections/Containers.kt#CardSticker",
+          "preview": "CardSticker",
+          "componentId": "Card"
+        },
+        "uri": "figma:ocdacdEsnHipMJD3egzxKb/52346:27574"
+      },
+      "match": {
+        "percent": 70.92,
+        "changedPercent": 52.31,
+        "scoreVersion": 3
+      }
+    },
+    {
+      "id": "tabs__ideal__default",
+      "previewId": "tabs__ideal__default",
+      "label": "Tabs — figma",
+      "tier": "primary",
+      "raster": {
+        "path": "references/tabs__ideal__default.png",
+        "width": 1029,
+        "height": 315,
+        "density": 2.625,
+        "sha256": "b8c0975e91feebb8a3c1c80a8f3d709013bb733d6ffb248203acb95e539005f8",
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "offsetX": 42,
+          "offsetY": 94
+        }
+      },
+      "source": {
+        "provider": "figma",
+        "attributes": {
+          "code": "catalog/src/main/kotlin/ee/schimke/a2uicatalog/sections/Containers.kt#TabsSticker",
+          "preview": "TabsSticker",
+          "componentId": "Tabs"
+        },
+        "uri": "figma:ocdacdEsnHipMJD3egzxKb/54563:40116"
+      },
+      "match": {
+        "percent": 85.28,
+        "changedPercent": 19.74,
+        "scoreVersion": 3,
+        "geometry": 52.9
+      }
+    },
+    {
+      "id": "divider__ideal__default",
+      "previewId": "divider__ideal__default",
+      "label": "Divider — figma",
+      "tier": "primary",
+      "raster": {
+        "path": "references/divider__ideal__default.png",
+        "width": 1029,
+        "height": 255,
+        "density": 2.625,
+        "sha256": "fd37bdd5277274ab099d5cca79b5d3596bc1b44fa512e84306a9d7860fb321f1",
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "offsetX": 94,
+          "offsetY": 126
+        }
+      },
+      "source": {
+        "provider": "figma",
+        "attributes": {
+          "code": "catalog/src/main/kotlin/ee/schimke/a2uicatalog/sections/Content.kt#DividerSticker",
+          "preview": "DividerSticker",
+          "componentId": "Divider"
+        },
+        "uri": "figma:ocdacdEsnHipMJD3egzxKb/51816:5860"
+      },
+      "match": {
+        "percent": 90.47,
+        "changedPercent": 99.36,
+        "scoreVersion": 3,
+        "geometry": 93.9
+      }
+    },
+    {
+      "id": "checkbox__ideal__default",
+      "previewId": "checkbox__ideal__default",
+      "label": "CheckBox — figma",
+      "tier": "primary",
+      "raster": {
+        "path": "references/checkbox__ideal__default.png",
+        "width": 535,
+        "height": 147,
+        "density": 2.625,
+        "sha256": "1ac744350d31cd0312bfa13c494fa56f1350e880ee08f6a5d76fd8a811b26934",
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "offsetX": 204,
+          "offsetY": 10
+        }
+      },
+      "source": {
+        "provider": "figma",
+        "attributes": {
+          "code": "catalog/src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt#CheckBoxSticker",
+          "preview": "CheckBoxSticker",
+          "componentId": "CheckBox"
+        },
+        "uri": "figma:ocdacdEsnHipMJD3egzxKb/51859:5629"
+      },
+      "match": {
+        "percent": 63.97,
+        "changedPercent": 100,
+        "scoreVersion": 3,
+        "geometry": 73
+      }
+    },
+    {
+      "id": "choicepicker__ideal__default",
+      "previewId": "choicepicker__ideal__default",
+      "label": "ChoicePicker — figma",
+      "tier": "primary",
+      "raster": {
+        "path": "references/choicepicker__ideal__default.png",
+        "width": 802,
+        "height": 252,
+        "density": 2.625,
+        "sha256": "18ea2ea931b70bfc8cc7160fa64ccd84e0010803075c03b1e5e058b83e5a3a6e",
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "offsetX": 289,
+          "offsetY": 84
+        }
+      },
+      "source": {
+        "provider": "figma",
+        "attributes": {
+          "code": "catalog/src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt#ChoicePickerSticker",
+          "preview": "ChoicePickerSticker",
+          "componentId": "ChoicePicker"
+        },
+        "uri": "figma:ocdacdEsnHipMJD3egzxKb/53923:28465"
+      },
+      "match": {
+        "percent": 87.73,
+        "changedPercent": 83.39,
+        "scoreVersion": 3,
+        "geometry": 23.3
+      }
+    },
+    {
+      "id": "datetimeinput__ideal__default",
+      "previewId": "datetimeinput__ideal__default",
+      "label": "DateTimeInput — figma",
+      "tier": "primary",
+      "raster": {
+        "path": "references/datetimeinput__ideal__default.png",
+        "width": 1029,
+        "height": 274,
+        "density": 2.625,
+        "sha256": "ef7eea906b8aed02ec9e67452c045aa9a0f2cc739828c1f60fffb4edefc28ab9",
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "offsetX": 426,
+          "offsetY": 95
+        }
+      },
+      "source": {
+        "provider": "figma",
+        "attributes": {
+          "code": "catalog/src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt#DateTimeInputSticker",
+          "preview": "DateTimeInputSticker",
+          "componentId": "DateTimeInput"
+        },
+        "uri": "figma:ocdacdEsnHipMJD3egzxKb/53923:28267"
+      },
+      "match": {
+        "percent": 83.82,
+        "changedPercent": 100,
+        "scoreVersion": 3,
+        "geometry": 49.2
+      }
+    },
+    {
+      "id": "slider__ideal__default",
+      "previewId": "slider__ideal__default",
+      "label": "Slider — figma",
+      "tier": "primary",
+      "raster": {
+        "path": "references/slider__ideal__default.png",
+        "width": 1029,
+        "height": 305,
+        "density": 2.625,
+        "sha256": "23671eca0b8b5761264d0eee95e0582d46345c31e401691839f2a3594c722c35",
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "offsetX": 49,
+          "offsetY": 94
+        }
+      },
+      "source": {
+        "provider": "figma",
+        "attributes": {
+          "code": "catalog/src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt#SliderSticker",
+          "preview": "SliderSticker",
+          "componentId": "Slider"
+        },
+        "uri": "figma:ocdacdEsnHipMJD3egzxKb/58008:10357"
+      },
+      "match": {
+        "percent": 69.07,
+        "changedPercent": 89.96,
+        "scoreVersion": 3,
+        "geometry": 53.4
+      }
+    },
+    {
+      "id": "textfield__ideal__default",
+      "previewId": "textfield__ideal__default",
+      "label": "TextField — figma",
+      "tier": "primary",
+      "raster": {
+        "path": "references/textfield__ideal__default.png",
+        "width": 819,
+        "height": 252,
+        "density": 2.625,
+        "sha256": "4c855ec746fc5a7d125359d80c7d07793d13e718e66dbeeb5179630565fbfcd5",
+        "transform": {
+          "scaleX": 1,
+          "scaleY": 1,
+          "offsetX": 133,
+          "offsetY": 17
+        }
+      },
+      "source": {
+        "provider": "figma",
+        "attributes": {
+          "code": "catalog/src/main/kotlin/ee/schimke/a2uicatalog/sections/Fields.kt#TextFieldSticker",
+          "preview": "TextFieldSticker",
+          "componentId": "TextField"
+        },
+        "uri": "figma:ocdacdEsnHipMJD3egzxKb/52798:24397"
+      },
+      "match": {
+        "percent": 86.11,
+        "changedPercent": 97.5,
+        "scoreVersion": 3,
+        "geometry": 23.8
+      }
+    }
+  ]
+}
