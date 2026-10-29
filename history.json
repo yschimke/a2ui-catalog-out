@@ -1,6 +1,6 @@
 {
     "formatVersion": "compose-preview-history/v1",
-    "generatedFrom": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
+    "generatedFrom": "54513fa4114fca22e11889232823f3d79bf4b5f5",
     "previews": {
         "catalog/ee.schimke.a2uicatalog.playground.PlaygroundKt.A2uiDocumentPreview_A2UI document": {
             "path": "renders/catalog/A2uiDocumentPreview_A2UI_document-a3b0ade7.png",
@@ -546,6 +546,13 @@
             "path": "renders/catalog/ColumnStretchSticker-2d7f6133.png",
             "versions": [
                 {
+                    "blob": "84664306d9a1bbb4f37e4b311b7c54491f59d99e",
+                    "commit": "54513fa4114fca22e11889232823f3d79bf4b5f5",
+                    "date": "2026-10-29T14:23:47Z",
+                    "sourceSha": "8553c220",
+                    "commits": 1
+                },
+                {
                     "blob": "a9941204d913c893f20e6d4696cf120308909309",
                     "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
                     "date": "2026-10-02T09:35:57Z",
@@ -553,7 +560,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
@@ -831,6 +838,13 @@
             "path": "renders/samples-catalog/ChoicePickerSamplePreview_ChoicePicker-b0477c36.png",
             "versions": [
                 {
+                    "blob": "27a8dc25ad517244393ea5804583a1eefedb29d0",
+                    "commit": "54513fa4114fca22e11889232823f3d79bf4b5f5",
+                    "date": "2026-10-29T14:23:47Z",
+                    "sourceSha": "8553c220",
+                    "commits": 1
+                },
+                {
                     "blob": "3b1d750657ced8ccd3f5b626569906318762b2f8",
                     "commit": "02ba34a7ff71c76063d5a85e0dc98cc084dc6d9e",
                     "date": "2026-10-02T09:35:57Z",
@@ -838,7 +852,7 @@
                     "commits": 1
                 }
             ],
-            "observations": 1,
+            "observations": 2,
             "unstable": false,
             "flapCount": 0
         },
