@@ -1991,7 +1991,7 @@
           "bounds": {
             "x": 126,
             "y": 105,
-            "width": 239,
+            "width": 829,
             "height": 63
           },
           "label": "List Item #1",
@@ -2015,7 +2015,7 @@
           "bounds": {
             "x": 126,
             "y": 273,
-            "width": 239,
+            "width": 829,
             "height": 63
           },
           "label": "List Item #2",
@@ -2039,7 +2039,7 @@
           "bounds": {
             "x": 126,
             "y": 441,
-            "width": 239,
+            "width": 829,
             "height": 63
           },
           "label": "List Item #3",
@@ -6952,14 +6952,14 @@
             "bounds": {
               "x": 84,
               "y": 972,
-              "width": 365,
+              "width": 353,
               "height": 84
             }
           },
           "bounds": {
             "x": 84,
             "y": 972,
-            "width": 365,
+            "width": 353,
             "height": 84
           }
         },
@@ -6970,16 +6970,16 @@
           "detail": {
             "role": "checkbox",
             "bounds": {
-              "x": 470,
+              "x": 458,
               "y": 972,
-              "width": 353,
+              "width": 365,
               "height": 84
             }
           },
           "bounds": {
-            "x": 470,
+            "x": 458,
             "y": 972,
-            "width": 353,
+            "width": 365,
             "height": 84
           }
         },
@@ -7172,7 +7172,7 @@
           "bounds": {
             "x": 84,
             "y": 972,
-            "width": 365,
+            "width": 353,
             "height": 84
           },
           "role": "Checkbox",
@@ -7180,9 +7180,9 @@
         },
         {
           "bounds": {
-            "x": 470,
+            "x": 458,
             "y": 972,
-            "width": 353,
+            "width": 365,
             "height": 84
           },
           "role": "Checkbox",
@@ -7319,7 +7319,7 @@
     "androidx.compose.material3:material3-a2ui"
   ],
   "renderer": "compose-preview 2.74.1",
-  "generatedAt": "2026-10-29T12:31:58.614Z",
+  "generatedAt": "2026-10-29T14:26:36.950Z",
   "display": {
     "role": "samples",
     "hero": "Button"

@@ -15,13 +15,13 @@
             <rect x="42" y="21" width="997" height="630" rx="42" ry="42" fill="#FAFAFA"/>
           <g clip-path="url(#clip-0)">
             <g id="ReusableComposeNode">
-              <image href="ideal__default__compact.figma-raster/496.png" x="42" y="21" width="997" height="630"/>
+              <image href="ideal__default__compact.figma-raster/450.png" x="42" y="21" width="997" height="630"/>
               <g id="ReusableComposeNode">
                 <g id="ReusableComposeNode">
                   <text x="84" y="266.99" font-size="42" font-family="Roboto" font-weight="500" letter-spacing="0.53" fill="#1D1D1D">Select your favorite cuisine</text>
                 </g>
                 <g id="ReusableComposeNode">
-                  <image href="ideal__default__compact.figma-raster/619.png" x="84" y="305" width="913" height="147"/>
+                  <image href="ideal__default__compact.figma-raster/573.png" x="84" y="305" width="913" height="147"/>
                 </g>
               </g>
             </g>
@@ -46,24 +46,24 @@
               </g>
               <g id="ReusableComposeNode">
                 <g id="ReusableComposeNode">
-                  <rect x="84" y="972" width="365" height="84" rx="42" ry="42" fill="#E4F8F5"/>
+                  <rect x="85" y="973" width="351" height="82" rx="41" ry="41" fill="none" stroke="#C5C6CA" stroke-width="2.62"/>
                   <g id="ReusableComposeNode">
                     <g id="ReusableComposeNode">
                     </g>
                     <g id="ReusableComposeNode">
-                      <text x="126" y="1024.86" font-size="31.5" font-family="Roboto" font-weight="600" letter-spacing="1.31" fill="#005E53">Mutually Exclusive</text>
+                      <text x="126" y="1024.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.31" fill="#494949">Multiple Selection</text>
                     </g>
                     <g id="ReusableComposeNode">
                     </g>
                   </g>
                 </g>
                 <g id="ReusableComposeNode">
-                  <rect x="471" y="973" width="351" height="82" rx="41" ry="41" fill="none" stroke="#C5C6CA" stroke-width="2.62"/>
+                  <rect x="458" y="972" width="365" height="84" rx="42" ry="42" fill="#E4F8F5"/>
                   <g id="ReusableComposeNode">
                     <g id="ReusableComposeNode">
                     </g>
                     <g id="ReusableComposeNode">
-                      <text x="512" y="1024.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.31" fill="#494949">Multiple Selection</text>
+                      <text x="500" y="1024.86" font-size="31.5" font-family="Roboto" font-weight="600" letter-spacing="1.31" fill="#005E53">Mutually Exclusive</text>
                     </g>
                     <g id="ReusableComposeNode">
                     </g>
@@ -158,7 +158,7 @@
               <g id="ReusableComposeNode">
               </g>
               <g id="ReusableComposeNode">
-                <image href="ideal__default__compact.figma-raster/571.png" x="84" y="2116" width="913" height="147"/>
+                <image href="ideal__default__compact.figma-raster/525.png" x="84" y="2116" width="913" height="147"/>
               </g>
             </g>
           </g>

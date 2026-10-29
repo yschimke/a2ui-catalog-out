@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-29T12:32:23.760Z",
+  "generatedAt": "2026-10-29T14:26:57.596Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "8553c22074fd081ca418744c54dee7915010bf43",
+        "subject": "fix(deps): update a2ui to v1.0.0-alpha02 (#37)",
+        "at": "2026-10-29T14:21:20Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "ceacbbc29a75cbdbd5d9335cd66612ac9855bd18",
         "subject": "chore(deps): update compose-ai-tools to v2.74.1 (#40)",
