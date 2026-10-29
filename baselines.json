@@ -292,7 +292,7 @@
     "functionName": "ColumnStretchSticker",
     "module": "catalog",
     "renderBasename": "ColumnStretchSticker-2d7f6133.png",
-    "sha256": "19335b21d67ecff50fd1200e1cdcaba099acfe0c2971c2f5b3ba273bcadf5977",
+    "sha256": "8963ffa9465c680e84b99f3e466f752b7a99c79e4af3dffc263027bb46d8e682",
     "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/sections/Layout.kt"
   },
   "catalog/ee.schimke.a2uicatalog.sections.LayoutKt.ListHorizontalSticker": {
@@ -444,7 +444,7 @@
     "functionName": "ChoicePickerSamplePreview",
     "module": "samples-catalog",
     "renderBasename": "ChoicePickerSamplePreview_ChoicePicker-b0477c36.png",
-    "sha256": "6fa65609f315853c04510a0d053b4154d6fceafd026e829db8b14c7d2d9220f7",
+    "sha256": "a69beddf8378e50c75d2aeaf197774bc967fdad901b57d65ae01607fc018f773",
     "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt"
   },
   "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ColumnSamplePreview_Column": {
