@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-29T12:25:04.738Z",
+  "generatedAt": "2026-10-29T12:32:23.760Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "ceacbbc29a75cbdbd5d9335cd66612ac9855bd18",
+        "subject": "chore(deps): update compose-ai-tools to v2.74.1 (#40)",
+        "at": "2026-10-29T12:13:39Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c95d63724b484a1073414cf88339de847c43cb04",
+        "subject": "fix(deps): update compose-multiplatform to v1.13.0-beta01 (#39)",
+        "at": "2026-10-29T12:13:00Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "05497a6adc69d44652c22930ad43a0f16a6a460b",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.26.0 (#41)",
