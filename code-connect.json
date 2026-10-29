@@ -7,7 +7,7 @@
     "ref": "main",
     "module": ":catalog"
   },
-  "generatedAt": "2026-10-29T12:44:53.870Z",
+  "generatedAt": "2026-10-29T14:33:49.773Z",
   "mappings": [
     {
       "componentId": "Button",

@@ -12,9 +12,9 @@
           <text x="42" y="224.99" font-size="42" font-family="Roboto" font-weight="400" letter-spacing="1.31" fill="#1D1B20">Two nights, flights included.</text>
         </g>
         <g id="ReusableComposeNode">
-          <rect x="42" y="285" width="226" height="105" rx="52.5" ry="52.5" fill="#6750A4"/>
+          <rect x="42" y="285" width="945" height="105" rx="52.5" ry="52.5" fill="#6750A4"/>
           <g id="ReusableComposeNode">
-            <text x="105" y="351.99" font-size="42" font-family="Roboto" font-weight="400" letter-spacing="1.31" fill="#FFFFFF">Book</text>
+            <text x="465" y="351.99" font-size="42" font-family="Roboto" font-weight="400" letter-spacing="1.31" fill="#FFFFFF">Book</text>
           </g>
         </g>
       </g>
