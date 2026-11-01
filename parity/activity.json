@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-10-29T14:26:57.596Z",
+  "generatedAt": "2026-11-01T08:21:38.160Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "7ac80d608bb21fd9a715883471270fae24a8523e",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.27.0 (#45)",
+        "at": "2026-11-01T08:17:24Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "8553c22074fd081ca418744c54dee7915010bf43",
         "subject": "fix(deps): update a2ui to v1.0.0-alpha02 (#37)",
@@ -247,9 +255,9 @@
         "components": []
       },
       {
-        "sha": "0fc2dcbdf7280d068dd461efe47ef8e2495fa3ee",
-        "subject": "ci: add the Compose Preview visual-diff workflows",
-        "at": "2026-10-02T09:29:22Z",
+        "sha": "47876a8a379d9484c173e8370b74f6ffea13156e",
+        "subject": "Merge pull request #9 from yschimke/agent/youthful-johnson-ky8147",
+        "at": "2026-10-02T10:30:35+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
