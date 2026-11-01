@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-01T08:26:34.943Z",
+  "generatedAt": "2026-11-01T12:31:06.493Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "f5914bff43d8bd73516d4d9550377685f6abe4b2",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.27.2 (#46)",
+        "at": "2026-11-01T12:25:52Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "aa816bc4dcf94be46a1f37364080a608e301ede6",
         "subject": "chore(deps): update compose-ai-tools (#44)",
@@ -250,22 +258,6 @@
         "sha": "5ec5b99a57c020fdfba173334ebb26a7ff01235c",
         "subject": "chore: merge Renovate PRs with GitHub auto-merge (#12)",
         "at": "2026-10-07T21:29:49+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9b8dd2ce5b6a11c34ff188ce06089fe1ef5e3806",
-        "subject": "fix(deps): update compose-ai-tools to v2.32.0",
-        "at": "2026-10-02T11:02:19Z",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "47876a8a379d9484c173e8370b74f6ffea13156e",
-        "subject": "Merge pull request #9 from yschimke/agent/youthful-johnson-ky8147",
-        "at": "2026-10-02T10:30:35+01:00",
         "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
