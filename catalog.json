@@ -7318,8 +7318,8 @@
   "library": [
     "androidx.compose.material3:material3-a2ui"
   ],
-  "renderer": "compose-preview 2.80.0",
-  "generatedAt": "2026-11-02T06:08:39.554Z",
+  "renderer": "compose-preview 2.88.0",
+  "generatedAt": "2026-11-07T16:47:52.183Z",
   "display": {
     "role": "samples",
     "hero": "Button"

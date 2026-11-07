@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-02T06:09:02.139Z",
+  "generatedAt": "2026-11-07T16:48:12.356Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "0f9478fc07187298c7ce003d96f9116021717cc9",
+        "subject": "chore(deps): update compose-ai-tools to v2.88.0 (#49)",
+        "at": "2026-11-07T16:25:35Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "7bb83f65bd0c5b6ba552f1e49a8217f0e63d3e1e",
         "subject": "chore(deps): update compose-ai-tools (#47)",
@@ -227,46 +235,6 @@
         "subject": "fix(deps): update kotlin to v2.4.21 (#19)",
         "at": "2026-10-16T22:49:54Z",
         "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ea7925ae465b3b2432783a1936a0338d63fca9ee",
-        "subject": "feat(ui-builder): publish A2UI seed templates and declare the a2ui-program export (#16)",
-        "at": "2026-10-08T11:28:14+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "e9d072f8af78adbfb2b173cc37eabf2e42e19726",
-        "subject": "ci: run the catalog spec validators from the export driver (#15)",
-        "at": "2026-10-07T23:22:52+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "c011ee5376dfab5d8c6121cfd5d5dd43f20edeb3",
-        "subject": "fix(deps): resolve compose-preview-daemon modules through its BOM (#14)",
-        "at": "2026-10-07T23:11:04+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "da4e99f90b345a18ffd6030233dd0adddd4a4395",
-        "subject": "ci: add the Conventional Commit title check (#13)",
-        "at": "2026-10-07T23:06:23+01:00",
-        "author": "Yuri Schimke",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "5ec5b99a57c020fdfba173334ebb26a7ff01235c",
-        "subject": "chore: merge Renovate PRs with GitHub auto-merge (#12)",
-        "at": "2026-10-07T21:29:49+01:00",
-        "author": "Yuri Schimke",
         "previewIds": [],
         "components": []
       }
