@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-07T17:01:50.346Z",
+  "generatedAt": "2026-11-07T17:43:51.476Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "233525c3fe4c092ef28d270016ecc5011563956f",
+        "subject": "chore(deps): update compose-ai-tools to v2.89.0 (#53)",
+        "at": "2026-11-07T17:36:33Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "06cddd4f167d920ff4d4a2a3a5f3bdd904750e1e",
         "subject": "chore(deps): update gradle to v9.9.0 (#52)",
