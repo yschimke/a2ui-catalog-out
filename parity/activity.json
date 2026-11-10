@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-08T01:37:03.095Z",
+  "generatedAt": "2026-11-10T20:21:02.595Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "9b28e063941a1d78a82a9cd8465749132dbbb1cb",
+        "subject": "chore(deps): update gradle to v9.9.1 (#56)",
+        "at": "2026-11-10T20:16:33Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "a66914486207b54051c6bbb53103c506d5ee4c2e",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.27.3 (#54)",
