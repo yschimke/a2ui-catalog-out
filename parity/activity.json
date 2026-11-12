@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-12T06:36:08.331Z",
+  "generatedAt": "2026-11-12T06:46:17.508Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "f67ed2cc959209da9eef2f699c3643d31fd94ad9",
+        "subject": "chore(deps): update compose-ai-tools to v2.90.0 (#58)",
+        "at": "2026-11-12T06:33:40Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b11c3d87361b7be21aaddacd0fbc9665622042c2",
+        "subject": "fix(deps): update dependency org.jetbrains.kotlinx:kotlinx-serialization-json to v1.13.0 (#59)",
+        "at": "2026-11-12T06:32:43Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "dbf65279af8f32807d6c624429d1580bb59147bf",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.27.4 (#55)",
