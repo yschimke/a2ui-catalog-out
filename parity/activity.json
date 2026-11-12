@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-10T20:21:02.595Z",
+  "generatedAt": "2026-11-12T06:36:08.331Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "dbf65279af8f32807d6c624429d1580bb59147bf",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.27.4 (#55)",
+        "at": "2026-11-12T06:31:13Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "519bb2ea15324f22eb9bdb14f9a0bc8c56eb0fcf",
+        "subject": "chore(deps): update dependency node to v24.22.3 (#57)",
+        "at": "2026-11-12T06:30:56Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "9b28e063941a1d78a82a9cd8465749132dbbb1cb",
         "subject": "chore(deps): update gradle to v9.9.1 (#56)",
