@@ -37,98 +37,131 @@
         </g>
         <g id="ReusableComposeNode">
           <g id="ReusableComposeNode">
-            <rect x="42" y="777" width="997" height="636" rx="42" ry="42" fill="#FAFAFA"/>
+            <rect x="42" y="777" width="997" height="406" rx="42" ry="42" fill="#FAFAFA"/>
             <g id="ReusableComposeNode">
               <g id="ReusableComposeNode">
-                <text x="84" y="857.92" font-size="36.75" font-family="Roboto" font-weight="600" letter-spacing="0.26" fill="#144D2A">Horizontal Arrangement (justify)</text>
+                <text x="84" y="857.92" font-size="36.75" font-family="Roboto" font-weight="600" letter-spacing="0.26" fill="#144D2A">Loading State</text>
               </g>
               <g id="ReusableComposeNode">
               </g>
               <g id="ReusableComposeNode">
-                <text x="84" y="908.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.05" fill="#494949">Arrangement of children along the horizontal main axis</text>
+                <text font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.05" fill="#494949"><tspan x="84" y="908" textLength="791" lengthAdjust="spacing">Preview the sequential shimmer sweep and staggered</tspan><tspan x="84" y="950" textLength="272" lengthAdjust="spacing">breathing skeleton</tspan></text>
               </g>
               <g id="ReusableComposeNode">
               </g>
               <g id="ReusableComposeNode">
                 <g id="ReusableComposeNode">
-                  <rect x="85" y="973" width="176" height="82" rx="41" ry="41" fill="none" stroke="#C5C6CA" stroke-width="2.62"/>
+                  <g id="ReusableComposeNode">
+                    <text x="84" y="1058.92" font-size="36.75" font-family="Roboto" font-weight="500" letter-spacing="0.53" fill="#1D1D1D">Simulate Loading</text>
+                  </g>
+                  <g id="ReusableComposeNode">
+                    <text x="84" y="1104.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.05" fill="#494949">Keep child components in loading state</text>
+                  </g>
+                </g>
+                <g id="ReusableComposeNode">
+                  <rect x="863" y="1028" width="131" height="78" rx="39" ry="39" fill="#EAEAEA" stroke="#75777A" stroke-width="5.25"/>
+                  <g id="ReusableComposeNode">
+                    <rect x="881" y="1046" width="42" height="42" rx="21" ry="21" fill="#75777A"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="ReusableComposeNode">
+          </g>
+          <g id="ReusableComposeNode">
+            <rect x="42" y="1215" width="997" height="636" rx="42" ry="42" fill="#FAFAFA"/>
+            <g id="ReusableComposeNode">
+              <g id="ReusableComposeNode">
+                <text x="84" y="1295.92" font-size="36.75" font-family="Roboto" font-weight="600" letter-spacing="0.26" fill="#144D2A">Horizontal Arrangement (justify)</text>
+              </g>
+              <g id="ReusableComposeNode">
+              </g>
+              <g id="ReusableComposeNode">
+                <text x="84" y="1346.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.05" fill="#494949">Arrangement of children along the horizontal main axis</text>
+              </g>
+              <g id="ReusableComposeNode">
+              </g>
+              <g id="ReusableComposeNode">
+                <g id="ReusableComposeNode">
+                  <rect x="85" y="1411" width="176" height="82" rx="41" ry="41" fill="none" stroke="#C5C6CA" stroke-width="2.62"/>
                   <g id="ReusableComposeNode">
                     <g id="ReusableComposeNode">
                     </g>
                     <g id="ReusableComposeNode">
-                      <text x="126" y="1024.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.31" fill="#494949">center</text>
+                      <text x="126" y="1462.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.31" fill="#494949">center</text>
                     </g>
                     <g id="ReusableComposeNode">
                     </g>
                   </g>
                 </g>
                 <g id="ReusableComposeNode">
-                  <rect x="284" y="973" width="136" height="82" rx="41" ry="41" fill="none" stroke="#C5C6CA" stroke-width="2.62"/>
+                  <rect x="284" y="1411" width="136" height="82" rx="41" ry="41" fill="none" stroke="#C5C6CA" stroke-width="2.62"/>
                   <g id="ReusableComposeNode">
                     <g id="ReusableComposeNode">
                     </g>
                     <g id="ReusableComposeNode">
-                      <text x="325" y="1024.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.31" fill="#494949">end</text>
+                      <text x="325" y="1462.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.31" fill="#494949">end</text>
                     </g>
                     <g id="ReusableComposeNode">
                     </g>
                   </g>
                 </g>
                 <g id="ReusableComposeNode">
-                  <rect x="443" y="973" width="278" height="82" rx="41" ry="41" fill="none" stroke="#C5C6CA" stroke-width="2.62"/>
+                  <rect x="443" y="1411" width="278" height="82" rx="41" ry="41" fill="none" stroke="#C5C6CA" stroke-width="2.62"/>
                   <g id="ReusableComposeNode">
                     <g id="ReusableComposeNode">
                     </g>
                     <g id="ReusableComposeNode">
-                      <text x="484" y="1024.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.31" fill="#494949">spaceAround</text>
+                      <text x="484" y="1462.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.31" fill="#494949">spaceAround</text>
                     </g>
                     <g id="ReusableComposeNode">
                     </g>
                   </g>
                 </g>
                 <g id="ReusableComposeNode">
-                  <rect x="85" y="1120" width="297" height="82" rx="41" ry="41" fill="none" stroke="#C5C6CA" stroke-width="2.62"/>
+                  <rect x="85" y="1558" width="297" height="82" rx="41" ry="41" fill="none" stroke="#C5C6CA" stroke-width="2.62"/>
                   <g id="ReusableComposeNode">
                     <g id="ReusableComposeNode">
                     </g>
                     <g id="ReusableComposeNode">
-                      <text x="126" y="1171.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.31" fill="#494949">spaceBetween</text>
+                      <text x="126" y="1609.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.31" fill="#494949">spaceBetween</text>
                     </g>
                     <g id="ReusableComposeNode">
                     </g>
                   </g>
                 </g>
                 <g id="ReusableComposeNode">
-                  <rect x="405" y="1120" width="267" height="82" rx="41" ry="41" fill="none" stroke="#C5C6CA" stroke-width="2.62"/>
+                  <rect x="405" y="1558" width="267" height="82" rx="41" ry="41" fill="none" stroke="#C5C6CA" stroke-width="2.62"/>
                   <g id="ReusableComposeNode">
                     <g id="ReusableComposeNode">
                     </g>
                     <g id="ReusableComposeNode">
-                      <text x="446" y="1171.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.31" fill="#494949">spaceEvenly</text>
+                      <text x="446" y="1609.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.31" fill="#494949">spaceEvenly</text>
                     </g>
                     <g id="ReusableComposeNode">
                     </g>
                   </g>
                 </g>
                 <g id="ReusableComposeNode">
-                  <rect x="694" y="1119" width="155" height="84" rx="42" ry="42" fill="#E4F8F5"/>
+                  <rect x="694" y="1557" width="155" height="84" rx="42" ry="42" fill="#E4F8F5"/>
                   <g id="ReusableComposeNode">
                     <g id="ReusableComposeNode">
                     </g>
                     <g id="ReusableComposeNode">
-                      <text x="736" y="1171.86" font-size="31.5" font-family="Roboto" font-weight="600" letter-spacing="1.31" fill="#005E53">start</text>
+                      <text x="736" y="1609.86" font-size="31.5" font-family="Roboto" font-weight="600" letter-spacing="1.31" fill="#005E53">start</text>
                     </g>
                     <g id="ReusableComposeNode">
                     </g>
                   </g>
                 </g>
                 <g id="ReusableComposeNode">
-                  <rect x="85" y="1267" width="187" height="82" rx="41" ry="41" fill="none" stroke="#C5C6CA" stroke-width="2.62"/>
+                  <rect x="85" y="1705" width="187" height="82" rx="41" ry="41" fill="none" stroke="#C5C6CA" stroke-width="2.62"/>
                   <g id="ReusableComposeNode">
                     <g id="ReusableComposeNode">
                     </g>
                     <g id="ReusableComposeNode">
-                      <text x="126" y="1318.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.31" fill="#494949">stretch</text>
+                      <text x="126" y="1756.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.31" fill="#494949">stretch</text>
                     </g>
                     <g id="ReusableComposeNode">
                     </g>
@@ -140,62 +173,62 @@
           <g id="ReusableComposeNode">
           </g>
           <g id="ReusableComposeNode">
-            <rect x="42" y="1445" width="997" height="342" rx="42" ry="42" fill="#FAFAFA"/>
+            <rect x="42" y="1883" width="997" height="342" rx="42" ry="42" fill="#FAFAFA"/>
             <g id="ReusableComposeNode">
               <g id="ReusableComposeNode">
-                <text x="84" y="1525.92" font-size="36.75" font-family="Roboto" font-weight="600" letter-spacing="0.26" fill="#144D2A">Vertical Alignment (align)</text>
+                <text x="84" y="1963.92" font-size="36.75" font-family="Roboto" font-weight="600" letter-spacing="0.26" fill="#144D2A">Vertical Alignment (align)</text>
               </g>
               <g id="ReusableComposeNode">
               </g>
               <g id="ReusableComposeNode">
-                <text x="84" y="1576.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.05" fill="#494949">Alignment of children along the vertical cross axis</text>
+                <text x="84" y="2014.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.05" fill="#494949">Alignment of children along the vertical cross axis</text>
               </g>
               <g id="ReusableComposeNode">
               </g>
               <g id="ReusableComposeNode">
                 <g id="ReusableComposeNode">
-                  <rect x="85" y="1641" width="153" height="82" rx="41" ry="41" fill="none" stroke="#C5C6CA" stroke-width="2.62"/>
+                  <rect x="85" y="2079" width="153" height="82" rx="41" ry="41" fill="none" stroke="#C5C6CA" stroke-width="2.62"/>
                   <g id="ReusableComposeNode">
                     <g id="ReusableComposeNode">
                     </g>
                     <g id="ReusableComposeNode">
-                      <text x="126" y="1692.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.31" fill="#494949">start</text>
+                      <text x="126" y="2130.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.31" fill="#494949">start</text>
                     </g>
                     <g id="ReusableComposeNode">
                     </g>
                   </g>
                 </g>
                 <g id="ReusableComposeNode">
-                  <rect x="260" y="1640" width="180" height="84" rx="42" ry="42" fill="#E4F8F5"/>
+                  <rect x="260" y="2078" width="180" height="84" rx="42" ry="42" fill="#E4F8F5"/>
                   <g id="ReusableComposeNode">
                     <g id="ReusableComposeNode">
                     </g>
                     <g id="ReusableComposeNode">
-                      <text x="302" y="1692.86" font-size="31.5" font-family="Roboto" font-weight="600" letter-spacing="1.31" fill="#005E53">center</text>
+                      <text x="302" y="2130.86" font-size="31.5" font-family="Roboto" font-weight="600" letter-spacing="1.31" fill="#005E53">center</text>
                     </g>
                     <g id="ReusableComposeNode">
                     </g>
                   </g>
                 </g>
                 <g id="ReusableComposeNode">
-                  <rect x="462" y="1641" width="136" height="82" rx="41" ry="41" fill="none" stroke="#C5C6CA" stroke-width="2.62"/>
+                  <rect x="462" y="2079" width="136" height="82" rx="41" ry="41" fill="none" stroke="#C5C6CA" stroke-width="2.62"/>
                   <g id="ReusableComposeNode">
                     <g id="ReusableComposeNode">
                     </g>
                     <g id="ReusableComposeNode">
-                      <text x="503" y="1692.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.31" fill="#494949">end</text>
+                      <text x="503" y="2130.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.31" fill="#494949">end</text>
                     </g>
                     <g id="ReusableComposeNode">
                     </g>
                   </g>
                 </g>
                 <g id="ReusableComposeNode">
-                  <rect x="621" y="1641" width="187" height="82" rx="41" ry="41" fill="none" stroke="#C5C6CA" stroke-width="2.62"/>
+                  <rect x="621" y="2079" width="187" height="82" rx="41" ry="41" fill="none" stroke="#C5C6CA" stroke-width="2.62"/>
                   <g id="ReusableComposeNode">
                     <g id="ReusableComposeNode">
                     </g>
                     <g id="ReusableComposeNode">
-                      <text x="662" y="1692.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.31" fill="#494949">stretch</text>
+                      <text x="662" y="2130.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.31" fill="#494949">stretch</text>
                     </g>
                     <g id="ReusableComposeNode">
                     </g>
@@ -207,72 +240,36 @@
           <g id="ReusableComposeNode">
           </g>
           <g id="ReusableComposeNode">
-            <rect x="42" y="1819" width="997" height="489" rx="42" ry="42" fill="#FAFAFA"/>
+            <rect x="42" y="2257" width="997" height="144" rx="42" ry="42" fill="#FAFAFA"/>
             <g id="ReusableComposeNode">
               <g id="ReusableComposeNode">
-                <text x="84" y="1899.92" font-size="36.75" font-family="Roboto" font-weight="600" letter-spacing="0.26" fill="#144D2A">Child Weights</text>
+                <text x="84" y="2337.92" font-size="36.75" font-family="Roboto" font-weight="600" letter-spacing="0.26" fill="#144D2A">Child Weights</text>
               </g>
               <g id="ReusableComposeNode">
               </g>
               <g id="ReusableComposeNode">
-                <text x="84" y="1950.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.05" fill="#494949">Relative proportional weight applied to child buttons</text>
+                <text x="84" y="2388.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.05" fill="#494949">Relative proportional weight applied to child buttons</text>
               </g>
               <g id="ReusableComposeNode">
               </g>
               <g id="ReusableComposeNode">
-                <g id="ReusableComposeNode">
-                  <rect x="84" y="2014" width="372" height="84" rx="42" ry="42" fill="#E4F8F5"/>
-                  <g id="ReusableComposeNode">
-                    <g id="ReusableComposeNode">
-                    </g>
-                    <g id="ReusableComposeNode">
-                      <text x="126" y="2066.86" font-size="31.5" font-family="Roboto" font-weight="600" letter-spacing="1.31" fill="#005E53">None (unweighted)</text>
-                    </g>
-                    <g id="ReusableComposeNode">
-                    </g>
-                  </g>
-                </g>
-                <g id="ReusableComposeNode">
-                  <rect x="478" y="2015" width="265" height="82" rx="41" ry="41" fill="none" stroke="#C5C6CA" stroke-width="2.62"/>
-                  <g id="ReusableComposeNode">
-                    <g id="ReusableComposeNode">
-                    </g>
-                    <g id="ReusableComposeNode">
-                      <text x="519" y="2066.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.31" fill="#494949">Equal (1 : 1)</text>
-                    </g>
-                    <g id="ReusableComposeNode">
-                    </g>
-                  </g>
-                </g>
-                <g id="ReusableComposeNode">
-                  <rect x="85" y="2162" width="319" height="82" rx="41" ry="41" fill="none" stroke="#C5C6CA" stroke-width="2.62"/>
-                  <g id="ReusableComposeNode">
-                    <g id="ReusableComposeNode">
-                    </g>
-                    <g id="ReusableComposeNode">
-                      <text x="126" y="2213.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.31" fill="#494949">Weighted (2 : 1)</text>
-                    </g>
-                    <g id="ReusableComposeNode">
-                    </g>
-                  </g>
-                </g>
               </g>
             </g>
           </g>
           <g id="ReusableComposeNode">
           </g>
-          <clipPath id="clip-1"><rect x="42" y="2340" width="997" height="61" rx="42" ry="42"/></clipPath>
+          <clipPath id="clip-1"><rect x="42" y="777" width="997" height="0" rx="42" ry="42"/></clipPath>
           <g id="ReusableComposeNode">
-            <rect x="42" y="2340" width="997" height="61" rx="42" ry="42" fill="#FAFAFA"/>
+            <rect x="42" y="777" width="997" height="0" rx="42" ry="42" fill="#FAFAFA"/>
             <g clip-path="url(#clip-1)">
               <g id="ReusableComposeNode">
                 <g id="ReusableComposeNode">
-                  <text x="42" y="2378.92" font-size="36.75" font-family="Roboto" font-weight="600" letter-spacing="0.26" fill="#144D2A">Number of Items</text>
+                  <text x="0" y="38.92" font-size="36.75" font-family="Roboto" font-weight="600" letter-spacing="0.26" fill="#144D2A">Number of Items</text>
                 </g>
                 <g id="ReusableComposeNode">
                 </g>
                 <g id="ReusableComposeNode">
-                  <text x="42" y="2371.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.05" fill="#494949">Number of child buttons in the row</text>
+                  <text x="0" y="31.86" font-size="31.5" font-family="Roboto" font-weight="400" letter-spacing="1.05" fill="#494949">Number of child buttons in the row</text>
                 </g>
                 <g id="ReusableComposeNode">
                 </g>

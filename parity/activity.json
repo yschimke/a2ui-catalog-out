@@ -1,11 +1,203 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-13T18:55:49.467Z",
+  "generatedAt": "2026-11-21T14:34:08.778Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "85a2719695e79f6dcd3143d377f700a6bb806505",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.28.2 (#82)",
+        "at": "2026-11-21T14:28:40Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "699f7ebc0519a5cf1df69b77242d506632a8bbd6",
+        "subject": "chore(deps): update amannn/action-semantic-pull-request action to v6.1.3 (#81)",
+        "at": "2026-11-21T05:47:55Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "30d5e8872c1b5d922c4085e83ba0ef92424a8b95",
+        "subject": "chore(deps): update dependency com.android.library to v9.5.2 (#80)",
+        "at": "2026-11-20T16:33:38Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "353b30fc0e885c4c28d1070045b21415c47ea76b",
+        "subject": "chore(deps): update dependency java-jdk to v21.0.13+100000002.0.lts (#79)",
+        "at": "2026-11-20T12:04:18Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "407b73735c910785eac5b26ad7af1e2026980588",
+        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.102.0 (#78)",
+        "at": "2026-11-20T07:32:25Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "332d999093e045e395af6b8251d670e8da315df9",
+        "subject": "chore(deps): update dependency node to v26.13.1 (#76)",
+        "at": "2026-11-20T07:32:06Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "3a977ba9a22678f0a9068c3464d16651cce51af3",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.28.1 (#77)",
+        "at": "2026-11-20T07:23:56Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "b148d86a6d60ef3f12e9f1cea5d472b31bdac0c3",
+        "subject": "chore(deps): update dependency com.ncorti.ktfmt.gradle to v0.28.0 (#50)",
+        "at": "2026-11-20T07:20:21Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "6f81c64e315192aa3c99036c2fbf2c7c26b523ea",
+        "subject": "chore(deps): update dependency node to v26 (#42)",
+        "at": "2026-11-20T07:06:02Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "fe009cc1fbb6128c8c90d6ee508ebdc125bc699a",
+        "subject": "chore(deps): update gradle to v9.9.2 (#75)",
+        "at": "2026-11-19T22:58:23Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "621129cfc0084a5241dfa85c0ba8e6306bd4c26e",
+        "subject": "chore(samples): update vendored A2UI demo samples to 1.0.0-alpha02 (#74)",
+        "at": "2026-11-19T22:47:44Z",
+        "author": "Yuri Schimke",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "93f2ec63b1d2d903850079438c2cc99dcbc635b2",
+        "subject": "chore(deps): update compose-ai-tools to v2.101.0 (#73)",
+        "at": "2026-11-19T06:14:54Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "2f9b509f173191b3d21203499bc083248db35c2d",
+        "subject": "fix(deps): update compose-multiplatform to v1.13.0-rc01 (#71)",
+        "at": "2026-11-18T17:55:44Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0a13b70dcf86373d5f0856b8f27363cb253bf8b2",
+        "subject": "chore(deps): update compose-ai-tools (#72)",
+        "at": "2026-11-18T17:54:41Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "563e6affb29b133930b54c66e5a5e6d405eafd8b",
+        "subject": "chore(deps): update compose-ai-tools to v2.98.0 (#70)",
+        "at": "2026-11-18T02:49:39Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "9a3aabd33a56e04d9f675419baed53b290de2aa7",
+        "subject": "chore(deps): update compose-ai-tools (#69)",
+        "at": "2026-11-17T01:56:37Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "e6c46654f143fc93a9146fef0d66a7fbbb21536b",
+        "subject": "chore(deps): update compose-ai-tools (#68)",
+        "at": "2026-11-16T15:46:50Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "291c75df09c31cb2275521918fa051a2d77fc32c",
+        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.94.1 (#67)",
+        "at": "2026-11-16T07:15:30Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "046f86abf9b6f6605c337fcb455995df4c64b5dc",
+        "subject": "chore(deps): update compose-ai-tools to v2.94.0 (#65)",
+        "at": "2026-11-15T13:42:40Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "d7fc2c6d20fe809f8529b004a9d53566644f452b",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.28.0 (#66)",
+        "at": "2026-11-15T13:39:42Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "c9b8cd3f2a572011671b21a45234fbc792f6845e",
+        "subject": "chore(deps): update compose-ai-tools to v2.92.0 (#64)",
+        "at": "2026-11-14T11:39:47Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "0530708683c46e249534dfd336a923a89c7e7fe7",
+        "subject": "chore(deps): update actions/setup-java action to v6.3.0 (#63)",
+        "at": "2026-11-14T07:00:17Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "4d6d526374507313cc23a6eb1cea1b3cae7b3a27",
+        "subject": "chore(deps): update compose-ai-tools to v2.91.0 (#61)",
+        "at": "2026-11-13T18:53:57Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "f08748e9ddb992dbe1435ff180e8ab062e50b896",
+        "subject": "fix(deps): update dependency org.robolectric:robolectric to v4.18 (#62)",
+        "at": "2026-11-13T18:51:51Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "8d51d3b30b5e596f7916a8ea22b3a6bb14869d00",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.27.7 (#60)",
@@ -194,142 +386,6 @@
         "sha": "929ccc6b15163df8cad1c1e7d1ff17bad2dd541a",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.22.0 (#36)",
         "at": "2026-10-22T17:40:23Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f68a635aed23de8a657458dee5494d746975d5df",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.21.4 (#33)",
-        "at": "2026-10-22T08:48:19Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "9db0ee044502f4d320e9ae4352860a4b475daf8f",
-        "subject": "chore(deps): update compose-ai-tools to v2.70.7 (#32)",
-        "at": "2026-10-22T08:47:32Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "dc99e8994de5a5ec3ff12e3beae844450d036af8",
-        "subject": "chore(deps): update gradle to v9.8.2 (#30)",
-        "at": "2026-10-22T08:42:07Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "827d54241dffd0835004fcfca6d7148bcc866d56",
-        "subject": "fix(deps): update dependency org.jetbrains.kotlinx:kotlinx-serialization-json to v1.12.0 (#34)",
-        "at": "2026-10-22T08:39:11Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "7920752f50cc1c4ec60d28114e2f60d0848a69d0",
-        "subject": "chore(deps): update dependency node to v24.22.1 (#29)",
-        "at": "2026-10-22T08:37:50Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "4889b872acab602dbd829d865e557d30f3b1ac64",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.18.7 (#28)",
-        "at": "2026-10-18T09:45:36Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "bfa15e48ab9876f1fe373dcc48c77ff6271c8d36",
-        "subject": "chore(deps): update compose-ai-tools (#27)",
-        "at": "2026-10-17T22:20:51Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "87c7687c5a625c62510cd9dfd9abbe39887dc370",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.18.6 (#26)",
-        "at": "2026-10-17T22:18:36Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "1c22658289a1d71b50683567e46dbc78a4704d4b",
-        "subject": "chore(deps): update yschimke/compose-ai-tools action to v2.67.0 (#25)",
-        "at": "2026-10-17T12:17:15Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "ebfd9bdd6c0aae55aedf8567c14f015011d7bd07",
-        "subject": "fix(deps): update kotlinx to v1.11.0 (#24)",
-        "at": "2026-10-17T12:08:35Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "3360635a16afbaac0fc0296afd3f6de0a2166dde",
-        "subject": "fix(deps): update compose-multiplatform to v1.13.0-alpha02 (#18)",
-        "at": "2026-10-17T11:40:01Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "214eace971708f1107632fe05d3f343b8f7fffed",
-        "subject": "chore(deps): update compose-ai-tools to v2.66.0 (#20)",
-        "at": "2026-10-16T22:54:34Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "d38ce2b0a6c57fc7237d5a5182809e3139ea4b09",
-        "subject": "chore(deps): update gradle to v9.8.1 (#21)",
-        "at": "2026-10-16T22:52:41Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "350406c6d13bfd77fd2bac8aaa684e70b56a102e",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.18.5 (#23)",
-        "at": "2026-10-16T22:52:24Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "8cf8568b3264d701cff45af2ab77bcdc89298fd1",
-        "subject": "fix(deps): update androidx (#22)",
-        "at": "2026-10-16T22:51:45Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "f6c5599b979cea437a6bd6127969c8041249955e",
-        "subject": "chore(deps): update github-actions (#17)",
-        "at": "2026-10-16T22:50:55Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "eaefdf108cae234bef85963d4faf5f5b2a3a5654",
-        "subject": "fix(deps): update kotlin to v2.4.21 (#19)",
-        "at": "2026-10-16T22:49:54Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []

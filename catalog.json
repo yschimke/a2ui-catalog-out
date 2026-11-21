@@ -480,19 +480,39 @@
         {
           "kind": "a11y",
           "severity": "info",
+          "message": "switch",
+          "detail": {
+            "role": "switch",
+            "bounds": {
+              "x": 860,
+              "y": 1025,
+              "width": 137,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 860,
+            "y": 1025,
+            "width": 137,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
           "message": "checkbox",
           "detail": {
             "role": "checkbox",
             "bounds": {
               "x": 84,
-              "y": 972,
+              "y": 1410,
               "width": 178,
               "height": 84
             }
           },
           "bounds": {
             "x": 84,
-            "y": 972,
+            "y": 1410,
             "width": 178,
             "height": 84
           }
@@ -505,14 +525,14 @@
             "role": "checkbox",
             "bounds": {
               "x": 283,
-              "y": 972,
+              "y": 1410,
               "width": 138,
               "height": 84
             }
           },
           "bounds": {
             "x": 283,
-            "y": 972,
+            "y": 1410,
             "width": 138,
             "height": 84
           }
@@ -525,14 +545,14 @@
             "role": "checkbox",
             "bounds": {
               "x": 442,
-              "y": 972,
+              "y": 1410,
               "width": 280,
               "height": 84
             }
           },
           "bounds": {
             "x": 442,
-            "y": 972,
+            "y": 1410,
             "width": 280,
             "height": 84
           }
@@ -545,14 +565,14 @@
             "role": "checkbox",
             "bounds": {
               "x": 84,
-              "y": 1119,
+              "y": 1557,
               "width": 299,
               "height": 84
             }
           },
           "bounds": {
             "x": 84,
-            "y": 1119,
+            "y": 1557,
             "width": 299,
             "height": 84
           }
@@ -565,14 +585,14 @@
             "role": "checkbox",
             "bounds": {
               "x": 404,
-              "y": 1119,
+              "y": 1557,
               "width": 269,
               "height": 84
             }
           },
           "bounds": {
             "x": 404,
-            "y": 1119,
+            "y": 1557,
             "width": 269,
             "height": 84
           }
@@ -585,14 +605,14 @@
             "role": "checkbox",
             "bounds": {
               "x": 694,
-              "y": 1119,
+              "y": 1557,
               "width": 155,
               "height": 84
             }
           },
           "bounds": {
             "x": 694,
-            "y": 1119,
+            "y": 1557,
             "width": 155,
             "height": 84
           }
@@ -605,14 +625,14 @@
             "role": "checkbox",
             "bounds": {
               "x": 84,
-              "y": 1266,
+              "y": 1704,
               "width": 189,
               "height": 84
             }
           },
           "bounds": {
             "x": 84,
-            "y": 1266,
+            "y": 1704,
             "width": 189,
             "height": 84
           }
@@ -625,14 +645,14 @@
             "role": "checkbox",
             "bounds": {
               "x": 84,
-              "y": 1640,
+              "y": 2078,
               "width": 155,
               "height": 84
             }
           },
           "bounds": {
             "x": 84,
-            "y": 1640,
+            "y": 2078,
             "width": 155,
             "height": 84
           }
@@ -645,14 +665,14 @@
             "role": "checkbox",
             "bounds": {
               "x": 260,
-              "y": 1640,
+              "y": 2078,
               "width": 180,
               "height": 84
             }
           },
           "bounds": {
             "x": 260,
-            "y": 1640,
+            "y": 2078,
             "width": 180,
             "height": 84
           }
@@ -665,14 +685,14 @@
             "role": "checkbox",
             "bounds": {
               "x": 461,
-              "y": 1640,
+              "y": 2078,
               "width": 138,
               "height": 84
             }
           },
           "bounds": {
             "x": 461,
-            "y": 1640,
+            "y": 2078,
             "width": 138,
             "height": 84
           }
@@ -685,14 +705,14 @@
             "role": "checkbox",
             "bounds": {
               "x": 620,
-              "y": 1640,
+              "y": 2078,
               "width": 189,
               "height": 84
             }
           },
           "bounds": {
             "x": 620,
-            "y": 1640,
+            "y": 2078,
             "width": 189,
             "height": 84
           }
@@ -704,17 +724,17 @@
           "detail": {
             "role": "checkbox",
             "bounds": {
-              "x": 84,
-              "y": 2014,
-              "width": 372,
-              "height": 84
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
             }
           },
           "bounds": {
-            "x": 84,
-            "y": 2014,
-            "width": 372,
-            "height": 84
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
           }
         },
         {
@@ -724,17 +744,17 @@
           "detail": {
             "role": "checkbox",
             "bounds": {
-              "x": 477,
-              "y": 2014,
-              "width": 267,
-              "height": 84
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
             }
           },
           "bounds": {
-            "x": 477,
-            "y": 2014,
-            "width": 267,
-            "height": 84
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
           }
         },
         {
@@ -744,17 +764,17 @@
           "detail": {
             "role": "checkbox",
             "bounds": {
-              "x": 84,
-              "y": 2161,
-              "width": 321,
-              "height": 84
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
             }
           },
           "bounds": {
-            "x": 84,
-            "y": 2161,
-            "width": 321,
-            "height": 84
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
           }
         },
         {
@@ -866,6 +886,34 @@
             "x": 42,
             "y": 777,
             "width": 997,
+            "height": 406
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 860,
+            "y": 1025,
+            "width": 137,
+            "height": 84
+          },
+          "role": "Switch",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 881,
+            "y": 1046,
+            "width": 42,
+            "height": 42
+          },
+          "cornerRadius": 8
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1215,
+            "width": 997,
             "height": 636
           },
           "cornerRadius": 16
@@ -873,7 +921,7 @@
         {
           "bounds": {
             "x": 84,
-            "y": 972,
+            "y": 1410,
             "width": 178,
             "height": 84
           },
@@ -883,7 +931,7 @@
         {
           "bounds": {
             "x": 283,
-            "y": 972,
+            "y": 1410,
             "width": 138,
             "height": 84
           },
@@ -893,7 +941,7 @@
         {
           "bounds": {
             "x": 442,
-            "y": 972,
+            "y": 1410,
             "width": 280,
             "height": 84
           },
@@ -903,7 +951,7 @@
         {
           "bounds": {
             "x": 84,
-            "y": 1119,
+            "y": 1557,
             "width": 299,
             "height": 84
           },
@@ -913,7 +961,7 @@
         {
           "bounds": {
             "x": 404,
-            "y": 1119,
+            "y": 1557,
             "width": 269,
             "height": 84
           },
@@ -923,7 +971,7 @@
         {
           "bounds": {
             "x": 694,
-            "y": 1119,
+            "y": 1557,
             "width": 155,
             "height": 84
           },
@@ -933,7 +981,7 @@
         {
           "bounds": {
             "x": 84,
-            "y": 1266,
+            "y": 1704,
             "width": 189,
             "height": 84
           },
@@ -943,7 +991,7 @@
         {
           "bounds": {
             "x": 42,
-            "y": 1445,
+            "y": 1883,
             "width": 997,
             "height": 342
           },
@@ -952,7 +1000,7 @@
         {
           "bounds": {
             "x": 84,
-            "y": 1640,
+            "y": 2078,
             "width": 155,
             "height": 84
           },
@@ -962,7 +1010,7 @@
         {
           "bounds": {
             "x": 260,
-            "y": 1640,
+            "y": 2078,
             "width": 180,
             "height": 84
           },
@@ -972,7 +1020,7 @@
         {
           "bounds": {
             "x": 461,
-            "y": 1640,
+            "y": 2078,
             "width": 138,
             "height": 84
           },
@@ -982,7 +1030,7 @@
         {
           "bounds": {
             "x": 620,
-            "y": 1640,
+            "y": 2078,
             "width": 189,
             "height": 84
           },
@@ -992,48 +1040,18 @@
         {
           "bounds": {
             "x": 42,
-            "y": 1819,
+            "y": 2257,
             "width": 997,
-            "height": 489
+            "height": 144
           },
           "cornerRadius": 16
         },
         {
           "bounds": {
-            "x": 84,
-            "y": 2014,
-            "width": 372,
-            "height": 84
-          },
-          "role": "Checkbox",
-          "cornerRadius": 16
-        },
-        {
-          "bounds": {
-            "x": 477,
-            "y": 2014,
-            "width": 267,
-            "height": 84
-          },
-          "role": "Checkbox",
-          "cornerRadius": 16
-        },
-        {
-          "bounds": {
-            "x": 84,
-            "y": 2161,
-            "width": 321,
-            "height": 84
-          },
-          "role": "Checkbox",
-          "cornerRadius": 16
-        },
-        {
-          "bounds": {
-            "x": 42,
-            "y": 2340,
-            "width": 997,
-            "height": 61
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
           },
           "cornerRadius": 16
         }
@@ -1152,19 +1170,39 @@
         {
           "kind": "a11y",
           "severity": "info",
+          "message": "switch",
+          "detail": {
+            "role": "switch",
+            "bounds": {
+              "x": 860,
+              "y": 1025,
+              "width": 137,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 860,
+            "y": 1025,
+            "width": 137,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
           "message": "checkbox",
           "detail": {
             "role": "checkbox",
             "bounds": {
               "x": 84,
-              "y": 972,
+              "y": 1410,
               "width": 155,
               "height": 84
             }
           },
           "bounds": {
             "x": 84,
-            "y": 972,
+            "y": 1410,
             "width": 155,
             "height": 84
           }
@@ -1177,14 +1215,14 @@
             "role": "checkbox",
             "bounds": {
               "x": 260,
-              "y": 972,
+              "y": 1410,
               "width": 178,
               "height": 84
             }
           },
           "bounds": {
             "x": 260,
-            "y": 972,
+            "y": 1410,
             "width": 178,
             "height": 84
           }
@@ -1197,14 +1235,14 @@
             "role": "checkbox",
             "bounds": {
               "x": 459,
-              "y": 972,
+              "y": 1410,
               "width": 138,
               "height": 84
             }
           },
           "bounds": {
             "x": 459,
-            "y": 972,
+            "y": 1410,
             "width": 138,
             "height": 84
           }
@@ -1217,14 +1255,14 @@
             "role": "checkbox",
             "bounds": {
               "x": 618,
-              "y": 972,
+              "y": 1410,
               "width": 299,
               "height": 84
             }
           },
           "bounds": {
             "x": 618,
-            "y": 972,
+            "y": 1410,
             "width": 299,
             "height": 84
           }
@@ -1237,14 +1275,14 @@
             "role": "checkbox",
             "bounds": {
               "x": 84,
-              "y": 1119,
+              "y": 1557,
               "width": 280,
               "height": 84
             }
           },
           "bounds": {
             "x": 84,
-            "y": 1119,
+            "y": 1557,
             "width": 280,
             "height": 84
           }
@@ -1257,14 +1295,14 @@
             "role": "checkbox",
             "bounds": {
               "x": 385,
-              "y": 1119,
+              "y": 1557,
               "width": 269,
               "height": 84
             }
           },
           "bounds": {
             "x": 385,
-            "y": 1119,
+            "y": 1557,
             "width": 269,
             "height": 84
           }
@@ -1277,14 +1315,14 @@
             "role": "checkbox",
             "bounds": {
               "x": 675,
-              "y": 1119,
+              "y": 1557,
               "width": 189,
               "height": 84
             }
           },
           "bounds": {
             "x": 675,
-            "y": 1119,
+            "y": 1557,
             "width": 189,
             "height": 84
           }
@@ -1297,14 +1335,14 @@
             "role": "checkbox",
             "bounds": {
               "x": 84,
-              "y": 1493,
+              "y": 1931,
               "width": 180,
               "height": 84
             }
           },
           "bounds": {
             "x": 84,
-            "y": 1493,
+            "y": 1931,
             "width": 180,
             "height": 84
           }
@@ -1317,14 +1355,14 @@
             "role": "checkbox",
             "bounds": {
               "x": 285,
-              "y": 1493,
+              "y": 1931,
               "width": 138,
               "height": 84
             }
           },
           "bounds": {
             "x": 285,
-            "y": 1493,
+            "y": 1931,
             "width": 138,
             "height": 84
           }
@@ -1337,14 +1375,14 @@
             "role": "checkbox",
             "bounds": {
               "x": 444,
-              "y": 1493,
+              "y": 1931,
               "width": 155,
               "height": 84
             }
           },
           "bounds": {
             "x": 444,
-            "y": 1493,
+            "y": 1931,
             "width": 155,
             "height": 84
           }
@@ -1357,14 +1395,14 @@
             "role": "checkbox",
             "bounds": {
               "x": 620,
-              "y": 1493,
+              "y": 1931,
               "width": 189,
               "height": 84
             }
           },
           "bounds": {
             "x": 620,
-            "y": 1493,
+            "y": 1931,
             "width": 189,
             "height": 84
           }
@@ -1377,16 +1415,16 @@
             "role": "checkbox",
             "bounds": {
               "x": 84,
-              "y": 1867,
+              "y": 2284,
               "width": 372,
-              "height": 84
+              "height": 42
             }
           },
           "bounds": {
             "x": 84,
-            "y": 1867,
+            "y": 2284,
             "width": 372,
-            "height": 84
+            "height": 42
           }
         },
         {
@@ -1396,17 +1434,17 @@
           "detail": {
             "role": "checkbox",
             "bounds": {
-              "x": 477,
-              "y": 1867,
-              "width": 267,
-              "height": 84
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
             }
           },
           "bounds": {
-            "x": 477,
-            "y": 1867,
-            "width": 267,
-            "height": 84
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
           }
         },
         {
@@ -1416,17 +1454,17 @@
           "detail": {
             "role": "checkbox",
             "bounds": {
-              "x": 84,
-              "y": 2014,
-              "width": 321,
-              "height": 84
+              "x": 0,
+              "y": 0,
+              "width": 0,
+              "height": 0
             }
           },
           "bounds": {
-            "x": 84,
-            "y": 2014,
-            "width": 321,
-            "height": 84
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
           }
         },
         {
@@ -1538,6 +1576,34 @@
             "x": 42,
             "y": 777,
             "width": 997,
+            "height": 406
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 860,
+            "y": 1025,
+            "width": 137,
+            "height": 84
+          },
+          "role": "Switch",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 881,
+            "y": 1046,
+            "width": 42,
+            "height": 42
+          },
+          "cornerRadius": 8
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1215,
+            "width": 997,
             "height": 489
           },
           "cornerRadius": 16
@@ -1545,7 +1611,7 @@
         {
           "bounds": {
             "x": 84,
-            "y": 972,
+            "y": 1410,
             "width": 155,
             "height": 84
           },
@@ -1555,7 +1621,7 @@
         {
           "bounds": {
             "x": 260,
-            "y": 972,
+            "y": 1410,
             "width": 178,
             "height": 84
           },
@@ -1565,7 +1631,7 @@
         {
           "bounds": {
             "x": 459,
-            "y": 972,
+            "y": 1410,
             "width": 138,
             "height": 84
           },
@@ -1575,7 +1641,7 @@
         {
           "bounds": {
             "x": 618,
-            "y": 972,
+            "y": 1410,
             "width": 299,
             "height": 84
           },
@@ -1585,7 +1651,7 @@
         {
           "bounds": {
             "x": 84,
-            "y": 1119,
+            "y": 1557,
             "width": 280,
             "height": 84
           },
@@ -1595,7 +1661,7 @@
         {
           "bounds": {
             "x": 385,
-            "y": 1119,
+            "y": 1557,
             "width": 269,
             "height": 84
           },
@@ -1605,7 +1671,7 @@
         {
           "bounds": {
             "x": 675,
-            "y": 1119,
+            "y": 1557,
             "width": 189,
             "height": 84
           },
@@ -1615,7 +1681,7 @@
         {
           "bounds": {
             "x": 42,
-            "y": 1298,
+            "y": 1736,
             "width": 997,
             "height": 342
           },
@@ -1624,7 +1690,7 @@
         {
           "bounds": {
             "x": 84,
-            "y": 1493,
+            "y": 1931,
             "width": 180,
             "height": 84
           },
@@ -1634,7 +1700,7 @@
         {
           "bounds": {
             "x": 285,
-            "y": 1493,
+            "y": 1931,
             "width": 138,
             "height": 84
           },
@@ -1644,7 +1710,7 @@
         {
           "bounds": {
             "x": 444,
-            "y": 1493,
+            "y": 1931,
             "width": 155,
             "height": 84
           },
@@ -1654,7 +1720,7 @@
         {
           "bounds": {
             "x": 620,
-            "y": 1493,
+            "y": 1931,
             "width": 189,
             "height": 84
           },
@@ -1664,48 +1730,28 @@
         {
           "bounds": {
             "x": 42,
-            "y": 1672,
+            "y": 2110,
             "width": 997,
-            "height": 489
+            "height": 216
           },
           "cornerRadius": 16
         },
         {
           "bounds": {
             "x": 84,
-            "y": 1867,
+            "y": 2284,
             "width": 372,
-            "height": 84
+            "height": 42
           },
           "role": "Checkbox",
-          "cornerRadius": 16
-        },
-        {
-          "bounds": {
-            "x": 477,
-            "y": 1867,
-            "width": 267,
-            "height": 84
-          },
-          "role": "Checkbox",
-          "cornerRadius": 16
-        },
-        {
-          "bounds": {
-            "x": 84,
-            "y": 2014,
-            "width": 321,
-            "height": 84
-          },
-          "role": "Checkbox",
-          "cornerRadius": 16
+          "cornerRadius": 14.29
         },
         {
           "bounds": {
             "x": 42,
-            "y": 2193,
+            "y": 2358,
             "width": 997,
-            "height": 208
+            "height": 43
           },
           "cornerRadius": 16
         }
@@ -1784,19 +1830,39 @@
         {
           "kind": "a11y",
           "severity": "info",
+          "message": "switch",
+          "detail": {
+            "role": "switch",
+            "bounds": {
+              "x": 860,
+              "y": 1025,
+              "width": 137,
+              "height": 84
+            }
+          },
+          "bounds": {
+            "x": 860,
+            "y": 1025,
+            "width": 137,
+            "height": 84
+          }
+        },
+        {
+          "kind": "a11y",
+          "severity": "info",
           "message": "checkbox",
           "detail": {
             "role": "checkbox",
             "bounds": {
               "x": 84,
-              "y": 972,
+              "y": 1410,
               "width": 197,
               "height": 84
             }
           },
           "bounds": {
             "x": 84,
-            "y": 972,
+            "y": 1410,
             "width": 197,
             "height": 84
           }
@@ -1809,14 +1875,14 @@
             "role": "checkbox",
             "bounds": {
               "x": 302,
-              "y": 972,
+              "y": 1410,
               "width": 236,
               "height": 84
             }
           },
           "bounds": {
             "x": 302,
-            "y": 972,
+            "y": 1410,
             "width": 236,
             "height": 84
           }
@@ -1829,14 +1895,14 @@
             "role": "checkbox",
             "bounds": {
               "x": 84,
-              "y": 1346,
+              "y": 1784,
               "width": 155,
               "height": 84
             }
           },
           "bounds": {
             "x": 84,
-            "y": 1346,
+            "y": 1784,
             "width": 155,
             "height": 84
           }
@@ -1849,14 +1915,14 @@
             "role": "checkbox",
             "bounds": {
               "x": 260,
-              "y": 1346,
+              "y": 1784,
               "width": 178,
               "height": 84
             }
           },
           "bounds": {
             "x": 260,
-            "y": 1346,
+            "y": 1784,
             "width": 178,
             "height": 84
           }
@@ -1869,14 +1935,14 @@
             "role": "checkbox",
             "bounds": {
               "x": 459,
-              "y": 1346,
+              "y": 1784,
               "width": 138,
               "height": 84
             }
           },
           "bounds": {
             "x": 459,
-            "y": 1346,
+            "y": 1784,
             "width": 138,
             "height": 84
           }
@@ -1889,14 +1955,14 @@
             "role": "checkbox",
             "bounds": {
               "x": 618,
-              "y": 1346,
+              "y": 1784,
               "width": 190,
               "height": 84
             }
           },
           "bounds": {
             "x": 618,
-            "y": 1346,
+            "y": 1784,
             "width": 190,
             "height": 84
           }
@@ -1909,14 +1975,14 @@
             "role": "checkbox",
             "bounds": {
               "x": 84,
-              "y": 1720,
+              "y": 2158,
               "width": 195,
               "height": 84
             }
           },
           "bounds": {
             "x": 84,
-            "y": 1720,
+            "y": 2158,
             "width": 195,
             "height": 84
           }
@@ -1929,14 +1995,14 @@
             "role": "checkbox",
             "bounds": {
               "x": 300,
-              "y": 1720,
+              "y": 2158,
               "width": 197,
               "height": 84
             }
           },
           "bounds": {
             "x": 300,
-            "y": 1720,
+            "y": 2158,
             "width": 197,
             "height": 84
           }
@@ -1949,14 +2015,14 @@
             "role": "checkbox",
             "bounds": {
               "x": 518,
-              "y": 1720,
+              "y": 2158,
               "width": 195,
               "height": 84
             }
           },
           "bounds": {
             "x": 518,
-            "y": 1720,
+            "y": 2158,
             "width": 195,
             "height": 84
           }
@@ -2094,6 +2160,34 @@
             "x": 42,
             "y": 777,
             "width": 997,
+            "height": 406
+          },
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 860,
+            "y": 1025,
+            "width": 137,
+            "height": 84
+          },
+          "role": "Switch",
+          "cornerRadius": 16
+        },
+        {
+          "bounds": {
+            "x": 881,
+            "y": 1046,
+            "width": 42,
+            "height": 42
+          },
+          "cornerRadius": 8
+        },
+        {
+          "bounds": {
+            "x": 42,
+            "y": 1215,
+            "width": 997,
             "height": 342
           },
           "cornerRadius": 16
@@ -2101,7 +2195,7 @@
         {
           "bounds": {
             "x": 84,
-            "y": 972,
+            "y": 1410,
             "width": 197,
             "height": 84
           },
@@ -2111,7 +2205,7 @@
         {
           "bounds": {
             "x": 302,
-            "y": 972,
+            "y": 1410,
             "width": 236,
             "height": 84
           },
@@ -2121,7 +2215,7 @@
         {
           "bounds": {
             "x": 42,
-            "y": 1151,
+            "y": 1589,
             "width": 997,
             "height": 342
           },
@@ -2130,7 +2224,7 @@
         {
           "bounds": {
             "x": 84,
-            "y": 1346,
+            "y": 1784,
             "width": 155,
             "height": 84
           },
@@ -2140,7 +2234,7 @@
         {
           "bounds": {
             "x": 260,
-            "y": 1346,
+            "y": 1784,
             "width": 178,
             "height": 84
           },
@@ -2150,7 +2244,7 @@
         {
           "bounds": {
             "x": 459,
-            "y": 1346,
+            "y": 1784,
             "width": 138,
             "height": 84
           },
@@ -2160,7 +2254,7 @@
         {
           "bounds": {
             "x": 618,
-            "y": 1346,
+            "y": 1784,
             "width": 190,
             "height": 84
           },
@@ -2170,7 +2264,7 @@
         {
           "bounds": {
             "x": 42,
-            "y": 1525,
+            "y": 1963,
             "width": 997,
             "height": 342
           },
@@ -2179,7 +2273,7 @@
         {
           "bounds": {
             "x": 84,
-            "y": 1720,
+            "y": 2158,
             "width": 195,
             "height": 84
           },
@@ -2189,7 +2283,7 @@
         {
           "bounds": {
             "x": 300,
-            "y": 1720,
+            "y": 2158,
             "width": 197,
             "height": 84
           },
@@ -2199,7 +2293,7 @@
         {
           "bounds": {
             "x": 518,
-            "y": 1720,
+            "y": 2158,
             "width": 195,
             "height": 84
           },
@@ -7318,8 +7412,8 @@
   "library": [
     "androidx.compose.material3:material3-a2ui"
   ],
-  "renderer": "compose-preview 2.90.0",
-  "generatedAt": "2026-11-13T18:55:32.369Z",
+  "renderer": "compose-preview 2.101.0",
+  "generatedAt": "2026-11-21T14:33:51.553Z",
   "display": {
     "role": "samples",
     "hero": "Button"

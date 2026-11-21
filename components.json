@@ -4932,7 +4932,10 @@
             "componentIds": [
                 "CheckBox",
                 "ChoicePicker",
-                "Icon"
+                "Column",
+                "Icon",
+                "List",
+                "Row"
             ],
             "symbol": {
                 "jvmOwner": "androidx.compose.material3.SwitchKt",
@@ -5057,9 +5060,24 @@
                     "group": "Input"
                 },
                 {
+                    "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ColumnSamplePreview_Column",
+                    "componentId": "Column",
+                    "group": "Layout"
+                },
+                {
                     "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.IconSamplePreview_Icon",
                     "componentId": "Icon",
                     "group": "Content"
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ListSamplePreview_List",
+                    "componentId": "List",
+                    "group": "Layout"
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.RowSamplePreview_Row",
+                    "componentId": "Row",
+                    "group": "Layout"
                 }
             ],
             "code": {
@@ -6863,6 +6881,76 @@
             "androidxOptIns": [],
             "overloads": [
                 {
+                    "descriptor": "(Landroidx/collection/IntList;ILkotlin/jvm/functions/Function1;Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function1;Landroidx/compose/runtime/Composer;II)V",
+                    "parameters": [
+                        {
+                            "name": "options",
+                            "type": "IntList",
+                            "typeFqn": "androidx.collection.IntList",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "selectedOption",
+                            "type": "Int",
+                            "typeFqn": "kotlin.Int",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "onOptionSelected",
+                            "type": "(Int) -> Unit",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": false,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.Unit"
+                        },
+                        {
+                            "name": "modifier",
+                            "type": "Modifier",
+                            "typeFqn": "androidx.compose.ui.Modifier",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": null
+                        },
+                        {
+                            "name": "label",
+                            "type": "(Int) -> String",
+                            "typeFqn": "kotlin.Function1",
+                            "hasDefault": true,
+                            "composableSlot": false,
+                            "composableSlotReceiver": null,
+                            "nullable": false,
+                            "noArgConstructible": false,
+                            "noArgFactory": null,
+                            "scopeDslReceiver": null,
+                            "lambdaReturnTypeFqn": "kotlin.String"
+                        }
+                    ]
+                },
+                {
                     "descriptor": "(Ljava/util/List;Ljava/lang/Object;Lkotlin/jvm/functions/Function1;Landroidx/compose/ui/Modifier;Lkotlin/jvm/functions/Function1;Landroidx/compose/runtime/Composer;II)V",
                     "parameters": [
                         {
@@ -7433,7 +7521,10 @@
             "componentIds": [
                 "CheckBox",
                 "ChoicePicker",
-                "Icon"
+                "Column",
+                "Icon",
+                "List",
+                "Row"
             ],
             "symbol": {
                 "jvmOwner": "androidx.compose.material3.integration.a2ui.ui.ControlComponentsKt",
@@ -7526,9 +7617,24 @@
                     "group": "Input"
                 },
                 {
+                    "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ColumnSamplePreview_Column",
+                    "componentId": "Column",
+                    "group": "Layout"
+                },
+                {
                     "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.IconSamplePreview_Icon",
                     "componentId": "Icon",
                     "group": "Content"
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ListSamplePreview_List",
+                    "componentId": "List",
+                    "group": "Layout"
+                },
+                {
+                    "previewId": "ee.schimke.a2uicatalog.samples.SamplePreviewsKt.RowSamplePreview_Row",
+                    "componentId": "Row",
+                    "group": "Layout"
                 }
             ],
             "code": {
