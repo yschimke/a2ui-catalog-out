@@ -1,15 +1,15 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-13T19:01:01.595Z",
+  "generatedAt": "2026-11-21T14:38:44.444Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
       {
-        "sha": "eaefdf108cae234bef85963d4faf5f5b2a3a5654",
-        "subject": "fix(deps): update kotlin to v2.4.21 (#19)",
-        "at": "2026-10-16T22:49:54Z",
+        "sha": "b148d86a6d60ef3f12e9f1cea5d472b31bdac0c3",
+        "subject": "chore(deps): update dependency com.ncorti.ktfmt.gradle to v0.28.0 (#50)",
+        "at": "2026-11-20T07:20:21Z",
         "author": "renovate[bot]",
         "previewIds": [
           "button__ideal__default",
