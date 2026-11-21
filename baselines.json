@@ -452,7 +452,7 @@
     "functionName": "ColumnSamplePreview",
     "module": "samples-catalog",
     "renderBasename": "ColumnSamplePreview_Column-62aa0e96.png",
-    "sha256": "cdec679d047a111fd4a0d353ff92e322fceef0571df276ec711effdc4577c61f",
+    "sha256": "dad450d7f6c31b53c83c7589b494634577b331c6cb37bac16b038b2dca4d6f97",
     "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt"
   },
   "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ComponentListPreview_Component list": {
@@ -500,7 +500,7 @@
     "functionName": "ListSamplePreview",
     "module": "samples-catalog",
     "renderBasename": "ListSamplePreview_List-ba7411fb.png",
-    "sha256": "1d637d4fa29b6a58fd9625eeeb6420a16bc9282bc228e3c9735fc460f24749c2",
+    "sha256": "f94bd817d42e22b8f7c14904906336f895b7858df987eb347d0b37b7f2123efc",
     "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt"
   },
   "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.ModalSamplePreview_Modal": {
@@ -516,7 +516,7 @@
     "functionName": "RowSamplePreview",
     "module": "samples-catalog",
     "renderBasename": "RowSamplePreview_Row-fc3d48a2.png",
-    "sha256": "7f54b3a731baaa5e35f5e89c565633d8fe0a6adad11f1f247fa0d12f163bbb66",
+    "sha256": "84a38089db4edea725858871e680e44b45dce322fe0f3fe02679f2843cf0830b",
     "sourceFile": "src/main/kotlin/ee/schimke/a2uicatalog/samples/SamplePreviews.kt"
   },
   "samples-catalog/ee.schimke.a2uicatalog.samples.SamplePreviewsKt.SliderSamplePreview_Slider": {
