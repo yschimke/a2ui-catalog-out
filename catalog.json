@@ -7412,8 +7412,8 @@
   "library": [
     "androidx.compose.material3:material3-a2ui"
   ],
-  "renderer": "compose-preview 2.101.0",
-  "generatedAt": "2026-11-21T14:33:51.553Z",
+  "renderer": "compose-preview 2.103.0",
+  "generatedAt": "2026-11-22T01:24:54.233Z",
   "display": {
     "role": "samples",
     "hero": "Button"

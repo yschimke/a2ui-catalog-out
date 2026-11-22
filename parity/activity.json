@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-21T14:34:08.778Z",
+  "generatedAt": "2026-11-22T01:25:10.606Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "260380457f4c0bab7c7c4a2b69488b7e5949353b",
+        "subject": "chore(deps): update compose-ai-tools to v2.103.0 (#83)",
+        "at": "2026-11-22T01:19:41Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "85a2719695e79f6dcd3143d377f700a6bb806505",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.28.2 (#82)",
@@ -370,22 +378,6 @@
         "sha": "b0fb0b258f10b327cc0d6f84c4bd79f8d6170d00",
         "subject": "chore(deps): update github-actions (#38)",
         "at": "2026-10-29T12:09:15Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "cec07398d4879c47f9ba99df77032df0993aab9a",
-        "subject": "chore(deps): update dependency java-jdk to v21.0.13+9.0.lts (#35)",
-        "at": "2026-10-22T17:42:14Z",
-        "author": "renovate[bot]",
-        "previewIds": [],
-        "components": []
-      },
-      {
-        "sha": "929ccc6b15163df8cad1c1e7d1ff17bad2dd541a",
-        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.22.0 (#36)",
-        "at": "2026-10-22T17:40:23Z",
         "author": "renovate[bot]",
         "previewIds": [],
         "components": []
