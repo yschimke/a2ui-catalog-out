@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-25T00:11:17.614Z",
+  "generatedAt": "2026-11-25T06:57:04.950Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "8f10fb96031b749a60d7e494ffc7b55f9d68e626",
+        "subject": "fix(deps): update dependency org.robolectric:robolectric to v4.18.1 (#88)",
+        "at": "2026-11-25T06:49:36Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "96700302bddc28648e98cf020fe8a571d48837a4",
         "subject": "chore(deps): update compose-ai-tools to v2.104.0 (#87)",
