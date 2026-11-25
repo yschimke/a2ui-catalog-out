@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-25T00:04:16.190Z",
+  "generatedAt": "2026-11-25T00:11:17.614Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "96700302bddc28648e98cf020fe8a571d48837a4",
+        "subject": "chore(deps): update compose-ai-tools to v2.104.0 (#87)",
+        "at": "2026-11-25T00:01:46Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "a97a624d87e01c4e80505ab1460dab127819db84",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.29.1 (#86)",
