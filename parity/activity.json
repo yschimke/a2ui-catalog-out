@@ -1,11 +1,27 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-23T06:09:52.781Z",
+  "generatedAt": "2026-11-25T00:04:16.190Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "a97a624d87e01c4e80505ab1460dab127819db84",
+        "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.29.1 (#86)",
+        "at": "2026-11-24T23:59:41Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
+      {
+        "sha": "16f2db11256fb96c1e4dde1f8aedfc821db9841a",
+        "subject": "chore(deps): update amannn/action-semantic-pull-request action to v6.1.4 (#85)",
+        "at": "2026-11-24T23:59:37Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "a51d6c46a9b355ff9babee1bd870671e1ee0c6a0",
         "subject": "fix(deps): update dependency ee.schimke.composeai:compose-preview-daemon-bom to v3.29.0 (#84)",
