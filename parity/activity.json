@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-25T06:57:04.950Z",
+  "generatedAt": "2026-11-27T01:50:57.695Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "f80c7546651938f94fdb252211a24528c2cc618c",
+        "subject": "chore(deps): update dependency com.android.library to v9.5.3 (#89)",
+        "at": "2026-11-27T01:46:28Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "8f10fb96031b749a60d7e494ffc7b55f9d68e626",
         "subject": "fix(deps): update dependency org.robolectric:robolectric to v4.18.1 (#88)",
