@@ -1,6 +1,6 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-25T07:00:18.101Z",
+  "generatedAt": "2026-11-27T01:58:13.394Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
@@ -10,6 +10,34 @@
         "sha": "b148d86a6d60ef3f12e9f1cea5d472b31bdac0c3",
         "subject": "chore(deps): update dependency com.ncorti.ktfmt.gradle to v0.28.0 (#50)",
         "at": "2026-11-20T07:20:21Z",
+        "author": "renovate[bot]",
+        "previewIds": [
+          "button__ideal__default",
+          "card__ideal__default",
+          "tabs__ideal__default",
+          "divider__ideal__default",
+          "checkbox__ideal__default",
+          "choicepicker__ideal__default",
+          "datetimeinput__ideal__default",
+          "slider__ideal__default",
+          "textfield__ideal__default"
+        ],
+        "components": [
+          "Button",
+          "Card",
+          "Tabs",
+          "Divider",
+          "CheckBox",
+          "ChoicePicker",
+          "DateTimeInput",
+          "Slider",
+          "TextField"
+        ]
+      },
+      {
+        "sha": "b0fb0b258f10b327cc0d6f84c4bd79f8d6170d00",
+        "subject": "chore(deps): update github-actions (#38)",
+        "at": "2026-10-29T12:09:15Z",
         "author": "renovate[bot]",
         "previewIds": [
           "button__ideal__default",
