@@ -1,11 +1,19 @@
 {
   "schema": "compose-preview-activity/v1",
-  "generatedAt": "2026-11-27T01:50:57.695Z",
+  "generatedAt": "2026-11-27T17:08:54.938Z",
   "windowDays": 30,
   "code": {
     "repo": "yschimke/a2ui-catalog",
     "ref": "main",
     "events": [
+      {
+        "sha": "a7e875ff36308849c6608ae10228e275436dbc11",
+        "subject": "chore(deps): update gradle to v9.9.3 (#90)",
+        "at": "2026-11-27T17:04:29Z",
+        "author": "renovate[bot]",
+        "previewIds": [],
+        "components": []
+      },
       {
         "sha": "f80c7546651938f94fdb252211a24528c2cc618c",
         "subject": "chore(deps): update dependency com.android.library to v9.5.3 (#89)",
